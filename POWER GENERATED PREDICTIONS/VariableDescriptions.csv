@@ -1,0 +1,11 @@
+Variables,Description
+distance_to_solar_noon,Angular distance to solar noon measured in radians.
+temperature,Daily average temperature measured in degrees Celsius.
+wind_direction,Daily average wind direction measured in degrees (0-360).
+wind_speed,Daily average wind speed measured in meters per second.
+sky_cover.,Sky cover on a five-step scale from 0 to 4 with 0 completely clear and 4 wholly covered.
+visibility,Atmospheric visibility measured in kilometers.
+humidity,Relative humidity expressed as a percentage.
+average_wind_speed,"Average wind speed during the 3 hours, the measure was taken in meters per second."
+average_pressure,"Average barometric pressure during the 3 hours, the measure was taken in millimetre of mercury."
+power_generated,Solar PV power generated in Joules for each 3 hours.

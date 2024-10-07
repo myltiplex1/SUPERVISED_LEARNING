@@ -1,0 +1,2022 @@
+player_id,player_name,runs_scored,wickets,runs_conceded,catches,stumpings,match_date,opposition,match_id
+1,Rohit Sharma,DNB,-,-,1,0,23 Jun 2007,v Ireland Belfast,1
+1,Rohit Sharma,8,0,3,1,0,26 Jun 2007,v South Africa Belfast,2
+1,Rohit Sharma,1,-,-,0,0,5 Oct 2007,v Australia Hyderabad,3
+1,Rohit Sharma,52,-,-,1,0,18 Nov 2007,v Pakistan Jaipur,4
+1,Rohit Sharma,29,-,-,0,0,3 Feb 2008,v Australia Brisbane,5
+1,Rohit Sharma,0,-,-,-,-,5 Feb 2008,v Sri Lanka Brisbane,6
+1,Rohit Sharma,39*,-,-,1,0,10 Feb 2008,v Australia Melbourne,7
+1,Rohit Sharma,70*,-,-,0,0,12 Feb 2008,v Sri Lanka Canberra,8
+1,Rohit Sharma,1,-,-,1,0,17 Feb 2008,v Australia Adelaide,9
+1,Rohit Sharma,24,-,-,0,0,19 Feb 2008,v Sri Lanka Adelaide,10
+1,Rohit Sharma,1,-,-,1,0,24 Feb 2008,v Australia Sydney,11
+1,Rohit Sharma,3*,-,-,1,0,26 Feb 2008,v Sri Lanka Hobart,12
+1,Rohit Sharma,66,0,5,1,0,2 Mar 2008,v Australia Sydney,13
+1,Rohit Sharma,2,-,-,0,0,4 Mar 2008,v Australia Brisbane,14
+1,Rohit Sharma,9,-,-,1,0,10 Jun 2008,v Pakistan Mirpur,15
+1,Rohit Sharma,26,-,-,0,0,12 Jun 2008,v Bangladesh Mirpur,16
+1,Rohit Sharma,24,-,-,1,0,14 Jun 2008,v Pakistan Mirpur,17
+1,Rohit Sharma,11,-,-,0,0,25 Jun 2008,v Hong Kong Karachi,18
+1,Rohit Sharma,0*,-,-,0,0,26 Jun 2008,v Pakistan Karachi,19
+1,Rohit Sharma,22,-,-,0,0,28 Jun 2008,v Bangladesh Karachi,20
+1,Rohit Sharma,58,-,-,0,0,2 Jul 2008,v Pakistan Karachi,21
+1,Rohit Sharma,22*,0,4,0,0,3 Jul 2008,v Sri Lanka Karachi,22
+1,Rohit Sharma,3,0,11,1,0,6 Jul 2008,v Sri Lanka Karachi,23
+1,Rohit Sharma,19,0,11,0,0,18 Aug 2008,v Sri Lanka Dambulla,24
+4,Virat Kohli,12,-,-,0,0,18 Aug 2008,v Sri Lanka Dambulla,24
+1,Rohit Sharma,0,-,-,0,0,20 Aug 2008,v Sri Lanka Dambulla,25
+4,Virat Kohli,37,-,-,3,0,20 Aug 2008,v Sri Lanka Dambulla,25
+1,Rohit Sharma,32,0,9,0,0,24 Aug 2008,v Sri Lanka Colombo (RPS),26
+4,Virat Kohli,25,-,-,0,0,24 Aug 2008,v Sri Lanka Colombo (RPS),26
+1,Rohit Sharma,18,0,13,0,0,27 Aug 2008,v Sri Lanka Colombo (RPS),27
+4,Virat Kohli,54,-,-,0,0,27 Aug 2008,v Sri Lanka Colombo (RPS),27
+1,Rohit Sharma,3,0,7,0,0,29 Aug 2008,v Sri Lanka Colombo (RPS),28
+4,Virat Kohli,31,-,-,0,0,29 Aug 2008,v Sri Lanka Colombo (RPS),28
+1,Rohit Sharma,11*,-,-,0,0,14 Nov 2008,v England Rajkot,29
+1,Rohit Sharma,3,-,-,0,0,17 Nov 2008,v England Indore,30
+1,Rohit Sharma,28,-,-,0,0,20 Nov 2008,v England Kanpur,31
+1,Rohit Sharma,8*,-,-,0,0,26 Nov 2008,v England Cuttack,32
+1,Rohit Sharma,25*,0,22,1,0,28 Jan 2009,v Sri Lanka Dambulla,33
+1,Rohit Sharma,4*,-,-,2,0,5 Feb 2009,v Sri Lanka Colombo (RPS),34
+1,Rohit Sharma,15,0,13,1,0,8 Feb 2009,v Sri Lanka Colombo (RPS),35
+7,Ravindra Jadeja,60*,0,40,0,0,8 Feb 2009,v Sri Lanka Colombo (RPS),35
+1,Rohit Sharma,DNB,-,-,1,0,11 Mar 2009,v New Zealand Hamilton,36
+1,Rohit Sharma,43*,-,-,0,0,14 Mar 2009,v New Zealand Auckland,37
+1,Rohit Sharma,4,-,-,2,0,26 Jun 2009,v West Indies Kingston,38
+7,Ravindra Jadeja,0,0,34,1,0,26 Jun 2009,v West Indies Kingston,38
+1,Rohit Sharma,0,2,27,0,0,28 Jun 2009,v West Indies Kingston,39
+7,Ravindra Jadeja,7,0,12,0,0,28 Jun 2009,v West Indies Kingston,39
+1,Rohit Sharma,11,0,7,0,0,3 Jul 2009,v West Indies Gros Islet,40
+1,Rohit Sharma,TDNB,-,-,0,0,5 Jul 2009,v West Indies Gros Islet,41
+1,Rohit Sharma,48,0,28,0,0,27 Feb 2010,v South Africa Ahmedabad,42
+4,Virat Kohli,57,0,11,0,0,27 Feb 2010,v South Africa Ahmedabad,42
+7,Ravindra Jadeja,36,1,53,1,0,27 Feb 2010,v South Africa Ahmedabad,42
+1,Rohit Sharma,114,0,5,0,0,28 May 2010,v Zimbabwe Bulawayo,43
+4,Virat Kohli,0,-,-,0,0,28 May 2010,v Zimbabwe Bulawayo,43
+7,Ravindra Jadeja,61*,1,51,0,0,28 May 2010,v Zimbabwe Bulawayo,43
+1,Rohit Sharma,101*,-,-,0,0,30 May 2010,v Sri Lanka Bulawayo,44
+4,Virat Kohli,82,-,-,0,0,30 May 2010,v Sri Lanka Bulawayo,44
+7,Ravindra Jadeja,DNB,2,49,0,0,30 May 2010,v Sri Lanka Bulawayo,44
+1,Rohit Sharma,13,-,-,0,0,3 Jun 2010,v Zimbabwe Harare,45
+4,Virat Kohli,18,-,-,1,0,3 Jun 2010,v Zimbabwe Harare,45
+7,Ravindra Jadeja,51,2,27,0,0,3 Jun 2010,v Zimbabwe Harare,45
+1,Rohit Sharma,32,-,-,0,0,5 Jun 2010,v Sri Lanka Harare,46
+4,Virat Kohli,68,-,-,1,0,5 Jun 2010,v Sri Lanka Harare,46
+7,Ravindra Jadeja,19,0,54,0,0,5 Jun 2010,v Sri Lanka Harare,46
+13,Ravichandran ashwin,38,2,50,0,0,5 Jun 2010,v Sri Lanka Harare,46
+1,Rohit Sharma,0,1,5,0,0,16 Jun 2010,v Bangladesh Dambulla,47
+4,Virat Kohli,11,-,-,0,0,16 Jun 2010,v Bangladesh Dambulla,47
+7,Ravindra Jadeja,DNB,1,27,0,0,16 Jun 2010,v Bangladesh Dambulla,47
+1,Rohit Sharma,22,-,-,0,0,19 Jun 2010,v Pakistan Dambulla,48
+4,Virat Kohli,18,-,-,1,0,19 Jun 2010,v Pakistan Dambulla,48
+7,Ravindra Jadeja,6,1,43,0,0,19 Jun 2010,v Pakistan Dambulla,48
+1,Rohit Sharma,69,0,9,0,0,22 Jun 2010,v Sri Lanka Dambulla,49
+4,Virat Kohli,10,-,-,0,0,22 Jun 2010,v Sri Lanka Dambulla,49
+7,Ravindra Jadeja,0,0,29,1,0,22 Jun 2010,v Sri Lanka Dambulla,49
+1,Rohit Sharma,41,-,-,0,0,24 Jun 2010,v Sri Lanka Dambulla,50
+4,Virat Kohli,28,0,16,0,0,24 Jun 2010,v Sri Lanka Dambulla,50
+7,Ravindra Jadeja,25*,2,29,1,0,24 Jun 2010,v Sri Lanka Dambulla,50
+1,Rohit Sharma,4,-,-,0,0,10 Aug 2010,v New Zealand Dambulla,51
+7,Ravindra Jadeja,20,0,63,0,0,10 Aug 2010,v New Zealand Dambulla,51
+1,Rohit Sharma,0,-,-,1,0,16 Aug 2010,v Sri Lanka Dambulla,52
+4,Virat Kohli,0,-,-,0,0,16 Aug 2010,v Sri Lanka Dambulla,52
+7,Ravindra Jadeja,DNB,2,34,1,0,16 Aug 2010,v Sri Lanka Dambulla,52
+1,Rohit Sharma,11,-,-,0,0,22 Aug 2010,v Sri Lanka Dambulla,53
+7,Ravindra Jadeja,0,-,-,1,0,22 Aug 2010,v Sri Lanka Dambulla,53
+1,Rohit Sharma,5,-,-,2,0,28 Aug 2010,v Sri Lanka Dambulla,54
+4,Virat Kohli,37,-,-,0,0,28 Aug 2010,v Sri Lanka Dambulla,54
+1,Rohit Sharma,44,0,19,1,0,7 Dec 2010,v New Zealand Bengaluru,55
+4,Virat Kohli,0,-,-,0,0,7 Dec 2010,v New Zealand Bengaluru,55
+13,Ravichandran ashwin,DNB,2,66,0,0,7 Dec 2010,v New Zealand Bengaluru,55
+1,Rohit Sharma,DNB,-,-,1,0,10 Dec 2010,v New Zealand Chennai,56
+4,Virat Kohli,2,-,-,0,0,10 Dec 2010,v New Zealand Chennai,56
+13,Ravichandran ashwin,DNB,3,24,0,0,10 Dec 2010,v New Zealand Chennai,56
+1,Rohit Sharma,11,2,30,1,0,12 Jan 2011,v South Africa Durban,57
+4,Virat Kohli,54,-,-,0,0,12 Jan 2011,v South Africa Durban,57
+1,Rohit Sharma,9,1,12,0,0,15 Jan 2011,v South Africa Johannesburg,58
+4,Virat Kohli,22,-,-,0,0,15 Jan 2011,v South Africa Johannesburg,58
+1,Rohit Sharma,23,0,5,0,0,18 Jan 2011,v South Africa Cape Town,59
+4,Virat Kohli,28,-,-,3,0,18 Jan 2011,v South Africa Cape Town,59
+1,Rohit Sharma,1,0,6,0,0,21 Jan 2011,v South Africa Gqeberha,60
+4,Virat Kohli,87*,-,-,1,0,21 Jan 2011,v South Africa Gqeberha,60
+1,Rohit Sharma,5,0,14,0,0,23 Jan 2011,v South Africa Centurion,61
+4,Virat Kohli,2,-,-,0,0,23 Jan 2011,v South Africa Centurion,61
+1,Rohit Sharma,68*,-,-,1,0,6 Jun 2011,v West Indies Port of Spain,62
+4,Virat Kohli,2,0,16,1,0,6 Jun 2011,v West Indies Port of Spain,62
+1,Rohit Sharma,7*,-,-,0,0,8 Jun 2011,v West Indies Port of Spain,63
+4,Virat Kohli,81,-,-,0,0,8 Jun 2011,v West Indies Port of Spain,63
+1,Rohit Sharma,86*,-,-,0,0,11 Jun 2011,v West Indies North Sound,64
+4,Virat Kohli,0,0,7,1,0,11 Jun 2011,v West Indies North Sound,64
+1,Rohit Sharma,39,-,-,0,0,13 Jun 2011,v West Indies North Sound,65
+4,Virat Kohli,22,-,-,2,0,13 Jun 2011,v West Indies North Sound,65
+13,Ravichandran ashwin,15,1,39,0,0,13 Jun 2011,v West Indies North Sound,65
+1,Rohit Sharma,57,-,-,0,0,16 Jun 2011,v West Indies Kingston,66
+4,Virat Kohli,94,0,13,0,0,16 Jun 2011,v West Indies Kingston,66
+13,Ravichandran ashwin,8*,0,50,0,0,16 Jun 2011,v West Indies Kingston,66
+1,Rohit Sharma,0*,-,-,0,0,3 Sep 2011,v England Chester-le-Street,67
+4,Virat Kohli,55,-,-,0,0,3 Sep 2011,v England Chester-le-Street,67
+13,Ravichandran ashwin,0,-,-,0,0,3 Sep 2011,v England Chester-le-Street,67
+1,Rohit Sharma,72,0,8,0,0,29 Nov 2011,v West Indies Cuttack,68
+4,Virat Kohli,3,-,-,1,0,29 Nov 2011,v West Indies Cuttack,68
+7,Ravindra Jadeja,38,1,42,0,0,29 Nov 2011,v West Indies Cuttack,68
+13,Ravichandran ashwin,6,1,30,0,0,29 Nov 2011,v West Indies Cuttack,68
+1,Rohit Sharma,90*,-,-,0,0,2 Dec 2011,v West Indies Visakhapatnam,69
+4,Virat Kohli,117,-,-,0,0,2 Dec 2011,v West Indies Visakhapatnam,69
+7,Ravindra Jadeja,9*,2,39,1,0,2 Dec 2011,v West Indies Visakhapatnam,69
+13,Ravichandran ashwin,DNB,1,74,1,0,2 Dec 2011,v West Indies Visakhapatnam,69
+1,Rohit Sharma,95,-,-,0,0,5 Dec 2011,v West Indies Ahmedabad,70
+4,Virat Kohli,20,-,-,0,0,5 Dec 2011,v West Indies Ahmedabad,70
+7,Ravindra Jadeja,11,0,37,1,0,5 Dec 2011,v West Indies Ahmedabad,70
+13,Ravichandran ashwin,31,1,33,0,0,5 Dec 2011,v West Indies Ahmedabad,70
+1,Rohit Sharma,27,0,39,1,0,8 Dec 2011,v West Indies Indore,71
+4,Virat Kohli,23*,-,-,0,0,8 Dec 2011,v West Indies Indore,71
+7,Ravindra Jadeja,10,3,34,1,0,8 Dec 2011,v West Indies Indore,71
+13,Ravichandran ashwin,DNB,1,59,0,0,8 Dec 2011,v West Indies Indore,71
+1,Rohit Sharma,21,-,-,0,0,11 Dec 2011,v West Indies Chennai,72
+4,Virat Kohli,80,0,11,0,0,11 Dec 2011,v West Indies Chennai,72
+7,Ravindra Jadeja,DNB,3,62,0,0,11 Dec 2011,v West Indies Chennai,72
+1,Rohit Sharma,21,1,17,0,0,5 Feb 2012,v Australia Melbourne,73
+4,Virat Kohli,31,0,4,1,0,5 Feb 2012,v Australia Melbourne,73
+7,Ravindra Jadeja,19,0,41,0,0,5 Feb 2012,v Australia Melbourne,73
+13,Ravichandran ashwin,5,0,48,0,0,5 Feb 2012,v Australia Melbourne,73
+1,Rohit Sharma,10,-,-,2,0,8 Feb 2012,v Sri Lanka Perth,74
+4,Virat Kohli,77,-,-,1,0,8 Feb 2012,v Sri Lanka Perth,74
+7,Ravindra Jadeja,24*,1,41,0,0,8 Feb 2012,v Sri Lanka Perth,74
+13,Ravichandran ashwin,30*,3,32,0,0,8 Feb 2012,v Sri Lanka Perth,74
+1,Rohit Sharma,33,0,15,0,0,12 Feb 2012,v Australia Adelaide,75
+4,Virat Kohli,18,-,-,1,0,12 Feb 2012,v Australia Adelaide,75
+7,Ravindra Jadeja,12,0,50,0,0,12 Feb 2012,v Australia Adelaide,75
+13,Ravichandran ashwin,1*,0,47,0,0,12 Feb 2012,v Australia Adelaide,75
+1,Rohit Sharma,15,0,10,0,0,14 Feb 2012,v Sri Lanka Adelaide,76
+4,Virat Kohli,15,-,-,1,0,14 Feb 2012,v Sri Lanka Adelaide,76
+7,Ravindra Jadeja,3,0,58,0,0,14 Feb 2012,v Sri Lanka Adelaide,76
+13,Ravichandran ashwin,14,2,30,0,0,14 Feb 2012,v Sri Lanka Adelaide,76
+1,Rohit Sharma,0,1,17,1,0,19 Feb 2012,v Australia Brisbane,77
+4,Virat Kohli,12,-,-,1,0,19 Feb 2012,v Australia Brisbane,77
+7,Ravindra Jadeja,18,-,-,0,0,19 Feb 2012,v Australia Brisbane,77
+1,Rohit Sharma,DNB,0,14,0,0,13 Mar 2012,v Sri Lanka Mirpur,78
+4,Virat Kohli,108,-,-,2,0,13 Mar 2012,v Sri Lanka Mirpur,78
+7,Ravindra Jadeja,DNB,0,31,1,0,13 Mar 2012,v Sri Lanka Mirpur,78
+13,Ravichandran ashwin,DNB,3,39,0,0,13 Mar 2012,v Sri Lanka Mirpur,78
+1,Rohit Sharma,4,0,13,2,0,16 Mar 2012,v Bangladesh Mirpur,79
+4,Virat Kohli,66,-,-,0,0,16 Mar 2012,v Bangladesh Mirpur,79
+7,Ravindra Jadeja,4*,1,32,1,0,16 Mar 2012,v Bangladesh Mirpur,79
+13,Ravichandran ashwin,DNB,1,56,0,0,16 Mar 2012,v Bangladesh Mirpur,79
+1,Rohit Sharma,68,0,19,0,0,18 Mar 2012,v Pakistan Mirpur,80
+4,Virat Kohli,183,-,-,2,0,18 Mar 2012,v Pakistan Mirpur,80
+13,Ravichandran ashwin,DNB,1,56,0,0,18 Mar 2012,v Pakistan Mirpur,80
+1,Rohit Sharma,5,-,-,0,0,21 Jul 2012,v Sri Lanka Hambantota,81
+4,Virat Kohli,106,-,-,1,0,21 Jul 2012,v Sri Lanka Hambantota,81
+13,Ravichandran ashwin,0*,2,46,0,0,21 Jul 2012,v Sri Lanka Hambantota,81
+1,Rohit Sharma,0,-,-,0,0,24 Jul 2012,v Sri Lanka Hambantota,82
+4,Virat Kohli,1,-,-,0,0,24 Jul 2012,v Sri Lanka Hambantota,82
+13,Ravichandran ashwin,21,1,18,0,0,24 Jul 2012,v Sri Lanka Hambantota,82
+1,Rohit Sharma,0,0,4,0,0,28 Jul 2012,v Sri Lanka Colombo (RPS),83
+4,Virat Kohli,38,-,-,1,0,28 Jul 2012,v Sri Lanka Colombo (RPS),83
+13,Ravichandran ashwin,DNB,0,50,0,0,28 Jul 2012,v Sri Lanka Colombo (RPS),83
+1,Rohit Sharma,4,0,6,0,0,31 Jul 2012,v Sri Lanka Colombo (RPS),84
+4,Virat Kohli,128*,0,7,1,0,31 Jul 2012,v Sri Lanka Colombo (RPS),84
+13,Ravichandran ashwin,DNB,2,46,0,0,31 Jul 2012,v Sri Lanka Colombo (RPS),84
+1,Rohit Sharma,4,0,23,0,0,4 Aug 2012,v Sri Lanka Pallekele,85
+4,Virat Kohli,23,0,3,1,0,4 Aug 2012,v Sri Lanka Pallekele,85
+13,Ravichandran ashwin,2*,0,37,0,0,4 Aug 2012,v Sri Lanka Pallekele,85
+1,Rohit Sharma,4,-,-,1,0,30 Dec 2012,v Pakistan Chennai,86
+4,Virat Kohli,0,0,21,0,0,30 Dec 2012,v Pakistan Chennai,86
+13,Ravichandran ashwin,31*,0,34,1,0,30 Dec 2012,v Pakistan Chennai,86
+1,Rohit Sharma,83,-,-,0,0,23 Jan 2013,v England Mohali,87
+4,Virat Kohli,26,-,-,0,0,23 Jan 2013,v England Mohali,87
+7,Ravindra Jadeja,21*,3,39,1,0,23 Jan 2013,v England Mohali,87
+12,Mohammed Shami,DNB,0,58,0,0,23 Jan 2013,v England Mohali,87
+13,Ravichandran ashwin,DNB,2,63,0,0,23 Jan 2013,v England Mohali,87
+1,Rohit Sharma,4,-,-,0,0,27 Jan 2013,v England Dharamsala,88
+4,Virat Kohli,0,-,-,0,0,27 Jan 2013,v England Dharamsala,88
+7,Ravindra Jadeja,39,1,26,1,0,27 Jan 2013,v England Dharamsala,88
+12,Mohammed Shami,1,1,46,0,0,27 Jan 2013,v England Dharamsala,88
+13,Ravichandran ashwin,19,0,50,0,0,27 Jan 2013,v England Dharamsala,88
+1,Rohit Sharma,65,-,-,0,0,6 Jun 2013,v South Africa Cardiff,89
+4,Virat Kohli,31,-,-,0,0,6 Jun 2013,v South Africa Cardiff,89
+7,Ravindra Jadeja,47*,2,31,1,0,6 Jun 2013,v South Africa Cardiff,89
+13,Ravichandran ashwin,10,0,47,0,0,6 Jun 2013,v South Africa Cardiff,89
+1,Rohit Sharma,52,-,-,0,0,11 Jun 2013,v West Indies The Oval,90
+4,Virat Kohli,22,0,26,0,0,11 Jun 2013,v West Indies The Oval,90
+7,Ravindra Jadeja,DNB,5,36,1,0,11 Jun 2013,v West Indies The Oval,90
+13,Ravichandran ashwin,DNB,1,36,1,0,11 Jun 2013,v West Indies The Oval,90
+1,Rohit Sharma,18,-,-,1,0,15 Jun 2013,v Pakistan Birmingham,91
+4,Virat Kohli,22*,0,11,1,0,15 Jun 2013,v Pakistan Birmingham,91
+7,Ravindra Jadeja,DNB,2,30,0,0,15 Jun 2013,v Pakistan Birmingham,91
+13,Ravichandran ashwin,DNB,2,35,0,0,15 Jun 2013,v Pakistan Birmingham,91
+1,Rohit Sharma,33,-,-,0,0,20 Jun 2013,v Sri Lanka Cardiff,92
+4,Virat Kohli,58*,-,-,0,0,20 Jun 2013,v Sri Lanka Cardiff,92
+7,Ravindra Jadeja,DNB,1,33,0,0,20 Jun 2013,v Sri Lanka Cardiff,92
+13,Ravichandran ashwin,DNB,3,48,0,0,20 Jun 2013,v Sri Lanka Cardiff,92
+1,Rohit Sharma,9,-,-,0,0,23 Jun 2013,v England Birmingham,93
+4,Virat Kohli,43,-,-,0,0,23 Jun 2013,v England Birmingham,93
+7,Ravindra Jadeja,33*,2,24,0,0,23 Jun 2013,v England Birmingham,93
+13,Ravichandran ashwin,1,2,15,3,0,23 Jun 2013,v England Birmingham,93
+1,Rohit Sharma,60,-,-,0,0,30 Jun 2013,v West Indies Kingston,94
+4,Virat Kohli,11,-,-,0,0,30 Jun 2013,v West Indies Kingston,94
+7,Ravindra Jadeja,15,0,50,0,0,30 Jun 2013,v West Indies Kingston,94
+13,Ravichandran ashwin,5*,2,44,1,0,30 Jun 2013,v West Indies Kingston,94
+1,Rohit Sharma,5,-,-,0,0,2 Jul 2013,v Sri Lanka Kingston,95
+4,Virat Kohli,2,0,9,0,0,2 Jul 2013,v Sri Lanka Kingston,95
+7,Ravindra Jadeja,49*,0,55,0,0,2 Jul 2013,v Sri Lanka Kingston,95
+12,Mohammed Shami,0,0,68,0,0,2 Jul 2013,v Sri Lanka Kingston,95
+13,Ravichandran ashwin,4,1,67,0,0,2 Jul 2013,v Sri Lanka Kingston,95
+1,Rohit Sharma,46,-,-,0,0,5 Jul 2013,v West Indies Port of Spain,96
+4,Virat Kohli,102,-,-,0,0,5 Jul 2013,v West Indies Port of Spain,96
+7,Ravindra Jadeja,2,2,44,0,0,5 Jul 2013,v West Indies Port of Spain,96
+13,Ravichandran ashwin,25*,0,25,2,0,5 Jul 2013,v West Indies Port of Spain,96
+1,Rohit Sharma,48*,-,-,0,0,9 Jul 2013,v Sri Lanka Port of Spain,97
+4,Virat Kohli,31,-,-,1,0,9 Jul 2013,v Sri Lanka Port of Spain,97
+7,Ravindra Jadeja,DNB,2,17,1,0,9 Jul 2013,v Sri Lanka Port of Spain,97
+13,Ravichandran ashwin,DNB,1,20,0,0,9 Jul 2013,v Sri Lanka Port of Spain,97
+1,Rohit Sharma,58,-,-,0,0,11 Jul 2013,v Sri Lanka Port of Spain,98
+4,Virat Kohli,2,0,17,0,0,11 Jul 2013,v Sri Lanka Port of Spain,98
+7,Ravindra Jadeja,5,4,23,0,0,11 Jul 2013,v Sri Lanka Port of Spain,98
+13,Ravichandran ashwin,0,2,42,2,0,11 Jul 2013,v Sri Lanka Port of Spain,98
+1,Rohit Sharma,20,-,-,0,0,24 Jul 2013,v Zimbabwe Harare,99
+4,Virat Kohli,115,-,-,0,0,24 Jul 2013,v Zimbabwe Harare,99
+7,Ravindra Jadeja,DNB,0,33,0,0,24 Jul 2013,v Zimbabwe Harare,99
+12,Mohammed Shami,DNB,1,45,0,0,24 Jul 2013,v Zimbabwe Harare,99
+1,Rohit Sharma,1,-,-,0,0,26 Jul 2013,v Zimbabwe Harare,100
+4,Virat Kohli,14,-,-,0,0,26 Jul 2013,v Zimbabwe Harare,100
+7,Ravindra Jadeja,15,1,30,0,0,26 Jul 2013,v Zimbabwe Harare,100
+12,Mohammed Shami,6*,1,52,1,0,26 Jul 2013,v Zimbabwe Harare,100
+1,Rohit Sharma,14,-,-,0,0,28 Jul 2013,v Zimbabwe Harare,101
+4,Virat Kohli,68*,0,7,0,0,28 Jul 2013,v Zimbabwe Harare,101
+7,Ravindra Jadeja,DNB,1,39,0,0,28 Jul 2013,v Zimbabwe Harare,101
+12,Mohammed Shami,DNB,2,25,1,0,28 Jul 2013,v Zimbabwe Harare,101
+1,Rohit Sharma,64*,-,-,1,0,1 Aug 2013,v Zimbabwe Bulawayo,102
+4,Virat Kohli,DNB,-,-,1,0,1 Aug 2013,v Zimbabwe Bulawayo,102
+7,Ravindra Jadeja,DNB,2,28,1,0,1 Aug 2013,v Zimbabwe Bulawayo,102
+12,Mohammed Shami,DNB,1,34,0,0,1 Aug 2013,v Zimbabwe Bulawayo,102
+1,Rohit Sharma,42,-,-,1,0,13 Oct 2013,v Australia Pune,103
+4,Virat Kohli,61,0,12,1,0,13 Oct 2013,v Australia Pune,103
+7,Ravindra Jadeja,11,1,35,1,0,13 Oct 2013,v Australia Pune,103
+13,Ravichandran ashwin,5,2,55,0,0,13 Oct 2013,v Australia Pune,103
+1,Rohit Sharma,141*,-,-,0,0,16 Oct 2013,v Australia Jaipur,104
+4,Virat Kohli,100*,-,-,0,0,16 Oct 2013,v Australia Jaipur,104
+7,Ravindra Jadeja,DNB,0,72,0,0,16 Oct 2013,v Australia Jaipur,104
+13,Ravichandran ashwin,DNB,1,50,0,0,16 Oct 2013,v Australia Jaipur,104
+1,Rohit Sharma,11,-,-,0,0,19 Oct 2013,v Australia Mohali,105
+4,Virat Kohli,68,0,18,0,0,19 Oct 2013,v Australia Mohali,105
+7,Ravindra Jadeja,2,1,31,1,0,19 Oct 2013,v Australia Mohali,105
+13,Ravichandran ashwin,28,0,58,0,0,19 Oct 2013,v Australia Mohali,105
+1,Rohit Sharma,9*,-,-,1,0,23 Oct 2013,v Australia Ranchi,106
+4,Virat Kohli,DNB,-,-,0,0,23 Oct 2013,v Australia Ranchi,106
+7,Ravindra Jadeja,DNB,1,56,0,0,23 Oct 2013,v Australia Ranchi,106
+12,Mohammed Shami,DNB,3,42,0,0,23 Oct 2013,v Australia Ranchi,106
+13,Ravichandran ashwin,DNB,2,57,0,0,23 Oct 2013,v Australia Ranchi,106
+1,Rohit Sharma,79,-,-,0,0,30 Oct 2013,v Australia Nagpur,107
+4,Virat Kohli,115*,0,15,2,0,30 Oct 2013,v Australia Nagpur,107
+7,Ravindra Jadeja,DNB,2,68,0,0,30 Oct 2013,v Australia Nagpur,107
+12,Mohammed Shami,DNB,1,66,0,0,30 Oct 2013,v Australia Nagpur,107
+13,Ravichandran ashwin,DNB,2,64,0,0,30 Oct 2013,v Australia Nagpur,107
+1,Rohit Sharma,209,-,-,0,0,2 Nov 2013,v Australia Bengaluru,108
+4,Virat Kohli,0,-,-,1,0,2 Nov 2013,v Australia Bengaluru,108
+7,Ravindra Jadeja,0*,3,73,1,0,2 Nov 2013,v Australia Bengaluru,108
+12,Mohammed Shami,DNB,3,52,1,0,2 Nov 2013,v Australia Bengaluru,108
+13,Ravichandran ashwin,DNB,2,51,0,0,2 Nov 2013,v Australia Bengaluru,108
+1,Rohit Sharma,72,0,4,0,0,21 Nov 2013,v West Indies Kochi,109
+4,Virat Kohli,86,-,-,0,0,21 Nov 2013,v West Indies Kochi,109
+7,Ravindra Jadeja,DNB,3,37,1,0,21 Nov 2013,v West Indies Kochi,109
+12,Mohammed Shami,DNB,1,28,0,0,21 Nov 2013,v West Indies Kochi,109
+13,Ravichandran ashwin,DNB,2,42,1,0,21 Nov 2013,v West Indies Kochi,109
+1,Rohit Sharma,12,-,-,0,0,24 Nov 2013,v West Indies Visakhapatnam,110
+4,Virat Kohli,99,-,-,0,0,24 Nov 2013,v West Indies Visakhapatnam,110
+7,Ravindra Jadeja,10,1,44,0,0,24 Nov 2013,v West Indies Visakhapatnam,110
+12,Mohammed Shami,DNB,2,55,0,0,24 Nov 2013,v West Indies Visakhapatnam,110
+13,Ravichandran ashwin,19,2,37,0,0,24 Nov 2013,v West Indies Visakhapatnam,110
+1,Rohit Sharma,4,-,-,0,0,27 Nov 2013,v West Indies Kanpur,111
+4,Virat Kohli,19,-,-,0,0,27 Nov 2013,v West Indies Kanpur,111
+7,Ravindra Jadeja,2*,1,49,0,0,27 Nov 2013,v West Indies Kanpur,111
+12,Mohammed Shami,DNB,1,49,0,0,27 Nov 2013,v West Indies Kanpur,111
+13,Ravichandran ashwin,DNB,2,45,1,0,27 Nov 2013,v West Indies Kanpur,111
+1,Rohit Sharma,18,-,-,0,0,5 Dec 2013,v South Africa Johannesburg,112
+4,Virat Kohli,31,1,15,1,0,5 Dec 2013,v South Africa Johannesburg,112
+7,Ravindra Jadeja,29,0,58,1,0,5 Dec 2013,v South Africa Johannesburg,112
+12,Mohammed Shami,0,3,68,0,0,5 Dec 2013,v South Africa Johannesburg,112
+13,Ravichandran ashwin,19,0,58,0,0,5 Dec 2013,v South Africa Johannesburg,112
+1,Rohit Sharma,19,-,-,1,0,8 Dec 2013,v South Africa Durban,113
+4,Virat Kohli,0,0,17,0,0,8 Dec 2013,v South Africa Durban,113
+7,Ravindra Jadeja,26,1,49,0,0,8 Dec 2013,v South Africa Durban,113
+12,Mohammed Shami,8,3,48,0,0,8 Dec 2013,v South Africa Durban,113
+13,Ravichandran ashwin,15,1,48,0,0,8 Dec 2013,v South Africa Durban,113
+1,Rohit Sharma,TDNB,-,-,1,0,11 Dec 2013,v South Africa Centurion,114
+4,Virat Kohli,TDNB,0,22,0,0,11 Dec 2013,v South Africa Centurion,114
+7,Ravindra Jadeja,TDNB,0,32,0,0,11 Dec 2013,v South Africa Centurion,114
+12,Mohammed Shami,TDNB,3,69,0,0,11 Dec 2013,v South Africa Centurion,114
+13,Ravichandran ashwin,TDNB,0,63,0,0,11 Dec 2013,v South Africa Centurion,114
+1,Rohit Sharma,3,-,-,0,0,19 Jan 2014,v New Zealand Napier,115
+4,Virat Kohli,123,0,13,0,0,19 Jan 2014,v New Zealand Napier,115
+7,Ravindra Jadeja,0,1,61,0,0,19 Jan 2014,v New Zealand Napier,115
+12,Mohammed Shami,7*,4,55,1,0,19 Jan 2014,v New Zealand Napier,115
+13,Ravichandran ashwin,12,0,52,1,0,19 Jan 2014,v New Zealand Napier,115
+1,Rohit Sharma,20,-,-,0,0,22 Jan 2014,v New Zealand Hamilton,116
+4,Virat Kohli,78,0,12,0,0,22 Jan 2014,v New Zealand Hamilton,116
+7,Ravindra Jadeja,12,1,46,0,0,22 Jan 2014,v New Zealand Hamilton,116
+12,Mohammed Shami,1*,3,55,2,0,22 Jan 2014,v New Zealand Hamilton,116
+13,Ravichandran ashwin,5,0,50,0,0,22 Jan 2014,v New Zealand Hamilton,116
+1,Rohit Sharma,39,-,-,0,0,25 Jan 2014,v New Zealand Auckland,117
+4,Virat Kohli,6,-,-,0,0,25 Jan 2014,v New Zealand Auckland,117
+7,Ravindra Jadeja,66*,2,47,1,0,25 Jan 2014,v New Zealand Auckland,117
+12,Mohammed Shami,2,2,84,0,0,25 Jan 2014,v New Zealand Auckland,117
+13,Ravichandran ashwin,65,1,47,1,0,25 Jan 2014,v New Zealand Auckland,117
+1,Rohit Sharma,79,-,-,0,0,28 Jan 2014,v New Zealand Hamilton,118
+4,Virat Kohli,2,-,-,0,0,28 Jan 2014,v New Zealand Hamilton,118
+7,Ravindra Jadeja,62*,0,33,0,0,28 Jan 2014,v New Zealand Hamilton,118
+12,Mohammed Shami,DNB,1,61,0,0,28 Jan 2014,v New Zealand Hamilton,118
+13,Ravichandran ashwin,5,0,41,0,0,28 Jan 2014,v New Zealand Hamilton,118
+1,Rohit Sharma,4,-,-,1,0,31 Jan 2014,v New Zealand Wellington,119
+4,Virat Kohli,82,1,36,0,0,31 Jan 2014,v New Zealand Wellington,119
+7,Ravindra Jadeja,5,0,54,0,0,31 Jan 2014,v New Zealand Wellington,119
+12,Mohammed Shami,14*,1,61,1,0,31 Jan 2014,v New Zealand Wellington,119
+13,Ravichandran ashwin,7,0,37,0,0,31 Jan 2014,v New Zealand Wellington,119
+1,Rohit Sharma,21,-,-,1,0,26 Feb 2014,v Bangladesh Fatullah,120
+4,Virat Kohli,136,0,6,0,0,26 Feb 2014,v Bangladesh Fatullah,120
+7,Ravindra Jadeja,DNB,0,37,0,0,26 Feb 2014,v Bangladesh Fatullah,120
+12,Mohammed Shami,DNB,4,50,1,0,26 Feb 2014,v Bangladesh Fatullah,120
+13,Ravichandran ashwin,DNB,1,50,1,0,26 Feb 2014,v Bangladesh Fatullah,120
+1,Rohit Sharma,13,0,29,2,0,28 Feb 2014,v Sri Lanka Fatullah,121
+4,Virat Kohli,48,-,-,0,0,28 Feb 2014,v Sri Lanka Fatullah,121
+7,Ravindra Jadeja,22*,3,30,0,0,28 Feb 2014,v Sri Lanka Fatullah,121
+12,Mohammed Shami,14*,3,81,0,0,28 Feb 2014,v Sri Lanka Fatullah,121
+13,Ravichandran ashwin,18,2,42,1,0,28 Feb 2014,v Sri Lanka Fatullah,121
+1,Rohit Sharma,56,-,-,0,0,2 Mar 2014,v Pakistan Mirpur,122
+4,Virat Kohli,5,-,-,0,0,2 Mar 2014,v Pakistan Mirpur,122
+7,Ravindra Jadeja,52*,0,61,2,0,2 Mar 2014,v Pakistan Mirpur,122
+12,Mohammed Shami,0,0,49,0,0,2 Mar 2014,v Pakistan Mirpur,122
+13,Ravichandran ashwin,9,3,44,1,0,2 Mar 2014,v Pakistan Mirpur,122
+1,Rohit Sharma,18*,-,-,0,0,5 Mar 2014,v Afghanistan Mirpur,123
+4,Virat Kohli,DNB,-,-,2,0,5 Mar 2014,v Afghanistan Mirpur,123
+7,Ravindra Jadeja,DNB,4,30,0,0,5 Mar 2014,v Afghanistan Mirpur,123
+12,Mohammed Shami,DNB,2,50,0,0,5 Mar 2014,v Afghanistan Mirpur,123
+13,Ravichandran ashwin,DNB,3,31,0,0,5 Mar 2014,v Afghanistan Mirpur,123
+1,Rohit Sharma,52,-,-,0,0,27 Aug 2014,v England Cardiff,124
+4,Virat Kohli,0,-,-,1,0,27 Aug 2014,v England Cardiff,124
+7,Ravindra Jadeja,9*,4,28,1,0,27 Aug 2014,v England Cardiff,124
+12,Mohammed Shami,DNB,2,32,1,0,27 Aug 2014,v England Cardiff,124
+13,Ravichandran ashwin,10*,2,38,1,0,27 Aug 2014,v England Cardiff,124
+1,Rohit Sharma,264,-,-,0,0,13 Nov 2014,v Sri Lanka Eden Gardens,125
+4,Virat Kohli,66,-,-,1,0,13 Nov 2014,v Sri Lanka Eden Gardens,125
+1,Rohit Sharma,9,-,-,1,0,16 Nov 2014,v Sri Lanka Ranchi,126
+4,Virat Kohli,139*,-,-,0,0,16 Nov 2014,v Sri Lanka Ranchi,126
+13,Ravichandran ashwin,0,2,56,0,0,16 Nov 2014,v Sri Lanka Ranchi,126
+1,Rohit Sharma,138,-,-,0,0,18 Jan 2015,v Australia Melbourne,127
+4,Virat Kohli,9,-,-,0,0,18 Jan 2015,v Australia Melbourne,127
+12,Mohammed Shami,2*,1,44,0,0,18 Jan 2015,v Australia Melbourne,127
+13,Ravichandran ashwin,14*,1,54,1,0,18 Jan 2015,v Australia Melbourne,127
+1,Rohit Sharma,15,-,-,0,0,15 Feb 2015,v Pakistan Adelaide,128
+4,Virat Kohli,107,-,-,1,0,15 Feb 2015,v Pakistan Adelaide,128
+7,Ravindra Jadeja,3,1,56,1,0,15 Feb 2015,v Pakistan Adelaide,128
+12,Mohammed Shami,3*,4,35,0,0,15 Feb 2015,v Pakistan Adelaide,128
+13,Ravichandran ashwin,1*,1,41,0,0,15 Feb 2015,v Pakistan Adelaide,128
+1,Rohit Sharma,0,-,-,0,0,22 Feb 2015,v South Africa Melbourne,129
+4,Virat Kohli,46,-,-,1,0,22 Feb 2015,v South Africa Melbourne,129
+7,Ravindra Jadeja,2,1,37,0,0,22 Feb 2015,v South Africa Melbourne,129
+12,Mohammed Shami,4*,2,30,1,0,22 Feb 2015,v South Africa Melbourne,129
+13,Ravichandran ashwin,5*,3,41,0,0,22 Feb 2015,v South Africa Melbourne,129
+1,Rohit Sharma,57*,-,-,0,0,28 Feb 2015,v U.A.E. Perth,130
+4,Virat Kohli,33*,-,-,0,0,28 Feb 2015,v U.A.E. Perth,130
+7,Ravindra Jadeja,DNB,2,23,0,0,28 Feb 2015,v U.A.E. Perth,130
+13,Ravichandran ashwin,DNB,4,25,0,0,28 Feb 2015,v U.A.E. Perth,130
+1,Rohit Sharma,7,-,-,0,0,6 Mar 2015,v West Indies Perth,131
+4,Virat Kohli,33,-,-,2,0,6 Mar 2015,v West Indies Perth,131
+7,Ravindra Jadeja,13,2,27,0,0,6 Mar 2015,v West Indies Perth,131
+12,Mohammed Shami,DNB,3,35,1,0,6 Mar 2015,v West Indies Perth,131
+13,Ravichandran ashwin,16*,1,38,0,0,6 Mar 2015,v West Indies Perth,131
+1,Rohit Sharma,64,0,21,0,0,10 Mar 2015,v Ireland Hamilton,132
+4,Virat Kohli,44*,-,-,0,0,10 Mar 2015,v Ireland Hamilton,132
+7,Ravindra Jadeja,DNB,1,45,0,0,10 Mar 2015,v Ireland Hamilton,132
+12,Mohammed Shami,DNB,3,41,1,0,10 Mar 2015,v Ireland Hamilton,132
+13,Ravichandran ashwin,DNB,2,38,0,0,10 Mar 2015,v Ireland Hamilton,132
+1,Rohit Sharma,16,-,-,1,0,14 Mar 2015,v Zimbabwe Auckland,133
+4,Virat Kohli,38,-,-,0,0,14 Mar 2015,v Zimbabwe Auckland,133
+7,Ravindra Jadeja,DNB,0,71,0,0,14 Mar 2015,v Zimbabwe Auckland,133
+12,Mohammed Shami,DNB,3,48,0,0,14 Mar 2015,v Zimbabwe Auckland,133
+13,Ravichandran ashwin,DNB,1,75,1,0,14 Mar 2015,v Zimbabwe Auckland,133
+1,Rohit Sharma,137,-,-,0,0,19 Mar 2015,v Bangladesh Melbourne,134
+4,Virat Kohli,3,-,-,0,0,19 Mar 2015,v Bangladesh Melbourne,134
+7,Ravindra Jadeja,23*,2,42,0,0,19 Mar 2015,v Bangladesh Melbourne,134
+12,Mohammed Shami,DNB,2,37,2,0,19 Mar 2015,v Bangladesh Melbourne,134
+13,Ravichandran ashwin,3*,0,30,2,0,19 Mar 2015,v Bangladesh Melbourne,134
+1,Rohit Sharma,34,-,-,2,0,26 Mar 2015,v Australia Sydney,135
+4,Virat Kohli,1,0,7,1,0,26 Mar 2015,v Australia Sydney,135
+7,Ravindra Jadeja,16,0,56,0,0,26 Mar 2015,v Australia Sydney,135
+12,Mohammed Shami,1*,0,68,0,0,26 Mar 2015,v Australia Sydney,135
+13,Ravichandran ashwin,5,1,42,0,0,26 Mar 2015,v Australia Sydney,135
+1,Rohit Sharma,63,-,-,3,0,18 Jun 2015,v Bangladesh Mirpur,136
+4,Virat Kohli,1,0,12,1,0,18 Jun 2015,v Bangladesh Mirpur,136
+7,Ravindra Jadeja,32,1,48,2,0,18 Jun 2015,v Bangladesh Mirpur,136
+13,Ravichandran ashwin,0,3,51,0,0,18 Jun 2015,v Bangladesh Mirpur,136
+1,Rohit Sharma,0,-,-,0,0,21 Jun 2015,v Bangladesh Mirpur,137
+4,Virat Kohli,23,-,-,0,0,21 Jun 2015,v Bangladesh Mirpur,137
+7,Ravindra Jadeja,19,0,28,0,0,21 Jun 2015,v Bangladesh Mirpur,137
+13,Ravichandran ashwin,4,1,32,0,0,21 Jun 2015,v Bangladesh Mirpur,137
+1,Rohit Sharma,29,-,-,0,0,24 Jun 2015,v Bangladesh Mirpur,138
+4,Virat Kohli,25,-,-,0,0,24 Jun 2015,v Bangladesh Mirpur,138
+13,Ravichandran ashwin,DNB,2,35,1,0,24 Jun 2015,v Bangladesh Mirpur,138
+1,Rohit Sharma,150,-,-,0,0,11 Oct 2015,v South Africa Kanpur,139
+4,Virat Kohli,11,0,1,0,0,11 Oct 2015,v South Africa Kanpur,139
+13,Ravichandran ashwin,DNB,1,14,0,0,11 Oct 2015,v South Africa Kanpur,139
+1,Rohit Sharma,3,-,-,0,0,14 Oct 2015,v South Africa Indore,140
+4,Virat Kohli,12,-,-,3,0,14 Oct 2015,v South Africa Indore,140
+1,Rohit Sharma,65,-,-,0,0,18 Oct 2015,v South Africa Rajkot,141
+4,Virat Kohli,77,-,-,0,0,18 Oct 2015,v South Africa Rajkot,141
+1,Rohit Sharma,21,-,-,0,0,22 Oct 2015,v South Africa Chennai,142
+4,Virat Kohli,138,-,-,0,0,22 Oct 2015,v South Africa Chennai,142
+1,Rohit Sharma,16,-,-,0,0,25 Oct 2015,v South Africa Wankhede,143
+4,Virat Kohli,7,0,14,1,0,25 Oct 2015,v South Africa Wankhede,143
+1,Rohit Sharma,171*,0,11,0,0,12 Jan 2016,v Australia Perth,144
+4,Virat Kohli,91,0,13,2,0,12 Jan 2016,v Australia Perth,144
+7,Ravindra Jadeja,10*,0,61,0,0,12 Jan 2016,v Australia Perth,144
+13,Ravichandran ashwin,DNB,2,68,0,0,12 Jan 2016,v Australia Perth,144
+1,Rohit Sharma,124,-,-,0,0,15 Jan 2016,v Australia Brisbane,145
+4,Virat Kohli,59,0,7,1,0,15 Jan 2016,v Australia Brisbane,145
+7,Ravindra Jadeja,5,1,50,0,0,15 Jan 2016,v Australia Brisbane,145
+13,Ravichandran ashwin,1,0,60,0,0,15 Jan 2016,v Australia Brisbane,145
+1,Rohit Sharma,6,-,-,0,0,17 Jan 2016,v Australia Melbourne,146
+4,Virat Kohli,117,-,-,0,0,17 Jan 2016,v Australia Melbourne,146
+7,Ravindra Jadeja,6*,2,49,0,0,17 Jan 2016,v Australia Melbourne,146
+1,Rohit Sharma,41,-,-,1,0,20 Jan 2016,v Australia Canberra,147
+4,Virat Kohli,106,-,-,1,0,20 Jan 2016,v Australia Canberra,147
+7,Ravindra Jadeja,24*,0,51,0,0,20 Jan 2016,v Australia Canberra,147
+1,Rohit Sharma,99,-,-,1,0,23 Jan 2016,v Australia Sydney,148
+4,Virat Kohli,8,-,-,0,0,23 Jan 2016,v Australia Sydney,148
+7,Ravindra Jadeja,DNB,0,46,1,0,23 Jan 2016,v Australia Sydney,148
+9,Jasprit Bumrah,DNB,2,40,0,0,23 Jan 2016,v Australia Sydney,148
+1,Rohit Sharma,14,-,-,1,0,16 Oct 2016,v New Zealand Dharamsala,149
+2,Hardik Pandya,DNB,3,31,0,0,16 Oct 2016,v New Zealand Dharamsala,149
+4,Virat Kohli,85*,-,-,0,0,16 Oct 2016,v New Zealand Dharamsala,149
+9,Jasprit Bumrah,DNB,0,29,0,0,16 Oct 2016,v New Zealand Dharamsala,149
+1,Rohit Sharma,15,-,-,1,0,20 Oct 2016,v New Zealand Delhi,150
+2,Hardik Pandya,36,0,45,0,0,20 Oct 2016,v New Zealand Delhi,150
+4,Virat Kohli,9,-,-,0,0,20 Oct 2016,v New Zealand Delhi,150
+9,Jasprit Bumrah,0,3,35,0,0,20 Oct 2016,v New Zealand Delhi,150
+1,Rohit Sharma,13,-,-,0,0,23 Oct 2016,v New Zealand Mohali,151
+2,Hardik Pandya,DNB,0,34,1,0,23 Oct 2016,v New Zealand Mohali,151
+4,Virat Kohli,154*,-,-,1,0,23 Oct 2016,v New Zealand Mohali,151
+9,Jasprit Bumrah,DNB,2,52,0,0,23 Oct 2016,v New Zealand Mohali,151
+1,Rohit Sharma,11,-,-,1,0,26 Oct 2016,v New Zealand Ranchi,152
+2,Hardik Pandya,9,1,31,1,0,26 Oct 2016,v New Zealand Ranchi,152
+4,Virat Kohli,45,-,-,1,0,26 Oct 2016,v New Zealand Ranchi,152
+1,Rohit Sharma,70,-,-,0,0,29 Oct 2016,v New Zealand Visakhapatnam,153
+4,Virat Kohli,65,-,-,0,0,29 Oct 2016,v New Zealand Visakhapatnam,153
+9,Jasprit Bumrah,DNB,1,16,0,0,29 Oct 2016,v New Zealand Visakhapatnam,153
+1,Rohit Sharma,91,-,-,0,0,4 Jun 2017,v Pakistan Birmingham,154
+2,Hardik Pandya,20*,2,43,1,0,4 Jun 2017,v Pakistan Birmingham,154
+4,Virat Kohli,81*,-,-,0,0,4 Jun 2017,v Pakistan Birmingham,154
+7,Ravindra Jadeja,DNB,2,43,1,0,4 Jun 2017,v Pakistan Birmingham,154
+9,Jasprit Bumrah,DNB,0,23,0,0,4 Jun 2017,v Pakistan Birmingham,154
+16,Babar Azam,8,-,-,0,0,4 Jun 2017,v India Birmingham,154
+17,Shadab Khan,14*,1,52,0,0,4 Jun 2017,v India Birmingham,154
+1,Rohit Sharma,78,-,-,0,0,8 Jun 2017,v Sri Lanka The Oval,155
+2,Hardik Pandya,9,0,51,0,0,8 Jun 2017,v Sri Lanka The Oval,155
+4,Virat Kohli,0,0,17,0,0,8 Jun 2017,v Sri Lanka The Oval,155
+7,Ravindra Jadeja,0*,0,52,1,0,8 Jun 2017,v Sri Lanka The Oval,155
+9,Jasprit Bumrah,DNB,0,52,0,0,8 Jun 2017,v Sri Lanka The Oval,155
+1,Rohit Sharma,12,-,-,0,0,11 Jun 2017,v South Africa The Oval,156
+2,Hardik Pandya,DNB,1,52,0,0,11 Jun 2017,v South Africa The Oval,156
+4,Virat Kohli,76*,-,-,1,0,11 Jun 2017,v South Africa The Oval,156
+7,Ravindra Jadeja,DNB,1,39,0,0,11 Jun 2017,v South Africa The Oval,156
+9,Jasprit Bumrah,DNB,2,28,0,0,11 Jun 2017,v South Africa The Oval,156
+13,Ravichandran ashwin,DNB,1,43,0,0,11 Jun 2017,v South Africa The Oval,156
+1,Rohit Sharma,123*,-,-,0,0,15 Jun 2017,v Bangladesh Birmingham,157
+2,Hardik Pandya,DNB,0,34,0,0,15 Jun 2017,v Bangladesh Birmingham,157
+4,Virat Kohli,96*,-,-,1,0,15 Jun 2017,v Bangladesh Birmingham,157
+7,Ravindra Jadeja,DNB,1,48,1,0,15 Jun 2017,v Bangladesh Birmingham,157
+9,Jasprit Bumrah,DNB,2,39,1,0,15 Jun 2017,v Bangladesh Birmingham,157
+13,Ravichandran ashwin,DNB,0,54,0,0,15 Jun 2017,v Bangladesh Birmingham,157
+1,Rohit Sharma,0,-,-,0,0,18 Jun 2017,v Pakistan The Oval,158
+2,Hardik Pandya,76,1,53,0,0,18 Jun 2017,v Pakistan The Oval,158
+4,Virat Kohli,5,-,-,0,0,18 Jun 2017,v Pakistan The Oval,158
+7,Ravindra Jadeja,15,0,67,1,0,18 Jun 2017,v Pakistan The Oval,158
+9,Jasprit Bumrah,1,0,68,0,0,18 Jun 2017,v Pakistan The Oval,158
+13,Ravichandran ashwin,1,0,70,0,0,18 Jun 2017,v Pakistan The Oval,158
+16,Babar Azam,46,-,-,1,0,18 Jun 2017,v India The Oval,158
+17,Shadab Khan,DNB,2,60,1,0,18 Jun 2017,v India The Oval,158
+19,Faqar Zaman,114,0,25,0,0,18 Jun 2017,v India The Oval,158
+1,Rohit Sharma,4,-,-,0,0,20 Aug 2017,v Sri Lanka Dambulla,159
+2,Hardik Pandya,DNB,0,35,0,0,20 Aug 2017,v Sri Lanka Dambulla,159
+4,Virat Kohli,82*,-,-,0,0,20 Aug 2017,v Sri Lanka Dambulla,159
+6,KL Rahul,DNB,-,-,1,0,20 Aug 2017,v Sri Lanka Dambulla,159
+9,Jasprit Bumrah,DNB,2,22,0,0,20 Aug 2017,v Sri Lanka Dambulla,159
+1,Rohit Sharma,54,-,-,1,0,24 Aug 2017,v Sri Lanka Pallekele,160
+2,Hardik Pandya,0,1,24,0,0,24 Aug 2017,v Sri Lanka Pallekele,160
+4,Virat Kohli,4,-,-,1,0,24 Aug 2017,v Sri Lanka Pallekele,160
+6,KL Rahul,4,-,-,0,0,24 Aug 2017,v Sri Lanka Pallekele,160
+9,Jasprit Bumrah,DNB,4,43,0,0,24 Aug 2017,v Sri Lanka Pallekele,160
+1,Rohit Sharma,124*,-,-,1,0,27 Aug 2017,v Sri Lanka Pallekele,161
+2,Hardik Pandya,DNB,1,42,0,0,27 Aug 2017,v Sri Lanka Pallekele,161
+4,Virat Kohli,3,-,-,0,0,27 Aug 2017,v Sri Lanka Pallekele,161
+6,KL Rahul,17,-,-,0,0,27 Aug 2017,v Sri Lanka Pallekele,161
+9,Jasprit Bumrah,DNB,5,27,1,0,27 Aug 2017,v Sri Lanka Pallekele,161
+1,Rohit Sharma,104,-,-,0,0,31 Aug 2017,v Sri Lanka Colombo (RPS),162
+2,Hardik Pandya,19,2,50,1,0,31 Aug 2017,v Sri Lanka Colombo (RPS),162
+4,Virat Kohli,131,0,12,0,0,31 Aug 2017,v Sri Lanka Colombo (RPS),162
+6,KL Rahul,7,-,-,0,0,31 Aug 2017,v Sri Lanka Colombo (RPS),162
+8,Shardul Thakur,DNB,1,26,1,0,31 Aug 2017,v Sri Lanka Colombo (RPS),162
+9,Jasprit Bumrah,DNB,2,32,0,0,31 Aug 2017,v Sri Lanka Colombo (RPS),162
+11,Kuldeep Yadav,DNB,2,31,1,0,31 Aug 2017,v Sri Lanka Colombo (RPS),162
+1,Rohit Sharma,16,-,-,0,0,3 Sep 2017,v Sri Lanka Colombo (RPS),163
+4,Virat Kohli,110*,-,-,1,0,3 Sep 2017,v Sri Lanka Colombo (RPS),163
+8,Shardul Thakur,DNB,0,48,1,0,3 Sep 2017,v Sri Lanka Colombo (RPS),163
+9,Jasprit Bumrah,DNB,2,45,0,0,3 Sep 2017,v Sri Lanka Colombo (RPS),163
+11,Kuldeep Yadav,DNB,1,40,0,0,3 Sep 2017,v Sri Lanka Colombo (RPS),163
+1,Rohit Sharma,28,-,-,0,0,17 Sep 2017,v Australia Chennai,164
+2,Hardik Pandya,83,2,28,0,0,17 Sep 2017,v Australia Chennai,164
+4,Virat Kohli,0,-,-,0,0,17 Sep 2017,v Australia Chennai,164
+9,Jasprit Bumrah,DNB,1,20,2,0,17 Sep 2017,v Australia Chennai,164
+11,Kuldeep Yadav,0*,2,33,0,0,17 Sep 2017,v Australia Chennai,164
+1,Rohit Sharma,7,-,-,0,0,21 Sep 2017,v Australia Eden Gardens,165
+2,Hardik Pandya,20,2,56,1,0,21 Sep 2017,v Australia Eden Gardens,165
+4,Virat Kohli,92,-,-,0,0,21 Sep 2017,v Australia Eden Gardens,165
+9,Jasprit Bumrah,10*,0,39,0,0,21 Sep 2017,v Australia Eden Gardens,165
+11,Kuldeep Yadav,0,3,54,0,0,21 Sep 2017,v Australia Eden Gardens,165
+1,Rohit Sharma,71,-,-,0,0,24 Sep 2017,v Australia Indore,166
+2,Hardik Pandya,78,1,58,0,0,24 Sep 2017,v Australia Indore,166
+4,Virat Kohli,28,-,-,0,0,24 Sep 2017,v Australia Indore,166
+9,Jasprit Bumrah,DNB,2,52,1,0,24 Sep 2017,v Australia Indore,166
+11,Kuldeep Yadav,DNB,2,75,0,0,24 Sep 2017,v Australia Indore,166
+1,Rohit Sharma,65,-,-,0,0,28 Sep 2017,v Australia Bengaluru,167
+2,Hardik Pandya,41,0,32,1,0,28 Sep 2017,v Australia Bengaluru,167
+4,Virat Kohli,21,-,-,1,0,28 Sep 2017,v Australia Bengaluru,167
+12,Mohammed Shami,6*,0,62,0,0,28 Sep 2017,v Australia Bengaluru,167
+1,Rohit Sharma,125,-,-,0,0,1 Oct 2017,v Australia Nagpur,168
+2,Hardik Pandya,DNB,1,14,0,0,1 Oct 2017,v Australia Nagpur,168
+4,Virat Kohli,39,-,-,0,0,1 Oct 2017,v Australia Nagpur,168
+9,Jasprit Bumrah,DNB,2,51,1,0,1 Oct 2017,v Australia Nagpur,168
+11,Kuldeep Yadav,DNB,0,48,0,0,1 Oct 2017,v Australia Nagpur,168
+1,Rohit Sharma,20,-,-,0,0,22 Oct 2017,v New Zealand Wankhede,169
+2,Hardik Pandya,16,1,46,0,0,22 Oct 2017,v New Zealand Wankhede,169
+4,Virat Kohli,121,-,-,0,0,22 Oct 2017,v New Zealand Wankhede,169
+9,Jasprit Bumrah,DNB,1,56,0,0,22 Oct 2017,v New Zealand Wankhede,169
+11,Kuldeep Yadav,0*,1,64,0,0,22 Oct 2017,v New Zealand Wankhede,169
+1,Rohit Sharma,7,-,-,0,0,25 Oct 2017,v New Zealand Pune,170
+2,Hardik Pandya,30,1,23,0,0,25 Oct 2017,v New Zealand Pune,170
+4,Virat Kohli,29,-,-,1,0,25 Oct 2017,v New Zealand Pune,170
+9,Jasprit Bumrah,DNB,2,38,1,0,25 Oct 2017,v New Zealand Pune,170
+1,Rohit Sharma,147,-,-,0,0,29 Oct 2017,v New Zealand Kanpur,171
+2,Hardik Pandya,8,0,47,0,0,29 Oct 2017,v New Zealand Kanpur,171
+4,Virat Kohli,113,-,-,0,0,29 Oct 2017,v New Zealand Kanpur,171
+9,Jasprit Bumrah,DNB,3,47,0,0,29 Oct 2017,v New Zealand Kanpur,171
+1,Rohit Sharma,2,-,-,0,0,10 Dec 2017,v Sri Lanka Dharamsala,172
+2,Hardik Pandya,10,1,39,0,0,10 Dec 2017,v Sri Lanka Dharamsala,172
+5,Shreyas Iyer,9,-,-,0,0,10 Dec 2017,v Sri Lanka Dharamsala,172
+9,Jasprit Bumrah,0,1,32,0,0,10 Dec 2017,v Sri Lanka Dharamsala,172
+11,Kuldeep Yadav,19,-,-,0,0,10 Dec 2017,v Sri Lanka Dharamsala,172
+1,Rohit Sharma,208*,-,-,1,0,13 Dec 2017,v Sri Lanka Mohali,173
+2,Hardik Pandya,8,1,39,0,0,13 Dec 2017,v Sri Lanka Mohali,173
+5,Shreyas Iyer,88,0,2,0,0,13 Dec 2017,v Sri Lanka Mohali,173
+9,Jasprit Bumrah,DNB,2,43,0,0,13 Dec 2017,v Sri Lanka Mohali,173
+1,Rohit Sharma,7,-,-,1,0,17 Dec 2017,v Sri Lanka Visakhapatnam,174
+2,Hardik Pandya,DNB,2,49,0,0,17 Dec 2017,v Sri Lanka Visakhapatnam,174
+5,Shreyas Iyer,65,-,-,1,0,17 Dec 2017,v Sri Lanka Visakhapatnam,174
+9,Jasprit Bumrah,DNB,1,39,0,0,17 Dec 2017,v Sri Lanka Visakhapatnam,174
+11,Kuldeep Yadav,DNB,3,42,0,0,17 Dec 2017,v Sri Lanka Visakhapatnam,174
+1,Rohit Sharma,20,-,-,0,0,1 Feb 2018,v South Africa Durban,175
+2,Hardik Pandya,3*,0,41,2,0,1 Feb 2018,v South Africa Durban,175
+4,Virat Kohli,112,-,-,1,0,1 Feb 2018,v South Africa Durban,175
+9,Jasprit Bumrah,DNB,1,56,0,0,1 Feb 2018,v South Africa Durban,175
+11,Kuldeep Yadav,DNB,3,34,0,0,1 Feb 2018,v South Africa Durban,175
+1,Rohit Sharma,15,-,-,0,0,4 Feb 2018,v South Africa Centurion,176
+2,Hardik Pandya,DNB,0,34,2,0,4 Feb 2018,v South Africa Centurion,176
+4,Virat Kohli,46*,-,-,0,0,4 Feb 2018,v South Africa Centurion,176
+9,Jasprit Bumrah,DNB,1,12,0,0,4 Feb 2018,v South Africa Centurion,176
+11,Kuldeep Yadav,DNB,3,20,0,0,4 Feb 2018,v South Africa Centurion,176
+1,Rohit Sharma,0,-,-,0,0,7 Feb 2018,v South Africa Cape Town,177
+2,Hardik Pandya,14,0,35,0,0,7 Feb 2018,v South Africa Cape Town,177
+4,Virat Kohli,160*,-,-,2,0,7 Feb 2018,v South Africa Cape Town,177
+9,Jasprit Bumrah,DNB,2,32,0,0,7 Feb 2018,v South Africa Cape Town,177
+11,Kuldeep Yadav,DNB,4,23,0,0,7 Feb 2018,v South Africa Cape Town,177
+1,Rohit Sharma,5,-,-,1,0,10 Feb 2018,v South Africa Johannesburg,178
+2,Hardik Pandya,9,1,37,0,0,10 Feb 2018,v South Africa Johannesburg,178
+4,Virat Kohli,75,-,-,0,0,10 Feb 2018,v South Africa Johannesburg,178
+5,Shreyas Iyer,18,-,-,0,0,10 Feb 2018,v South Africa Johannesburg,178
+9,Jasprit Bumrah,DNB,1,21,0,0,10 Feb 2018,v South Africa Johannesburg,178
+11,Kuldeep Yadav,0*,2,51,0,0,10 Feb 2018,v South Africa Johannesburg,178
+1,Rohit Sharma,115,-,-,1,0,13 Feb 2018,v South Africa Gqeberha,179
+2,Hardik Pandya,0,2,30,1,0,13 Feb 2018,v South Africa Gqeberha,179
+4,Virat Kohli,36,-,-,1,0,13 Feb 2018,v South Africa Gqeberha,179
+5,Shreyas Iyer,30,-,-,0,0,13 Feb 2018,v South Africa Gqeberha,179
+9,Jasprit Bumrah,DNB,1,22,0,0,13 Feb 2018,v South Africa Gqeberha,179
+11,Kuldeep Yadav,2*,4,57,0,0,13 Feb 2018,v South Africa Gqeberha,179
+1,Rohit Sharma,15,-,-,0,0,16 Feb 2018,v South Africa Centurion,180
+2,Hardik Pandya,DNB,1,39,1,0,16 Feb 2018,v South Africa Centurion,180
+4,Virat Kohli,129*,-,-,2,0,16 Feb 2018,v South Africa Centurion,180
+5,Shreyas Iyer,DNB,-,-,2,0,16 Feb 2018,v South Africa Centurion,180
+8,Shardul Thakur,DNB,4,52,1,0,16 Feb 2018,v South Africa Centurion,180
+9,Jasprit Bumrah,DNB,2,24,1,0,16 Feb 2018,v South Africa Centurion,180
+11,Kuldeep Yadav,DNB,1,51,0,0,16 Feb 2018,v South Africa Centurion,180
+1,Rohit Sharma,137*,-,-,0,0,12 Jul 2018,v England Nottingham,181
+2,Hardik Pandya,DNB,0,47,1,0,12 Jul 2018,v England Nottingham,181
+4,Virat Kohli,75,-,-,1,0,12 Jul 2018,v England Nottingham,181
+6,KL Rahul,9*,-,-,1,0,12 Jul 2018,v England Nottingham,181
+11,Kuldeep Yadav,DNB,6,25,0,0,12 Jul 2018,v England Nottingham,181
+1,Rohit Sharma,15,-,-,1,0,14 Jul 2018,v England Lord's,182
+2,Hardik Pandya,21,1,70,0,0,14 Jul 2018,v England Lord's,182
+4,Virat Kohli,45,-,-,0,0,14 Jul 2018,v England Lord's,182
+6,KL Rahul,0,-,-,0,0,14 Jul 2018,v England Lord's,182
+11,Kuldeep Yadav,8*,3,68,0,0,14 Jul 2018,v England Lord's,182
+1,Rohit Sharma,2,-,-,0,0,17 Jul 2018,v England Leeds,183
+2,Hardik Pandya,21,0,39,0,0,17 Jul 2018,v England Leeds,183
+4,Virat Kohli,71,-,-,0,0,17 Jul 2018,v England Leeds,183
+8,Shardul Thakur,22*,1,51,0,0,17 Jul 2018,v England Leeds,183
+11,Kuldeep Yadav,DNB,0,55,0,0,17 Jul 2018,v England Leeds,183
+1,Rohit Sharma,23,-,-,1,0,18 Sep 2018,v Hong Kong Dubai (DSC),184
+8,Shardul Thakur,0,0,41,0,0,18 Sep 2018,v Hong Kong Dubai (DSC),184
+11,Kuldeep Yadav,0*,2,42,0,0,18 Sep 2018,v Hong Kong Dubai (DSC),184
+1,Rohit Sharma,52,-,-,0,0,19 Sep 2018,v Pakistan Dubai (DSC),185
+2,Hardik Pandya,DNB,0,24,0,0,19 Sep 2018,v Pakistan Dubai (DSC),185
+9,Jasprit Bumrah,DNB,2,23,0,0,19 Sep 2018,v Pakistan Dubai (DSC),185
+11,Kuldeep Yadav,DNB,1,37,0,0,19 Sep 2018,v Pakistan Dubai (DSC),185
+16,Babar Azam,47,-,-,1,0,19 Sep 2018,v India Dubai (DSC),185
+17,Shadab Khan,8,1,6,0,0,19 Sep 2018,v India Dubai (DSC),185
+19,Faqar Zaman,0,0,25,0,0,19 Sep 2018,v India Dubai (DSC),185
+23,Imam-Ul-Haq,2,-,-,0,0,19 Sep 2018,v India Dubai (DSC),185
+1,Rohit Sharma,83*,-,-,0,0,21 Sep 2018,v Bangladesh Dubai (DSC),186
+7,Ravindra Jadeja,DNB,4,29,0,0,21 Sep 2018,v Bangladesh Dubai (DSC),186
+9,Jasprit Bumrah,DNB,3,37,1,0,21 Sep 2018,v Bangladesh Dubai (DSC),186
+11,Kuldeep Yadav,DNB,0,34,0,0,21 Sep 2018,v Bangladesh Dubai (DSC),186
+1,Rohit Sharma,111*,-,-,1,0,23 Sep 2018,v Pakistan Dubai (DSC),187
+7,Ravindra Jadeja,DNB,0,50,0,0,23 Sep 2018,v Pakistan Dubai (DSC),187
+9,Jasprit Bumrah,DNB,2,29,0,0,23 Sep 2018,v Pakistan Dubai (DSC),187
+11,Kuldeep Yadav,DNB,2,41,0,0,23 Sep 2018,v Pakistan Dubai (DSC),187
+16,Babar Azam,9,-,-,0,0,23 Sep 2018,v India Dubai (DSC),187
+17,Shadab Khan,10,0,54,0,0,23 Sep 2018,v India Dubai (DSC),187
+19,Faqar Zaman,31,-,-,0,0,23 Sep 2018,v India Dubai (DSC),187
+23,Imam-Ul-Haq,10,-,-,0,0,23 Sep 2018,v India Dubai (DSC),187
+24,Mohammad Nawaz,15*,0,35,0,0,23 Sep 2018,v India Dubai (DSC),187
+29,Shaheen Shah Afridi,DNB,0,42,0,0,23 Sep 2018,v India Dubai (DSC),187
+1,Rohit Sharma,48,-,-,0,0,28 Sep 2018,v Bangladesh Dubai (DSC),188
+7,Ravindra Jadeja,23,0,31,0,0,28 Sep 2018,v Bangladesh Dubai (DSC),188
+9,Jasprit Bumrah,DNB,1,39,2,0,28 Sep 2018,v Bangladesh Dubai (DSC),188
+11,Kuldeep Yadav,5*,3,45,0,0,28 Sep 2018,v Bangladesh Dubai (DSC),188
+1,Rohit Sharma,152*,-,-,0,0,21 Oct 2018,v West Indies Guwahati,189
+4,Virat Kohli,140,-,-,0,0,21 Oct 2018,v West Indies Guwahati,189
+7,Ravindra Jadeja,DNB,2,66,0,0,21 Oct 2018,v West Indies Guwahati,189
+12,Mohammed Shami,DNB,2,81,0,0,21 Oct 2018,v West Indies Guwahati,189
+1,Rohit Sharma,4,-,-,1,0,24 Oct 2018,v West Indies Visakhapatnam,190
+4,Virat Kohli,157*,-,-,1,0,24 Oct 2018,v West Indies Visakhapatnam,190
+7,Ravindra Jadeja,13,0,49,0,0,24 Oct 2018,v West Indies Visakhapatnam,190
+11,Kuldeep Yadav,DNB,3,67,0,0,24 Oct 2018,v West Indies Visakhapatnam,190
+12,Mohammed Shami,0*,1,59,0,0,24 Oct 2018,v West Indies Visakhapatnam,190
+1,Rohit Sharma,8,-,-,2,0,27 Oct 2018,v West Indies Pune,191
+4,Virat Kohli,107,-,-,0,0,27 Oct 2018,v West Indies Pune,191
+9,Jasprit Bumrah,0,4,35,0,0,27 Oct 2018,v West Indies Pune,191
+11,Kuldeep Yadav,15*,2,52,0,0,27 Oct 2018,v West Indies Pune,191
+1,Rohit Sharma,162,-,-,3,0,29 Oct 2018,v West Indies Brabourne,192
+4,Virat Kohli,16,-,-,0,0,29 Oct 2018,v West Indies Brabourne,192
+7,Ravindra Jadeja,7*,1,39,0,0,29 Oct 2018,v West Indies Brabourne,192
+9,Jasprit Bumrah,DNB,0,25,0,0,29 Oct 2018,v West Indies Brabourne,192
+11,Kuldeep Yadav,DNB,3,42,0,0,29 Oct 2018,v West Indies Brabourne,192
+1,Rohit Sharma,63*,-,-,0,0,1 Nov 2018,v West Indies Thiruvananthapuram,193
+4,Virat Kohli,33*,-,-,1,0,1 Nov 2018,v West Indies Thiruvananthapuram,193
+7,Ravindra Jadeja,DNB,4,34,0,0,1 Nov 2018,v West Indies Thiruvananthapuram,193
+9,Jasprit Bumrah,DNB,2,11,0,0,1 Nov 2018,v West Indies Thiruvananthapuram,193
+11,Kuldeep Yadav,DNB,1,18,0,0,1 Nov 2018,v West Indies Thiruvananthapuram,193
+1,Rohit Sharma,133,-,-,1,0,12 Jan 2019,v Australia Sydney,194
+4,Virat Kohli,3,-,-,0,0,12 Jan 2019,v Australia Sydney,194
+7,Ravindra Jadeja,8,1,48,0,0,12 Jan 2019,v Australia Sydney,194
+11,Kuldeep Yadav,3,2,54,0,0,12 Jan 2019,v Australia Sydney,194
+12,Mohammed Shami,1,0,46,1,0,12 Jan 2019,v Australia Sydney,194
+1,Rohit Sharma,43,-,-,0,0,15 Jan 2019,v Australia Adelaide,195
+4,Virat Kohli,104,-,-,1,0,15 Jan 2019,v Australia Adelaide,195
+7,Ravindra Jadeja,DNB,1,49,1,0,15 Jan 2019,v Australia Adelaide,195
+10,Mohammed Siraj,DNB,0,76,0,0,15 Jan 2019,v Australia Adelaide,195
+11,Kuldeep Yadav,DNB,0,66,0,0,15 Jan 2019,v Australia Adelaide,195
+12,Mohammed Shami,DNB,3,58,0,0,15 Jan 2019,v Australia Adelaide,195
+1,Rohit Sharma,9,-,-,1,0,18 Jan 2019,v Australia Melbourne,196
+4,Virat Kohli,46,-,-,1,0,18 Jan 2019,v Australia Melbourne,196
+7,Ravindra Jadeja,DNB,0,53,0,0,18 Jan 2019,v Australia Melbourne,196
+12,Mohammed Shami,DNB,2,47,0,0,18 Jan 2019,v Australia Melbourne,196
+1,Rohit Sharma,11,-,-,1,0,23 Jan 2019,v New Zealand Napier,197
+4,Virat Kohli,45,-,-,0,0,23 Jan 2019,v New Zealand Napier,197
+11,Kuldeep Yadav,DNB,4,39,1,0,23 Jan 2019,v New Zealand Napier,197
+12,Mohammed Shami,DNB,3,19,0,0,23 Jan 2019,v New Zealand Napier,197
+1,Rohit Sharma,87,-,-,0,0,26 Jan 2019,v New Zealand Mount Maunganui,198
+4,Virat Kohli,43,-,-,0,0,26 Jan 2019,v New Zealand Mount Maunganui,198
+11,Kuldeep Yadav,DNB,4,45,0,0,26 Jan 2019,v New Zealand Mount Maunganui,198
+12,Mohammed Shami,DNB,1,43,1,0,26 Jan 2019,v New Zealand Mount Maunganui,198
+1,Rohit Sharma,62,-,-,1,0,28 Jan 2019,v New Zealand Mount Maunganui,199
+2,Hardik Pandya,DNB,2,45,1,0,28 Jan 2019,v New Zealand Mount Maunganui,199
+4,Virat Kohli,60,-,-,1,0,28 Jan 2019,v New Zealand Mount Maunganui,199
+11,Kuldeep Yadav,DNB,0,39,0,0,28 Jan 2019,v New Zealand Mount Maunganui,199
+12,Mohammed Shami,DNB,3,41,1,0,28 Jan 2019,v New Zealand Mount Maunganui,199
+1,Rohit Sharma,7,-,-,0,0,31 Jan 2019,v New Zealand Hamilton,200
+2,Hardik Pandya,16,0,15,1,0,31 Jan 2019,v New Zealand Hamilton,200
+3,Shubman Gill,9,-,-,0,0,31 Jan 2019,v New Zealand Hamilton,200
+11,Kuldeep Yadav,15,0,2,0,0,31 Jan 2019,v New Zealand Hamilton,200
+1,Rohit Sharma,2,-,-,0,0,3 Feb 2019,v New Zealand Wellington,201
+2,Hardik Pandya,45,2,50,0,0,3 Feb 2019,v New Zealand Wellington,201
+3,Shubman Gill,7,-,-,0,0,3 Feb 2019,v New Zealand Wellington,201
+12,Mohammed Shami,1,2,35,2,0,3 Feb 2019,v New Zealand Wellington,201
+1,Rohit Sharma,37,-,-,0,0,2 Mar 2019,v Australia Hyderabad,202
+4,Virat Kohli,44,-,-,2,0,2 Mar 2019,v Australia Hyderabad,202
+7,Ravindra Jadeja,DNB,0,33,0,0,2 Mar 2019,v Australia Hyderabad,202
+9,Jasprit Bumrah,DNB,2,60,0,0,2 Mar 2019,v Australia Hyderabad,202
+11,Kuldeep Yadav,DNB,2,46,0,0,2 Mar 2019,v Australia Hyderabad,202
+12,Mohammed Shami,DNB,2,44,0,0,2 Mar 2019,v Australia Hyderabad,202
+1,Rohit Sharma,0,-,-,0,0,5 Mar 2019,v Australia Nagpur,203
+4,Virat Kohli,116,-,-,1,0,5 Mar 2019,v Australia Nagpur,203
+7,Ravindra Jadeja,21,1,48,0,0,5 Mar 2019,v Australia Nagpur,203
+9,Jasprit Bumrah,0,2,29,0,0,5 Mar 2019,v Australia Nagpur,203
+11,Kuldeep Yadav,3,3,54,0,0,5 Mar 2019,v Australia Nagpur,203
+12,Mohammed Shami,2*,0,60,0,0,5 Mar 2019,v Australia Nagpur,203
+1,Rohit Sharma,14,-,-,0,0,8 Mar 2019,v Australia Ranchi,204
+4,Virat Kohli,123,-,-,0,0,8 Mar 2019,v Australia Ranchi,204
+7,Ravindra Jadeja,24,0,64,0,0,8 Mar 2019,v Australia Ranchi,204
+9,Jasprit Bumrah,0*,0,53,1,0,8 Mar 2019,v Australia Ranchi,204
+11,Kuldeep Yadav,10,3,64,0,0,8 Mar 2019,v Australia Ranchi,204
+12,Mohammed Shami,8,1,52,0,0,8 Mar 2019,v Australia Ranchi,204
+1,Rohit Sharma,95,-,-,0,0,10 Mar 2019,v Australia Mohali,205
+4,Virat Kohli,7,-,-,0,0,10 Mar 2019,v Australia Mohali,205
+6,KL Rahul,26,-,-,1,0,10 Mar 2019,v Australia Mohali,205
+9,Jasprit Bumrah,6*,3,63,0,0,10 Mar 2019,v Australia Mohali,205
+11,Kuldeep Yadav,1*,1,64,1,0,10 Mar 2019,v Australia Mohali,205
+1,Rohit Sharma,56,-,-,0,0,13 Mar 2019,v Australia Delhi,206
+4,Virat Kohli,20,-,-,2,0,13 Mar 2019,v Australia Delhi,206
+7,Ravindra Jadeja,0,2,45,1,0,13 Mar 2019,v Australia Delhi,206
+9,Jasprit Bumrah,1*,0,39,0,0,13 Mar 2019,v Australia Delhi,206
+11,Kuldeep Yadav,8,1,74,0,0,13 Mar 2019,v Australia Delhi,206
+12,Mohammed Shami,3,2,57,0,0,13 Mar 2019,v Australia Delhi,206
+1,Rohit Sharma,122*,-,-,1,0,5 Jun 2019,v South Africa Southampton,207
+2,Hardik Pandya,15*,0,31,0,0,5 Jun 2019,v South Africa Southampton,207
+4,Virat Kohli,18,-,-,2,0,5 Jun 2019,v South Africa Southampton,207
+6,KL Rahul,26,-,-,0,0,5 Jun 2019,v South Africa Southampton,207
+9,Jasprit Bumrah,DNB,2,35,0,0,5 Jun 2019,v South Africa Southampton,207
+11,Kuldeep Yadav,DNB,1,46,0,0,5 Jun 2019,v South Africa Southampton,207
+1,Rohit Sharma,57,-,-,0,0,9 Jun 2019,v Australia The Oval,208
+2,Hardik Pandya,48,0,68,0,0,9 Jun 2019,v Australia The Oval,208
+4,Virat Kohli,82,-,-,1,0,9 Jun 2019,v Australia The Oval,208
+6,KL Rahul,11*,-,-,0,0,9 Jun 2019,v Australia The Oval,208
+9,Jasprit Bumrah,DNB,3,61,0,0,9 Jun 2019,v Australia The Oval,208
+11,Kuldeep Yadav,DNB,0,55,0,0,9 Jun 2019,v Australia The Oval,208
+1,Rohit Sharma,140,-,-,0,0,16 Jun 2019,v Pakistan Manchester,209
+2,Hardik Pandya,26,2,44,0,0,16 Jun 2019,v Pakistan Manchester,209
+4,Virat Kohli,77,-,-,0,0,16 Jun 2019,v Pakistan Manchester,209
+6,KL Rahul,57,-,-,0,0,16 Jun 2019,v Pakistan Manchester,209
+9,Jasprit Bumrah,DNB,0,52,0,0,16 Jun 2019,v Pakistan Manchester,209
+11,Kuldeep Yadav,DNB,2,32,0,0,16 Jun 2019,v Pakistan Manchester,209
+16,Babar Azam,48,-,-,2,0,16 Jun 2019,v India Manchester,209
+17,Shadab Khan,20*,0,61,0,0,16 Jun 2019,v India Manchester,209
+19,Faqar Zaman,62,-,-,0,0,16 Jun 2019,v India Manchester,209
+23,Imam-Ul-Haq,7,-,-,0,0,16 Jun 2019,v India Manchester,209
+1,Rohit Sharma,1,-,-,0,0,22 Jun 2019,v Afghanistan Southampton,210
+2,Hardik Pandya,7,2,51,1,0,22 Jun 2019,v Afghanistan Southampton,210
+4,Virat Kohli,67,-,-,0,0,22 Jun 2019,v Afghanistan Southampton,210
+6,KL Rahul,30,-,-,0,0,22 Jun 2019,v Afghanistan Southampton,210
+9,Jasprit Bumrah,1*,2,39,1,0,22 Jun 2019,v Afghanistan Southampton,210
+11,Kuldeep Yadav,1*,0,39,0,0,22 Jun 2019,v Afghanistan Southampton,210
+12,Mohammed Shami,1,4,40,0,0,22 Jun 2019,v Afghanistan Southampton,210
+1,Rohit Sharma,18,-,-,1,0,27 Jun 2019,v West Indies Manchester,211
+2,Hardik Pandya,46,1,28,0,0,27 Jun 2019,v West Indies Manchester,211
+4,Virat Kohli,72,-,-,0,0,27 Jun 2019,v West Indies Manchester,211
+6,KL Rahul,48,-,-,1,0,27 Jun 2019,v West Indies Manchester,211
+9,Jasprit Bumrah,DNB,2,9,0,0,27 Jun 2019,v West Indies Manchester,211
+11,Kuldeep Yadav,0*,1,35,0,0,27 Jun 2019,v West Indies Manchester,211
+12,Mohammed Shami,0,4,16,1,0,27 Jun 2019,v West Indies Manchester,211
+1,Rohit Sharma,102,-,-,1,0,30 Jun 2019,v England Birmingham,212
+2,Hardik Pandya,45,0,60,1,0,30 Jun 2019,v England Birmingham,212
+4,Virat Kohli,66,-,-,0,0,30 Jun 2019,v England Birmingham,212
+6,KL Rahul,0,-,-,0,0,30 Jun 2019,v England Birmingham,212
+9,Jasprit Bumrah,DNB,1,44,0,0,30 Jun 2019,v England Birmingham,212
+11,Kuldeep Yadav,DNB,1,72,0,0,30 Jun 2019,v England Birmingham,212
+12,Mohammed Shami,DNB,5,69,1,0,30 Jun 2019,v England Birmingham,212
+1,Rohit Sharma,104,-,-,0,0,2 Jul 2019,v Bangladesh Birmingham,213
+2,Hardik Pandya,0,3,60,0,0,2 Jul 2019,v Bangladesh Birmingham,213
+4,Virat Kohli,26,-,-,1,0,2 Jul 2019,v Bangladesh Birmingham,213
+6,KL Rahul,77,-,-,0,0,2 Jul 2019,v Bangladesh Birmingham,213
+9,Jasprit Bumrah,0*,4,55,0,0,2 Jul 2019,v Bangladesh Birmingham,213
+12,Mohammed Shami,1,1,68,1,0,2 Jul 2019,v Bangladesh Birmingham,213
+1,Rohit Sharma,103,-,-,1,0,6 Jul 2019,v Sri Lanka Leeds,214
+2,Hardik Pandya,7*,1,50,1,0,6 Jul 2019,v Sri Lanka Leeds,214
+4,Virat Kohli,34*,-,-,0,0,6 Jul 2019,v Sri Lanka Leeds,214
+6,KL Rahul,111,-,-,0,0,6 Jul 2019,v Sri Lanka Leeds,214
+7,Ravindra Jadeja,DNB,1,40,1,0,6 Jul 2019,v Sri Lanka Leeds,214
+9,Jasprit Bumrah,DNB,3,37,0,0,6 Jul 2019,v Sri Lanka Leeds,214
+11,Kuldeep Yadav,DNB,1,58,0,0,6 Jul 2019,v Sri Lanka Leeds,214
+1,Rohit Sharma,1,-,-,0,0,9 Jul 2019,v New Zealand Manchester,215
+2,Hardik Pandya,32,1,55,0,0,9 Jul 2019,v New Zealand Manchester,215
+4,Virat Kohli,1,-,-,2,0,9 Jul 2019,v New Zealand Manchester,215
+6,KL Rahul,1,-,-,0,0,9 Jul 2019,v New Zealand Manchester,215
+7,Ravindra Jadeja,77,1,34,2,0,9 Jul 2019,v New Zealand Manchester,215
+9,Jasprit Bumrah,0*,1,39,0,0,9 Jul 2019,v New Zealand Manchester,215
+1,Rohit Sharma,TDNB,-,-,0,0,8 Aug 2019,v West Indies Providence,216
+4,Virat Kohli,TDNB,-,-,0,0,8 Aug 2019,v West Indies Providence,216
+5,Shreyas Iyer,TDNB,-,-,0,0,8 Aug 2019,v West Indies Providence,216
+7,Ravindra Jadeja,TDNB,0,6,0,0,8 Aug 2019,v West Indies Providence,216
+11,Kuldeep Yadav,TDNB,1,3,0,0,8 Aug 2019,v West Indies Providence,216
+12,Mohammed Shami,TDNB,0,5,0,0,8 Aug 2019,v West Indies Providence,216
+1,Rohit Sharma,18,-,-,0,0,11 Aug 2019,v West Indies Port of Spain,217
+4,Virat Kohli,120,-,-,3,0,11 Aug 2019,v West Indies Port of Spain,217
+5,Shreyas Iyer,71,-,-,0,0,11 Aug 2019,v West Indies Port of Spain,217
+7,Ravindra Jadeja,16*,1,15,1,0,11 Aug 2019,v West Indies Port of Spain,217
+11,Kuldeep Yadav,DNB,2,59,0,0,11 Aug 2019,v West Indies Port of Spain,217
+12,Mohammed Shami,3*,2,39,1,0,11 Aug 2019,v West Indies Port of Spain,217
+1,Rohit Sharma,10,-,-,0,0,14 Aug 2019,v West Indies Port of Spain,218
+4,Virat Kohli,114*,-,-,2,0,14 Aug 2019,v West Indies Port of Spain,218
+5,Shreyas Iyer,65,-,-,0,0,14 Aug 2019,v West Indies Port of Spain,218
+7,Ravindra Jadeja,DNB,1,26,0,0,14 Aug 2019,v West Indies Port of Spain,218
+12,Mohammed Shami,DNB,2,50,0,0,14 Aug 2019,v West Indies Port of Spain,218
+1,Rohit Sharma,36,-,-,0,0,15 Dec 2019,v West Indies Chennai,219
+4,Virat Kohli,4,-,-,0,0,15 Dec 2019,v West Indies Chennai,219
+5,Shreyas Iyer,70,-,-,1,0,15 Dec 2019,v West Indies Chennai,219
+6,KL Rahul,6,-,-,0,0,15 Dec 2019,v West Indies Chennai,219
+7,Ravindra Jadeja,21,0,58,0,0,15 Dec 2019,v West Indies Chennai,219
+11,Kuldeep Yadav,DNB,0,45,0,0,15 Dec 2019,v West Indies Chennai,219
+12,Mohammed Shami,0*,1,57,0,0,15 Dec 2019,v West Indies Chennai,219
+1,Rohit Sharma,159,-,-,0,0,18 Dec 2019,v West Indies Visakhapatnam,220
+4,Virat Kohli,0,-,-,2,0,18 Dec 2019,v West Indies Visakhapatnam,220
+5,Shreyas Iyer,53,0,13,1,0,18 Dec 2019,v West Indies Visakhapatnam,220
+6,KL Rahul,102,-,-,0,0,18 Dec 2019,v West Indies Visakhapatnam,220
+7,Ravindra Jadeja,0*,2,74,0,0,18 Dec 2019,v West Indies Visakhapatnam,220
+8,Shardul Thakur,DNB,1,55,0,0,18 Dec 2019,v West Indies Visakhapatnam,220
+11,Kuldeep Yadav,DNB,3,52,1,0,18 Dec 2019,v West Indies Visakhapatnam,220
+12,Mohammed Shami,DNB,3,39,0,0,18 Dec 2019,v West Indies Visakhapatnam,220
+1,Rohit Sharma,63,-,-,0,0,22 Dec 2019,v West Indies Cuttack,221
+4,Virat Kohli,85,-,-,0,0,22 Dec 2019,v West Indies Cuttack,221
+5,Shreyas Iyer,7,-,-,0,0,22 Dec 2019,v West Indies Cuttack,221
+6,KL Rahul,77,-,-,0,0,22 Dec 2019,v West Indies Cuttack,221
+7,Ravindra Jadeja,39*,1,54,1,0,22 Dec 2019,v West Indies Cuttack,221
+8,Shardul Thakur,17*,1,66,0,0,22 Dec 2019,v West Indies Cuttack,221
+11,Kuldeep Yadav,DNB,0,67,1,0,22 Dec 2019,v West Indies Cuttack,221
+12,Mohammed Shami,DNB,1,66,0,0,22 Dec 2019,v West Indies Cuttack,221
+1,Rohit Sharma,10,-,-,0,0,14 Jan 2020,v Australia Wankhede,222
+4,Virat Kohli,16,-,-,0,0,14 Jan 2020,v Australia Wankhede,222
+5,Shreyas Iyer,4,-,-,0,0,14 Jan 2020,v Australia Wankhede,222
+6,KL Rahul,47,-,-,0,0,14 Jan 2020,v Australia Wankhede,222
+7,Ravindra Jadeja,25,0,41,0,0,14 Jan 2020,v Australia Wankhede,222
+8,Shardul Thakur,13,0,43,0,0,14 Jan 2020,v Australia Wankhede,222
+9,Jasprit Bumrah,0*,0,50,0,0,14 Jan 2020,v Australia Wankhede,222
+11,Kuldeep Yadav,17,0,55,0,0,14 Jan 2020,v Australia Wankhede,222
+12,Mohammed Shami,10,0,58,0,0,14 Jan 2020,v Australia Wankhede,222
+1,Rohit Sharma,42,-,-,0,0,17 Jan 2020,v Australia Rajkot,223
+4,Virat Kohli,78,-,-,1,0,17 Jan 2020,v Australia Rajkot,223
+5,Shreyas Iyer,7,-,-,0,0,17 Jan 2020,v Australia Rajkot,223
+6,KL Rahul,80,-,-,2,1,17 Jan 2020,v Australia Rajkot,223
+7,Ravindra Jadeja,20*,2,58,0,0,17 Jan 2020,v Australia Rajkot,223
+9,Jasprit Bumrah,DNB,1,32,0,0,17 Jan 2020,v Australia Rajkot,223
+11,Kuldeep Yadav,DNB,2,65,0,0,17 Jan 2020,v Australia Rajkot,223
+12,Mohammed Shami,1*,3,77,1,0,17 Jan 2020,v Australia Rajkot,223
+1,Rohit Sharma,119,-,-,0,0,19 Jan 2020,v Australia Bengaluru,224
+4,Virat Kohli,89,-,-,1,0,19 Jan 2020,v Australia Bengaluru,224
+5,Shreyas Iyer,44*,-,-,2,0,19 Jan 2020,v Australia Bengaluru,224
+6,KL Rahul,19,-,-,2,0,19 Jan 2020,v Australia Bengaluru,224
+7,Ravindra Jadeja,DNB,2,44,0,0,19 Jan 2020,v Australia Bengaluru,224
+9,Jasprit Bumrah,DNB,0,38,0,0,19 Jan 2020,v Australia Bengaluru,224
+11,Kuldeep Yadav,DNB,1,62,0,0,19 Jan 2020,v Australia Bengaluru,224
+12,Mohammed Shami,DNB,4,63,0,0,19 Jan 2020,v Australia Bengaluru,224
+1,Rohit Sharma,28,-,-,0,0,23 Mar 2021,v England Pune,225
+2,Hardik Pandya,1,-,-,0,0,23 Mar 2021,v England Pune,225
+4,Virat Kohli,56,-,-,1,0,23 Mar 2021,v England Pune,225
+5,Shreyas Iyer,6,-,-,0,0,23 Mar 2021,v England Pune,225
+6,KL Rahul,62*,-,-,3,0,23 Mar 2021,v England Pune,225
+8,Shardul Thakur,DNB,3,37,0,0,23 Mar 2021,v England Pune,225
+11,Kuldeep Yadav,DNB,0,68,1,0,23 Mar 2021,v England Pune,225
+1,Rohit Sharma,25,-,-,0,0,26 Mar 2021,v England Pune,226
+2,Hardik Pandya,35,-,-,0,0,26 Mar 2021,v England Pune,226
+4,Virat Kohli,66,-,-,1,0,26 Mar 2021,v England Pune,226
+6,KL Rahul,108,-,-,0,0,26 Mar 2021,v England Pune,226
+8,Shardul Thakur,0*,0,54,0,0,26 Mar 2021,v England Pune,226
+11,Kuldeep Yadav,DNB,0,84,0,0,26 Mar 2021,v England Pune,226
+1,Rohit Sharma,37,-,-,1,0,28 Mar 2021,v England Pune,227
+2,Hardik Pandya,64,0,48,1,0,28 Mar 2021,v England Pune,227
+4,Virat Kohli,7,-,-,1,0,28 Mar 2021,v England Pune,227
+6,KL Rahul,7,-,-,0,0,28 Mar 2021,v England Pune,227
+8,Shardul Thakur,30,4,67,1,0,28 Mar 2021,v England Pune,227
+1,Rohit Sharma,60,-,-,0,0,6 Feb 2022,v West Indies Ahmedabad,228
+4,Virat Kohli,8,-,-,0,0,6 Feb 2022,v West Indies Ahmedabad,228
+8,Shardul Thakur,DNB,0,38,0,0,6 Feb 2022,v West Indies Ahmedabad,228
+10,Mohammed Siraj,DNB,1,26,0,0,6 Feb 2022,v West Indies Ahmedabad,228
+14,Ishan Kishan,28,-,-,0,0,6 Feb 2022,v West Indies Ahmedabad,228
+15,Suryakumar Yadav,34*,-,-,2,0,6 Feb 2022,v West Indies Ahmedabad,228
+1,Rohit Sharma,5,-,-,1,0,9 Feb 2022,v West Indies Ahmedabad,229
+4,Virat Kohli,18,-,-,1,0,9 Feb 2022,v West Indies Ahmedabad,229
+6,KL Rahul,49,-,-,0,0,9 Feb 2022,v West Indies Ahmedabad,229
+8,Shardul Thakur,8,2,41,0,0,9 Feb 2022,v West Indies Ahmedabad,229
+10,Mohammed Siraj,3,1,38,0,0,9 Feb 2022,v West Indies Ahmedabad,229
+15,Suryakumar Yadav,64,-,-,2,0,9 Feb 2022,v West Indies Ahmedabad,229
+1,Rohit Sharma,13,-,-,3,0,11 Feb 2022,v West Indies Ahmedabad,230
+4,Virat Kohli,0,-,-,2,0,11 Feb 2022,v West Indies Ahmedabad,230
+5,Shreyas Iyer,80,-,-,1,0,11 Feb 2022,v West Indies Ahmedabad,230
+10,Mohammed Siraj,4,3,29,0,0,11 Feb 2022,v West Indies Ahmedabad,230
+11,Kuldeep Yadav,5,2,51,0,0,11 Feb 2022,v West Indies Ahmedabad,230
+15,Suryakumar Yadav,6,-,-,1,0,11 Feb 2022,v West Indies Ahmedabad,230
+1,Rohit Sharma,76*,-,-,0,0,12 Jul 2022,v England The Oval,231
+2,Hardik Pandya,DNB,0,22,0,0,12 Jul 2022,v England The Oval,231
+5,Shreyas Iyer,DNB,-,-,0,0,12 Jul 2022,v England The Oval,231
+7,Ravindra Jadeja,DNB,-,-,0,0,12 Jul 2022,v England The Oval,231
+9,Jasprit Bumrah,DNB,6,19,0,0,12 Jul 2022,v England The Oval,231
+12,Mohammed Shami,DNB,3,31,0,0,12 Jul 2022,v England The Oval,231
+15,Suryakumar Yadav,DNB,-,-,1,0,12 Jul 2022,v England The Oval,231
+1,Rohit Sharma,0,-,-,0,0,14 Jul 2022,v England Lord's,232
+2,Hardik Pandya,29,2,28,0,0,14 Jul 2022,v England Lord's,232
+4,Virat Kohli,16,-,-,0,0,14 Jul 2022,v England Lord's,232
+7,Ravindra Jadeja,29,0,17,1,0,14 Jul 2022,v England Lord's,232
+9,Jasprit Bumrah,2*,2,49,0,0,14 Jul 2022,v England Lord's,232
+12,Mohammed Shami,23,1,48,0,0,14 Jul 2022,v England Lord's,232
+15,Suryakumar Yadav,27,-,-,1,0,14 Jul 2022,v England Lord's,232
+1,Rohit Sharma,17,-,-,1,0,17 Jul 2022,v England Manchester,233
+2,Hardik Pandya,71,4,24,1,0,17 Jul 2022,v England Manchester,233
+4,Virat Kohli,17,-,-,1,0,17 Jul 2022,v England Manchester,233
+7,Ravindra Jadeja,7*,1,21,2,0,17 Jul 2022,v England Manchester,233
+10,Mohammed Siraj,DNB,2,66,0,0,17 Jul 2022,v England Manchester,233
+12,Mohammed Shami,DNB,0,38,0,0,17 Jul 2022,v England Manchester,233
+15,Suryakumar Yadav,16,-,-,1,0,17 Jul 2022,v England Manchester,233
+1,Rohit Sharma,27,-,-,1,0,4 Dec 2022,v Bangladesh Mirpur,234
+4,Virat Kohli,9,-,-,1,0,4 Dec 2022,v Bangladesh Mirpur,234
+5,Shreyas Iyer,24,-,-,0,0,4 Dec 2022,v Bangladesh Mirpur,234
+6,KL Rahul,73,-,-,1,0,4 Dec 2022,v Bangladesh Mirpur,234
+8,Shardul Thakur,2,1,21,0,0,4 Dec 2022,v Bangladesh Mirpur,234
+10,Mohammed Siraj,9,3,32,1,0,4 Dec 2022,v Bangladesh Mirpur,234
+1,Rohit Sharma,51*,-,-,0,0,7 Dec 2022,v Bangladesh Mirpur,235
+4,Virat Kohli,5,-,-,0,0,7 Dec 2022,v Bangladesh Mirpur,235
+5,Shreyas Iyer,82,-,-,0,0,7 Dec 2022,v Bangladesh Mirpur,235
+6,KL Rahul,14,-,-,1,0,7 Dec 2022,v Bangladesh Mirpur,235
+8,Shardul Thakur,7,0,47,0,0,7 Dec 2022,v Bangladesh Mirpur,235
+10,Mohammed Siraj,2,2,73,0,0,7 Dec 2022,v Bangladesh Mirpur,235
+1,Rohit Sharma,83,-,-,1,0,10 Jan 2023,v Sri Lanka Guwahati,236
+2,Hardik Pandya,14,1,33,1,0,10 Jan 2023,v Sri Lanka Guwahati,236
+3,Shubman Gill,70,-,-,1,0,10 Jan 2023,v Sri Lanka Guwahati,236
+4,Virat Kohli,113,-,-,0,0,10 Jan 2023,v Sri Lanka Guwahati,236
+5,Shreyas Iyer,28,-,-,1,0,10 Jan 2023,v Sri Lanka Guwahati,236
+6,KL Rahul,39,-,-,2,0,10 Jan 2023,v Sri Lanka Guwahati,236
+10,Mohammed Siraj,7*,2,30,0,0,10 Jan 2023,v Sri Lanka Guwahati,236
+12,Mohammed Shami,4*,1,67,0,0,10 Jan 2023,v Sri Lanka Guwahati,236
+1,Rohit Sharma,17,-,-,0,0,12 Jan 2023,v Sri Lanka Eden Gardens,237
+2,Hardik Pandya,36,0,26,0,0,12 Jan 2023,v Sri Lanka Eden Gardens,237
+3,Shubman Gill,21,-,-,0,0,12 Jan 2023,v Sri Lanka Eden Gardens,237
+4,Virat Kohli,4,-,-,0,0,12 Jan 2023,v Sri Lanka Eden Gardens,237
+5,Shreyas Iyer,28,-,-,0,0,12 Jan 2023,v Sri Lanka Eden Gardens,237
+6,KL Rahul,64*,-,-,0,0,12 Jan 2023,v Sri Lanka Eden Gardens,237
+10,Mohammed Siraj,DNB,3,30,0,0,12 Jan 2023,v Sri Lanka Eden Gardens,237
+11,Kuldeep Yadav,10*,3,51,1,0,12 Jan 2023,v Sri Lanka Eden Gardens,237
+12,Mohammed Shami,DNB,0,43,0,0,12 Jan 2023,v Sri Lanka Eden Gardens,237
+1,Rohit Sharma,42,-,-,0,0,15 Jan 2023,v Sri Lanka Thiruvananthapuram,238
+3,Shubman Gill,116,-,-,1,0,15 Jan 2023,v Sri Lanka Thiruvananthapuram,238
+4,Virat Kohli,166*,-,-,0,0,15 Jan 2023,v Sri Lanka Thiruvananthapuram,238
+5,Shreyas Iyer,38,0,2,0,0,15 Jan 2023,v Sri Lanka Thiruvananthapuram,238
+6,KL Rahul,7,-,-,1,0,15 Jan 2023,v Sri Lanka Thiruvananthapuram,238
+10,Mohammed Siraj,DNB,4,32,0,0,15 Jan 2023,v Sri Lanka Thiruvananthapuram,238
+11,Kuldeep Yadav,DNB,2,16,0,0,15 Jan 2023,v Sri Lanka Thiruvananthapuram,238
+12,Mohammed Shami,DNB,2,20,0,0,15 Jan 2023,v Sri Lanka Thiruvananthapuram,238
+15,Suryakumar Yadav,4,-,-,1,0,15 Jan 2023,v Sri Lanka Thiruvananthapuram,238
+1,Rohit Sharma,34,-,-,0,0,18 Jan 2023,v New Zealand Hyderabad,239
+2,Hardik Pandya,28,1,70,0,0,18 Jan 2023,v New Zealand Hyderabad,239
+3,Shubman Gill,208,-,-,1,0,18 Jan 2023,v New Zealand Hyderabad,239
+4,Virat Kohli,8,-,-,0,0,18 Jan 2023,v New Zealand Hyderabad,239
+8,Shardul Thakur,3,2,54,0,0,18 Jan 2023,v New Zealand Hyderabad,239
+10,Mohammed Siraj,DNB,4,46,0,0,18 Jan 2023,v New Zealand Hyderabad,239
+11,Kuldeep Yadav,5*,2,43,1,0,18 Jan 2023,v New Zealand Hyderabad,239
+12,Mohammed Shami,2*,1,69,0,0,18 Jan 2023,v New Zealand Hyderabad,239
+14,Ishan Kishan,5,-,-,0,0,18 Jan 2023,v New Zealand Hyderabad,239
+15,Suryakumar Yadav,31,-,-,1,0,18 Jan 2023,v New Zealand Hyderabad,239
+1,Rohit Sharma,51,-,-,0,0,21 Jan 2023,v New Zealand Raipur,240
+2,Hardik Pandya,DNB,2,16,1,0,21 Jan 2023,v New Zealand Raipur,240
+3,Shubman Gill,40*,-,-,2,0,21 Jan 2023,v New Zealand Raipur,240
+4,Virat Kohli,11,-,-,0,0,21 Jan 2023,v New Zealand Raipur,240
+8,Shardul Thakur,DNB,1,26,0,0,21 Jan 2023,v New Zealand Raipur,240
+10,Mohammed Siraj,DNB,1,10,0,0,21 Jan 2023,v New Zealand Raipur,240
+11,Kuldeep Yadav,DNB,1,29,0,0,21 Jan 2023,v New Zealand Raipur,240
+12,Mohammed Shami,DNB,3,18,1,0,21 Jan 2023,v New Zealand Raipur,240
+14,Ishan Kishan,8*,-,-,1,0,21 Jan 2023,v New Zealand Raipur,240
+15,Suryakumar Yadav,DNB,-,-,2,0,21 Jan 2023,v New Zealand Raipur,240
+1,Rohit Sharma,101,-,-,2,0,24 Jan 2023,v New Zealand Indore,241
+2,Hardik Pandya,54,1,37,1,0,24 Jan 2023,v New Zealand Indore,241
+3,Shubman Gill,112,-,-,0,0,24 Jan 2023,v New Zealand Indore,241
+4,Virat Kohli,36,-,-,2,0,24 Jan 2023,v New Zealand Indore,241
+8,Shardul Thakur,25,3,45,0,0,24 Jan 2023,v New Zealand Indore,241
+11,Kuldeep Yadav,3,3,62,0,0,24 Jan 2023,v New Zealand Indore,241
+14,Ishan Kishan,17,-,-,1,1,24 Jan 2023,v New Zealand Indore,241
+15,Suryakumar Yadav,14,-,-,0,0,24 Jan 2023,v New Zealand Indore,241
+1,Rohit Sharma,13,-,-,0,0,19 Mar 2023,v Australia Visakhapatnam,242
+2,Hardik Pandya,1,0,18,0,0,19 Mar 2023,v Australia Visakhapatnam,242
+3,Shubman Gill,0,-,-,0,0,19 Mar 2023,v Australia Visakhapatnam,242
+4,Virat Kohli,31,-,-,0,0,19 Mar 2023,v Australia Visakhapatnam,242
+6,KL Rahul,9,-,-,0,0,19 Mar 2023,v Australia Visakhapatnam,242
+7,Ravindra Jadeja,16,-,-,0,0,19 Mar 2023,v Australia Visakhapatnam,242
+10,Mohammed Siraj,0,0,37,0,0,19 Mar 2023,v Australia Visakhapatnam,242
+11,Kuldeep Yadav,4,0,12,0,0,19 Mar 2023,v Australia Visakhapatnam,242
+12,Mohammed Shami,0,0,29,0,0,19 Mar 2023,v Australia Visakhapatnam,242
+15,Suryakumar Yadav,0,-,-,0,0,19 Mar 2023,v Australia Visakhapatnam,242
+1,Rohit Sharma,30,-,-,0,0,22 Mar 2023,v Australia Chennai,243
+2,Hardik Pandya,40,3,44,1,0,22 Mar 2023,v Australia Chennai,243
+3,Shubman Gill,37,-,-,2,0,22 Mar 2023,v Australia Chennai,243
+4,Virat Kohli,54,-,-,0,0,22 Mar 2023,v Australia Chennai,243
+6,KL Rahul,32,-,-,1,0,22 Mar 2023,v Australia Chennai,243
+7,Ravindra Jadeja,18,0,34,1,0,22 Mar 2023,v Australia Chennai,243
+10,Mohammed Siraj,3*,2,37,0,0,22 Mar 2023,v Australia Chennai,243
+11,Kuldeep Yadav,6,3,56,1,0,22 Mar 2023,v Australia Chennai,243
+12,Mohammed Shami,14,0,37,0,0,22 Mar 2023,v Australia Chennai,243
+15,Suryakumar Yadav,0,-,-,0,0,22 Mar 2023,v Australia Chennai,243
+1,Rohit Sharma,12*,-,-,1,0,27 Jul 2023,v West Indies Bridgetown,244
+2,Hardik Pandya,5,1,17,1,0,27 Jul 2023,v West Indies Bridgetown,244
+3,Shubman Gill,7,-,-,1,0,27 Jul 2023,v West Indies Bridgetown,244
+4,Virat Kohli,DNB,-,-,1,0,27 Jul 2023,v West Indies Bridgetown,244
+7,Ravindra Jadeja,16*,3,37,1,0,27 Jul 2023,v West Indies Bridgetown,244
+8,Shardul Thakur,1,1,14,0,0,27 Jul 2023,v West Indies Bridgetown,244
+11,Kuldeep Yadav,DNB,4,6,0,0,27 Jul 2023,v West Indies Bridgetown,244
+14,Ishan Kishan,52,-,-,0,0,27 Jul 2023,v West Indies Bridgetown,244
+15,Suryakumar Yadav,19,-,-,0,0,27 Jul 2023,v West Indies Bridgetown,244
+1,Rohit Sharma,11,-,-,-,-,2 Sep 2023,v Pakistan Pallekele,245
+2,Hardik Pandya,87,-,-,-,-,2 Sep 2023,v Pakistan Pallekele,245
+3,Shubman Gill,10,-,-,-,-,2 Sep 2023,v Pakistan Pallekele,245
+4,Virat Kohli,4,-,-,-,-,2 Sep 2023,v Pakistan Pallekele,245
+5,Shreyas Iyer,14,-,-,-,-,2 Sep 2023,v Pakistan Pallekele,245
+7,Ravindra Jadeja,14,-,-,-,-,2 Sep 2023,v Pakistan Pallekele,245
+8,Shardul Thakur,3,-,-,-,-,2 Sep 2023,v Pakistan Pallekele,245
+9,Jasprit Bumrah,16,-,-,-,-,2 Sep 2023,v Pakistan Pallekele,245
+10,Mohammed Siraj,1*,-,-,-,-,2 Sep 2023,v Pakistan Pallekele,245
+11,Kuldeep Yadav,4,-,-,-,-,2 Sep 2023,v Pakistan Pallekele,245
+14,Ishan Kishan,82,-,-,-,-,2 Sep 2023,v Pakistan Pallekele,245
+16,Babar Azam,TDNB,-,-,1,0,2 Sep 2023,v India Pallekele,245
+17,Shadab Khan,TDNB,0,57,1,0,2 Sep 2023,v India Pallekele,245
+19,Faqar Zaman,TDNB,-,-,1,0,2 Sep 2023,v India Pallekele,245
+20,Haris Rauf,TDNB,3,58,0,0,2 Sep 2023,v India Pallekele,245
+22,Iftikhar Ahmed,TDNB,-,-,0,0,2 Sep 2023,v India Pallekele,245
+23,Imam-Ul-Haq,TDNB,-,-,0,0,2 Sep 2023,v India Pallekele,245
+24,Mohammad Nawaz,TDNB,0,55,0,0,2 Sep 2023,v India Pallekele,245
+25,Mohammad Rizwan,TDNB,-,-,2,0,2 Sep 2023,v India Pallekele,245
+27,Salman Agha,TDNB,0,21,2,0,2 Sep 2023,v India Pallekele,245
+29,Shaheen Shah Afridi,TDNB,4,35,0,0,2 Sep 2023,v India Pallekele,245
+1,Rohit Sharma,74*,-,-,1,0,4 Sep 2023,v Nepal Pallekele,246
+2,Hardik Pandya,DNB,1,34,0,0,4 Sep 2023,v Nepal Pallekele,246
+3,Shubman Gill,67*,-,-,0,0,4 Sep 2023,v Nepal Pallekele,246
+4,Virat Kohli,DNB,-,-,1,0,4 Sep 2023,v Nepal Pallekele,246
+5,Shreyas Iyer,DNB,-,-,0,0,4 Sep 2023,v Nepal Pallekele,246
+7,Ravindra Jadeja,DNB,3,40,0,0,4 Sep 2023,v Nepal Pallekele,246
+8,Shardul Thakur,DNB,1,26,0,0,4 Sep 2023,v Nepal Pallekele,246
+10,Mohammed Siraj,DNB,3,61,1,0,4 Sep 2023,v Nepal Pallekele,246
+11,Kuldeep Yadav,DNB,0,34,0,0,4 Sep 2023,v Nepal Pallekele,246
+12,Mohammed Shami,DNB,1,29,0,0,4 Sep 2023,v Nepal Pallekele,246
+14,Ishan Kishan,DNB,-,-,3,0,4 Sep 2023,v Nepal Pallekele,246
+1,Rohit Sharma,56,-,-,0,0,10 Sep 2023,v Pakistan Colombo (RPS),247
+2,Hardik Pandya,DNB,1,17,0,0,10 Sep 2023,v Pakistan Colombo (RPS),247
+3,Shubman Gill,58,-,-,1,0,10 Sep 2023,v Pakistan Colombo (RPS),247
+4,Virat Kohli,122*,-,-,0,0,10 Sep 2023,v Pakistan Colombo (RPS),247
+6,KL Rahul,111*,-,-,1,0,10 Sep 2023,v Pakistan Colombo (RPS),247
+7,Ravindra Jadeja,DNB,0,26,0,0,10 Sep 2023,v Pakistan Colombo (RPS),247
+8,Shardul Thakur,DNB,1,16,1,0,10 Sep 2023,v Pakistan Colombo (RPS),247
+9,Jasprit Bumrah,DNB,1,18,0,0,10 Sep 2023,v Pakistan Colombo (RPS),247
+10,Mohammed Siraj,DNB,0,23,0,0,10 Sep 2023,v Pakistan Colombo (RPS),247
+11,Kuldeep Yadav,DNB,5,25,1,0,10 Sep 2023,v Pakistan Colombo (RPS),247
+14,Ishan Kishan,DNB,-,-,0,0,10 Sep 2023,v Pakistan Colombo (RPS),247
+16,Babar Azam,10,-,-,0,0,10 Sep 2023,v India Colombo (RPS),247
+17,Shadab Khan,6,1,71,0,0,10 Sep 2023,v India Colombo (RPS),247
+19,Faqar Zaman,27,-,-,0,0,10 Sep 2023,v India Colombo (RPS),247
+20,Haris Rauf,absent,0,27,0,0,10 Sep 2023,v India Colombo (RPS),247
+22,Iftikhar Ahmed,23,0,52,0,0,10 Sep 2023,v India Colombo (RPS),247
+23,Imam-Ul-Haq,9,-,-,0,0,10 Sep 2023,v India Colombo (RPS),247
+25,Mohammad Rizwan,2,-,-,0,0,10 Sep 2023,v India Colombo (RPS),247
+27,Salman Agha,23,-,-,1,0,10 Sep 2023,v India Colombo (RPS),247
+29,Shaheen Shah Afridi,7*,1,79,0,0,10 Sep 2023,v India Colombo (RPS),247
+1,Rohit Sharma,53,-,-,1,0,12 Sep 2023,v Sri Lanka Colombo (RPS),248
+2,Hardik Pandya,5,1,14,0,0,12 Sep 2023,v Sri Lanka Colombo (RPS),248
+3,Shubman Gill,19,-,-,2,0,12 Sep 2023,v Sri Lanka Colombo (RPS),248
+4,Virat Kohli,3,-,-,0,0,12 Sep 2023,v Sri Lanka Colombo (RPS),248
+6,KL Rahul,39,-,-,2,1,12 Sep 2023,v Sri Lanka Colombo (RPS),248
+7,Ravindra Jadeja,4,2,33,0,0,12 Sep 2023,v Sri Lanka Colombo (RPS),248
+9,Jasprit Bumrah,5,2,30,0,0,12 Sep 2023,v Sri Lanka Colombo (RPS),248
+10,Mohammed Siraj,5*,1,17,0,0,12 Sep 2023,v Sri Lanka Colombo (RPS),248
+11,Kuldeep Yadav,0,4,43,0,0,12 Sep 2023,v Sri Lanka Colombo (RPS),248
+14,Ishan Kishan,33,-,-,0,0,12 Sep 2023,v Sri Lanka Colombo (RPS),248
+1,Rohit Sharma,0,-,-,1,0,15 Sep 2023,v Bangladesh Colombo (RPS),249
+3,Shubman Gill,121,-,-,0,0,15 Sep 2023,v Bangladesh Colombo (RPS),249
+6,KL Rahul,19,-,-,1,0,15 Sep 2023,v Bangladesh Colombo (RPS),249
+7,Ravindra Jadeja,7,1,53,0,0,15 Sep 2023,v Bangladesh Colombo (RPS),249
+8,Shardul Thakur,11,3,65,0,0,15 Sep 2023,v Bangladesh Colombo (RPS),249
+12,Mohammed Shami,6,2,32,0,0,15 Sep 2023,v Bangladesh Colombo (RPS),249
+14,Ishan Kishan,5,-,-,0,0,15 Sep 2023,v Bangladesh Colombo (RPS),249
+15,Suryakumar Yadav,26,-,-,0,0,15 Sep 2023,v Bangladesh Colombo (RPS),249
+1,Rohit Sharma,DNB,-,-,0,0,17 Sep 2023,v Sri Lanka Colombo (RPS),250
+2,Hardik Pandya,DNB,3,3,0,0,17 Sep 2023,v Sri Lanka Colombo (RPS),250
+3,Shubman Gill,27*,-,-,0,0,17 Sep 2023,v Sri Lanka Colombo (RPS),250
+4,Virat Kohli,DNB,-,-,1,0,17 Sep 2023,v Sri Lanka Colombo (RPS),250
+6,KL Rahul,DNB,-,-,3,0,17 Sep 2023,v Sri Lanka Colombo (RPS),250
+7,Ravindra Jadeja,DNB,-,-,1,0,17 Sep 2023,v Sri Lanka Colombo (RPS),250
+9,Jasprit Bumrah,DNB,1,23,0,0,17 Sep 2023,v Sri Lanka Colombo (RPS),250
+10,Mohammed Siraj,DNB,6,21,0,0,17 Sep 2023,v Sri Lanka Colombo (RPS),250
+11,Kuldeep Yadav,DNB,0,1,0,0,17 Sep 2023,v Sri Lanka Colombo (RPS),250
+14,Ishan Kishan,23*,-,-,2,0,17 Sep 2023,v Sri Lanka Colombo (RPS),250
+1,Rohit Sharma,81,-,-,0,0,27 Sep 2023,v Australia Rajkot,251
+4,Virat Kohli,56,-,-,1,0,27 Sep 2023,v Australia Rajkot,251
+5,Shreyas Iyer,48,-,-,2,0,27 Sep 2023,v Australia Rajkot,251
+6,KL Rahul,26,-,-,1,0,27 Sep 2023,v Australia Rajkot,251
+7,Ravindra Jadeja,35,0,61,0,0,27 Sep 2023,v Australia Rajkot,251
+9,Jasprit Bumrah,5,3,81,0,0,27 Sep 2023,v Australia Rajkot,251
+10,Mohammed Siraj,1,1,68,0,0,27 Sep 2023,v Australia Rajkot,251
+11,Kuldeep Yadav,2,2,48,0,0,27 Sep 2023,v Australia Rajkot,251
+15,Suryakumar Yadav,8,-,-,0,0,27 Sep 2023,v Australia Rajkot,251
+2,Hardik Pandya,40*,2,46,1,0,15 Jan 2017,v England Pune,252
+4,Virat Kohli,122,-,-,0,0,15 Jan 2017,v England Pune,252
+6,KL Rahul,8,-,-,0,0,15 Jan 2017,v England Pune,252
+7,Ravindra Jadeja,13,1,50,0,0,15 Jan 2017,v England Pune,252
+9,Jasprit Bumrah,DNB,2,79,0,0,15 Jan 2017,v England Pune,252
+13,Ravichandran ashwin,15*,0,63,0,0,15 Jan 2017,v England Pune,252
+2,Hardik Pandya,19*,0,60,0,0,19 Jan 2017,v England Cuttack,253
+4,Virat Kohli,8,-,-,1,0,19 Jan 2017,v England Cuttack,253
+6,KL Rahul,5,-,-,0,0,19 Jan 2017,v England Cuttack,253
+7,Ravindra Jadeja,16*,1,45,0,0,19 Jan 2017,v England Cuttack,253
+9,Jasprit Bumrah,DNB,2,81,0,0,19 Jan 2017,v England Cuttack,253
+13,Ravichandran ashwin,DNB,3,65,0,0,19 Jan 2017,v England Cuttack,253
+2,Hardik Pandya,56,3,49,0,0,22 Jan 2017,v England Eden Gardens,254
+4,Virat Kohli,55,-,-,0,0,22 Jan 2017,v England Eden Gardens,254
+6,KL Rahul,11,-,-,1,0,22 Jan 2017,v England Eden Gardens,254
+7,Ravindra Jadeja,10,2,62,2,0,22 Jan 2017,v England Eden Gardens,254
+9,Jasprit Bumrah,0*,1,68,2,0,22 Jan 2017,v England Eden Gardens,254
+13,Ravichandran ashwin,1,0,60,0,0,22 Jan 2017,v England Eden Gardens,254
+2,Hardik Pandya,DNB,-,-,-,-,23 Jun 2017,v West Indies Port of Spain,255
+4,Virat Kohli,32*,-,-,-,-,23 Jun 2017,v West Indies Port of Spain,255
+11,Kuldeep Yadav,DNB,-,-,-,-,23 Jun 2017,v West Indies Port of Spain,255
+13,Ravichandran ashwin,DNB,-,-,-,-,23 Jun 2017,v West Indies Port of Spain,255
+2,Hardik Pandya,4,0,32,1,0,25 Jun 2017,v West Indies Port of Spain,256
+4,Virat Kohli,87,-,-,0,0,25 Jun 2017,v West Indies Port of Spain,256
+11,Kuldeep Yadav,DNB,3,50,0,0,25 Jun 2017,v West Indies Port of Spain,256
+13,Ravichandran ashwin,DNB,1,47,0,0,25 Jun 2017,v West Indies Port of Spain,256
+2,Hardik Pandya,DNB,2,32,2,0,30 Jun 2017,v West Indies North Sound,257
+4,Virat Kohli,11,-,-,0,0,30 Jun 2017,v West Indies North Sound,257
+11,Kuldeep Yadav,DNB,3,41,0,0,30 Jun 2017,v West Indies North Sound,257
+13,Ravichandran ashwin,DNB,3,28,0,0,30 Jun 2017,v West Indies North Sound,257
+2,Hardik Pandya,20,3,40,0,0,2 Jul 2017,v West Indies North Sound,258
+4,Virat Kohli,3,-,-,1,0,2 Jul 2017,v West Indies North Sound,258
+7,Ravindra Jadeja,11,0,48,2,0,2 Jul 2017,v West Indies North Sound,258
+11,Kuldeep Yadav,2*,2,31,0,0,2 Jul 2017,v West Indies North Sound,258
+12,Mohammed Shami,1,0,33,0,0,2 Jul 2017,v West Indies North Sound,258
+2,Hardik Pandya,DNB,1,27,0,0,6 Jul 2017,v West Indies Kingston,259
+4,Virat Kohli,111*,-,-,1,0,6 Jul 2017,v West Indies Kingston,259
+7,Ravindra Jadeja,DNB,0,27,0,0,6 Jul 2017,v West Indies Kingston,259
+11,Kuldeep Yadav,DNB,0,36,1,0,6 Jul 2017,v West Indies Kingston,259
+12,Mohammed Shami,DNB,4,48,0,0,6 Jul 2017,v West Indies Kingston,259
+2,Hardik Pandya,90,-,-,0,0,27 Nov 2020,v Australia Sydney,260
+4,Virat Kohli,21,-,-,0,0,27 Nov 2020,v Australia Sydney,260
+5,Shreyas Iyer,2,-,-,0,0,27 Nov 2020,v Australia Sydney,260
+6,KL Rahul,12,-,-,3,0,27 Nov 2020,v Australia Sydney,260
+7,Ravindra Jadeja,25,0,63,1,0,27 Nov 2020,v Australia Sydney,260
+9,Jasprit Bumrah,0*,1,73,0,0,27 Nov 2020,v Australia Sydney,260
+12,Mohammed Shami,13,3,59,0,0,27 Nov 2020,v Australia Sydney,260
+2,Hardik Pandya,28,1,24,0,0,29 Nov 2020,v Australia Sydney,261
+4,Virat Kohli,89,-,-,1,0,29 Nov 2020,v Australia Sydney,261
+5,Shreyas Iyer,38,-,-,0,0,29 Nov 2020,v Australia Sydney,261
+6,KL Rahul,76,-,-,0,0,29 Nov 2020,v Australia Sydney,261
+7,Ravindra Jadeja,24,0,60,0,0,29 Nov 2020,v Australia Sydney,261
+9,Jasprit Bumrah,0,1,79,0,0,29 Nov 2020,v Australia Sydney,261
+12,Mohammed Shami,1,1,73,1,0,29 Nov 2020,v Australia Sydney,261
+2,Hardik Pandya,92*,-,-,0,0,2 Dec 2020,v Australia Canberra,262
+3,Shubman Gill,33,-,-,0,0,2 Dec 2020,v Australia Canberra,262
+4,Virat Kohli,63,-,-,0,0,2 Dec 2020,v Australia Canberra,262
+5,Shreyas Iyer,19,-,-,0,0,2 Dec 2020,v Australia Canberra,262
+6,KL Rahul,5,-,-,2,0,2 Dec 2020,v Australia Canberra,262
+7,Ravindra Jadeja,66*,1,62,1,0,2 Dec 2020,v Australia Canberra,262
+8,Shardul Thakur,DNB,3,51,0,0,2 Dec 2020,v Australia Canberra,262
+9,Jasprit Bumrah,DNB,2,43,0,0,2 Dec 2020,v Australia Canberra,262
+11,Kuldeep Yadav,DNB,1,57,1,0,2 Dec 2020,v Australia Canberra,262
+2,Hardik Pandya,DNB,1,34,1,0,18 Jul 2021,v Sri Lanka Colombo (RPS),263
+11,Kuldeep Yadav,DNB,2,48,0,0,18 Jul 2021,v Sri Lanka Colombo (RPS),263
+14,Ishan Kishan,59,-,-,1,0,18 Jul 2021,v Sri Lanka Colombo (RPS),263
+15,Suryakumar Yadav,31*,-,-,0,0,18 Jul 2021,v Sri Lanka Colombo (RPS),263
+2,Hardik Pandya,0,0,20,0,0,20 Jul 2021,v Sri Lanka Colombo (RPS),264
+11,Kuldeep Yadav,DNB,0,55,0,0,20 Jul 2021,v Sri Lanka Colombo (RPS),264
+14,Ishan Kishan,1,-,-,1,0,20 Jul 2021,v Sri Lanka Colombo (RPS),264
+15,Suryakumar Yadav,53,-,-,0,0,20 Jul 2021,v Sri Lanka Colombo (RPS),264
+2,Hardik Pandya,19,1,43,0,0,23 Jul 2021,v Sri Lanka Colombo (RPS),265
+15,Suryakumar Yadav,40,-,-,0,0,23 Jul 2021,v Sri Lanka Colombo (RPS),265
+2,Hardik Pandya,25,1,29,1,0,17 Mar 2023,v Australia Wankhede,266
+3,Shubman Gill,20,-,-,2,0,17 Mar 2023,v Australia Wankhede,266
+4,Virat Kohli,4,-,-,0,0,17 Mar 2023,v Australia Wankhede,266
+6,KL Rahul,75*,-,-,2,0,17 Mar 2023,v Australia Wankhede,266
+7,Ravindra Jadeja,45*,2,46,1,0,17 Mar 2023,v Australia Wankhede,266
+8,Shardul Thakur,DNB,0,12,0,0,17 Mar 2023,v Australia Wankhede,266
+10,Mohammed Siraj,DNB,3,29,1,0,17 Mar 2023,v Australia Wankhede,266
+11,Kuldeep Yadav,DNB,1,48,0,0,17 Mar 2023,v Australia Wankhede,266
+12,Mohammed Shami,DNB,3,17,0,0,17 Mar 2023,v Australia Wankhede,266
+14,Ishan Kishan,3,-,-,0,0,17 Mar 2023,v Australia Wankhede,266
+15,Suryakumar Yadav,0,-,-,0,0,17 Mar 2023,v Australia Wankhede,266
+2,Hardik Pandya,7,0,38,0,0,29 Jul 2023,v West Indies Bridgetown,267
+3,Shubman Gill,34,-,-,0,0,29 Jul 2023,v West Indies Bridgetown,267
+7,Ravindra Jadeja,10,0,24,0,0,29 Jul 2023,v West Indies Bridgetown,267
+8,Shardul Thakur,16,3,42,0,0,29 Jul 2023,v West Indies Bridgetown,267
+11,Kuldeep Yadav,8*,1,30,0,0,29 Jul 2023,v West Indies Bridgetown,267
+14,Ishan Kishan,55,-,-,1,0,29 Jul 2023,v West Indies Bridgetown,267
+15,Suryakumar Yadav,24,-,-,0,0,29 Jul 2023,v West Indies Bridgetown,267
+2,Hardik Pandya,70*,0,13,0,0,1 Aug 2023,v West Indies Tarouba,268
+3,Shubman Gill,85,-,-,2,0,1 Aug 2023,v West Indies Tarouba,268
+7,Ravindra Jadeja,8*,0,29,0,0,1 Aug 2023,v West Indies Tarouba,268
+8,Shardul Thakur,DNB,4,37,0,0,1 Aug 2023,v West Indies Tarouba,268
+11,Kuldeep Yadav,DNB,2,25,0,0,1 Aug 2023,v West Indies Tarouba,268
+14,Ishan Kishan,77,-,-,2,0,1 Aug 2023,v West Indies Tarouba,268
+15,Suryakumar Yadav,35,-,-,1,0,1 Aug 2023,v West Indies Tarouba,268
+3,Shubman Gill,64,-,-,0,0,22 Jul 2022,v West Indies Port of Spain,269
+5,Shreyas Iyer,54,-,-,2,0,22 Jul 2022,v West Indies Port of Spain,269
+8,Shardul Thakur,7*,2,54,1,0,22 Jul 2022,v West Indies Port of Spain,269
+10,Mohammed Siraj,1*,2,57,0,0,22 Jul 2022,v West Indies Port of Spain,269
+15,Suryakumar Yadav,13,-,-,0,0,22 Jul 2022,v West Indies Port of Spain,269
+3,Shubman Gill,43,-,-,0,0,24 Jul 2022,v West Indies Port of Spain,270
+5,Shreyas Iyer,63,-,-,1,0,24 Jul 2022,v West Indies Port of Spain,270
+8,Shardul Thakur,3,3,54,0,0,24 Jul 2022,v West Indies Port of Spain,270
+10,Mohammed Siraj,1*,0,46,0,0,24 Jul 2022,v West Indies Port of Spain,270
+15,Suryakumar Yadav,9,-,-,0,0,24 Jul 2022,v West Indies Port of Spain,270
+3,Shubman Gill,98*,-,-,1,0,27 Jul 2022,v West Indies Port of Spain,271
+5,Shreyas Iyer,44,-,-,0,0,27 Jul 2022,v West Indies Port of Spain,271
+8,Shardul Thakur,DNB,2,17,1,0,27 Jul 2022,v West Indies Port of Spain,271
+10,Mohammed Siraj,DNB,2,14,0,0,27 Jul 2022,v West Indies Port of Spain,271
+15,Suryakumar Yadav,8,-,-,0,0,27 Jul 2022,v West Indies Port of Spain,271
+3,Shubman Gill,82*,-,-,2,0,18 Aug 2022,v Zimbabwe Harare,272
+6,KL Rahul,DNB,-,-,0,0,18 Aug 2022,v Zimbabwe Harare,272
+10,Mohammed Siraj,DNB,1,36,0,0,18 Aug 2022,v Zimbabwe Harare,272
+11,Kuldeep Yadav,DNB,0,36,0,0,18 Aug 2022,v Zimbabwe Harare,272
+14,Ishan Kishan,DNB,-,-,0,0,18 Aug 2022,v Zimbabwe Harare,272
+3,Shubman Gill,33,-,-,1,0,20 Aug 2022,v Zimbabwe Harare,273
+6,KL Rahul,1,-,-,0,0,20 Aug 2022,v Zimbabwe Harare,273
+8,Shardul Thakur,DNB,3,38,0,0,20 Aug 2022,v Zimbabwe Harare,273
+10,Mohammed Siraj,DNB,1,16,0,0,20 Aug 2022,v Zimbabwe Harare,273
+11,Kuldeep Yadav,DNB,1,49,0,0,20 Aug 2022,v Zimbabwe Harare,273
+14,Ishan Kishan,6,-,-,1,0,20 Aug 2022,v Zimbabwe Harare,273
+3,Shubman Gill,130,-,-,2,0,22 Aug 2022,v Zimbabwe Harare,274
+6,KL Rahul,30,-,-,1,0,22 Aug 2022,v Zimbabwe Harare,274
+8,Shardul Thakur,9,1,55,0,0,22 Aug 2022,v Zimbabwe Harare,274
+11,Kuldeep Yadav,2*,2,38,0,0,22 Aug 2022,v Zimbabwe Harare,274
+14,Ishan Kishan,50,-,-,0,1,22 Aug 2022,v Zimbabwe Harare,274
+3,Shubman Gill,3,-,-,0,0,6 Oct 2022,v South Africa Lucknow,275
+5,Shreyas Iyer,50,-,-,1,0,6 Oct 2022,v South Africa Lucknow,275
+8,Shardul Thakur,33,2,35,0,0,6 Oct 2022,v South Africa Lucknow,275
+10,Mohammed Siraj,DNB,0,49,0,0,6 Oct 2022,v South Africa Lucknow,275
+11,Kuldeep Yadav,0,1,39,0,0,6 Oct 2022,v South Africa Lucknow,275
+14,Ishan Kishan,20,-,-,0,0,6 Oct 2022,v South Africa Lucknow,275
+3,Shubman Gill,28,-,-,0,0,9 Oct 2022,v South Africa Ranchi,276
+5,Shreyas Iyer,113*,-,-,1,0,9 Oct 2022,v South Africa Ranchi,276
+8,Shardul Thakur,DNB,1,36,0,0,9 Oct 2022,v South Africa Ranchi,276
+10,Mohammed Siraj,DNB,3,38,1,0,9 Oct 2022,v South Africa Ranchi,276
+11,Kuldeep Yadav,DNB,1,49,0,0,9 Oct 2022,v South Africa Ranchi,276
+14,Ishan Kishan,93,-,-,0,0,9 Oct 2022,v South Africa Ranchi,276
+3,Shubman Gill,49,-,-,0,0,11 Oct 2022,v South Africa Delhi,277
+5,Shreyas Iyer,28*,-,-,0,0,11 Oct 2022,v South Africa Delhi,277
+8,Shardul Thakur,DNB,0,8,0,0,11 Oct 2022,v South Africa Delhi,277
+10,Mohammed Siraj,DNB,2,17,0,0,11 Oct 2022,v South Africa Delhi,277
+11,Kuldeep Yadav,DNB,4,18,0,0,11 Oct 2022,v South Africa Delhi,277
+14,Ishan Kishan,10,-,-,0,0,11 Oct 2022,v South Africa Delhi,277
+3,Shubman Gill,50,-,-,0,0,25 Nov 2022,v New Zealand Auckland,278
+5,Shreyas Iyer,80,-,-,0,0,25 Nov 2022,v New Zealand Auckland,278
+8,Shardul Thakur,1,1,63,0,0,25 Nov 2022,v New Zealand Auckland,278
+15,Suryakumar Yadav,4,-,-,0,0,25 Nov 2022,v New Zealand Auckland,278
+3,Shubman Gill,45*,-,-,-,-,27 Nov 2022,v New Zealand Hamilton,279
+5,Shreyas Iyer,DNB,-,-,-,-,27 Nov 2022,v New Zealand Hamilton,279
+15,Suryakumar Yadav,34*,-,-,-,-,27 Nov 2022,v New Zealand Hamilton,279
+3,Shubman Gill,13,-,-,0,0,30 Nov 2022,v New Zealand Christchurch,280
+5,Shreyas Iyer,49,-,-,0,0,30 Nov 2022,v New Zealand Christchurch,280
+15,Suryakumar Yadav,6,-,-,1,0,30 Nov 2022,v New Zealand Christchurch,280
+3,Shubman Gill,74,-,-,2,0,22 Sep 2023,v Australia Mohali,281
+5,Shreyas Iyer,3,-,-,1,0,22 Sep 2023,v Australia Mohali,281
+6,KL Rahul,58*,-,-,0,1,22 Sep 2023,v Australia Mohali,281
+7,Ravindra Jadeja,3*,1,51,0,0,22 Sep 2023,v Australia Mohali,281
+8,Shardul Thakur,DNB,0,78,0,0,22 Sep 2023,v Australia Mohali,281
+9,Jasprit Bumrah,DNB,1,43,0,0,22 Sep 2023,v Australia Mohali,281
+12,Mohammed Shami,DNB,5,51,0,0,22 Sep 2023,v Australia Mohali,281
+13,Ravichandran ashwin,DNB,1,47,0,0,22 Sep 2023,v Australia Mohali,281
+14,Ishan Kishan,18,-,-,0,0,22 Sep 2023,v Australia Mohali,281
+15,Suryakumar Yadav,50,-,-,1,0,22 Sep 2023,v Australia Mohali,281
+3,Shubman Gill,104,-,-,1,0,24 Sep 2023,v Australia Indore,282
+5,Shreyas Iyer,105,-,-,0,0,24 Sep 2023,v Australia Indore,282
+6,KL Rahul,52,-,-,0,0,24 Sep 2023,v Australia Indore,282
+7,Ravindra Jadeja,13*,3,42,0,0,24 Sep 2023,v Australia Indore,282
+8,Shardul Thakur,DNB,0,35,0,0,24 Sep 2023,v Australia Indore,282
+12,Mohammed Shami,DNB,1,39,0,0,24 Sep 2023,v Australia Indore,282
+13,Ravichandran ashwin,DNB,3,41,1,0,24 Sep 2023,v Australia Indore,282
+14,Ishan Kishan,31,-,-,0,0,24 Sep 2023,v Australia Indore,282
+15,Suryakumar Yadav,72*,-,-,0,0,24 Sep 2023,v Australia Indore,282
+4,Virat Kohli,2*,-,-,0,0,14 Sep 2009,v Sri Lanka Colombo (RPS),283
+4,Virat Kohli,16,0,21,1,0,26 Sep 2009,v Pakistan Centurion,284
+4,Virat Kohli,TDNB,-,-,0,0,28 Sep 2009,v Australia Centurion,285
+4,Virat Kohli,79*,-,-,0,0,30 Sep 2009,v West Indies Johannesburg,286
+4,Virat Kohli,30,-,-,1,0,25 Oct 2009,v Australia Vadodara,287
+7,Ravindra Jadeja,5,1,39,0,0,25 Oct 2009,v Australia Vadodara,287
+4,Virat Kohli,10,-,-,0,0,2 Nov 2009,v Australia Mohali,288
+7,Ravindra Jadeja,7,0,27,1,0,2 Nov 2009,v Australia Mohali,288
+4,Virat Kohli,27,-,-,0,0,15 Dec 2009,v Sri Lanka Rajkot,289
+7,Ravindra Jadeja,30*,0,73,1,0,15 Dec 2009,v Sri Lanka Rajkot,289
+4,Virat Kohli,54,-,-,1,0,18 Dec 2009,v Sri Lanka Nagpur,290
+7,Ravindra Jadeja,12*,0,42,0,0,18 Dec 2009,v Sri Lanka Nagpur,290
+4,Virat Kohli,107,-,-,1,0,24 Dec 2009,v Sri Lanka Eden Gardens,291
+7,Ravindra Jadeja,DNB,0,51,1,0,24 Dec 2009,v Sri Lanka Eden Gardens,291
+4,Virat Kohli,TDNB,-,-,0,0,27 Dec 2009,v Sri Lanka Delhi,292
+7,Ravindra Jadeja,TDNB,-,-,0,0,27 Dec 2009,v Sri Lanka Delhi,292
+4,Virat Kohli,9,-,-,0,0,5 Jan 2010,v Sri Lanka Mirpur,293
+7,Ravindra Jadeja,39,0,31,0,0,5 Jan 2010,v Sri Lanka Mirpur,293
+4,Virat Kohli,91,-,-,1,0,7 Jan 2010,v Bangladesh Mirpur,294
+7,Ravindra Jadeja,DNB,1,45,1,0,7 Jan 2010,v Bangladesh Mirpur,294
+4,Virat Kohli,71*,-,-,1,0,10 Jan 2010,v Sri Lanka Mirpur,295
+7,Ravindra Jadeja,DNB,0,21,0,0,10 Jan 2010,v Sri Lanka Mirpur,295
+4,Virat Kohli,102*,-,-,1,0,11 Jan 2010,v Bangladesh Mirpur,296
+7,Ravindra Jadeja,DNB,0,23,0,0,11 Jan 2010,v Bangladesh Mirpur,296
+4,Virat Kohli,2,0,12,1,0,13 Jan 2010,v Sri Lanka Mirpur,297
+7,Ravindra Jadeja,38,1,29,0,0,13 Jan 2010,v Sri Lanka Mirpur,297
+4,Virat Kohli,31,-,-,1,0,21 Feb 2010,v South Africa Jaipur,298
+7,Ravindra Jadeja,22,2,29,0,0,21 Feb 2010,v South Africa Jaipur,298
+4,Virat Kohli,DNB,-,-,0,0,24 Feb 2010,v South Africa Gwalior,299
+7,Ravindra Jadeja,DNB,2,41,0,0,24 Feb 2010,v South Africa Gwalior,299
+4,Virat Kohli,8,-,-,0,0,25 Aug 2010,v New Zealand Dambulla,300
+7,Ravindra Jadeja,17,1,21,0,0,25 Aug 2010,v New Zealand Dambulla,300
+4,Virat Kohli,118,-,-,0,0,20 Oct 2010,v Australia Visakhapatnam,301
+13,Ravichandran ashwin,DNB,1,34,0,0,20 Oct 2010,v Australia Visakhapatnam,301
+4,Virat Kohli,105,-,-,0,0,28 Nov 2010,v New Zealand Guwahati,302
+13,Ravichandran ashwin,0,3,50,0,0,28 Nov 2010,v New Zealand Guwahati,302
+4,Virat Kohli,64,-,-,1,0,1 Dec 2010,v New Zealand Jaipur,303
+13,Ravichandran ashwin,DNB,1,52,0,0,1 Dec 2010,v New Zealand Jaipur,303
+4,Virat Kohli,63*,-,-,0,0,4 Dec 2010,v New Zealand Vadodara,304
+7,Ravindra Jadeja,DNB,0,40,0,0,4 Dec 2010,v New Zealand Vadodara,304
+13,Ravichandran ashwin,DNB,2,49,0,0,4 Dec 2010,v New Zealand Vadodara,304
+4,Virat Kohli,100*,-,-,0,0,19 Feb 2011,v Bangladesh Mirpur,305
+4,Virat Kohli,8,-,-,1,0,27 Feb 2011,v England Bengaluru,306
+4,Virat Kohli,34,-,-,0,0,6 Mar 2011,v Ireland Bengaluru,307
+4,Virat Kohli,12,-,-,0,0,9 Mar 2011,v Netherlands Delhi,308
+4,Virat Kohli,1,-,-,1,0,12 Mar 2011,v South Africa Nagpur,309
+4,Virat Kohli,59,-,-,0,0,20 Mar 2011,v West Indies Chennai,310
+13,Ravichandran ashwin,10*,2,41,1,0,20 Mar 2011,v West Indies Chennai,310
+4,Virat Kohli,24,0,6,0,0,24 Mar 2011,v Australia Ahmedabad,311
+13,Ravichandran ashwin,DNB,2,52,0,0,24 Mar 2011,v Australia Ahmedabad,311
+4,Virat Kohli,9,-,-,1,0,30 Mar 2011,v Pakistan Mohali,312
+4,Virat Kohli,35,0,6,0,0,2 Apr 2011,v Sri Lanka Wankhede,313
+4,Virat Kohli,9,0,22,2,0,6 Sep 2011,v England Southampton,314
+13,Ravichandran ashwin,1,2,42,0,0,6 Sep 2011,v England Southampton,314
+4,Virat Kohli,7,-,-,0,0,9 Sep 2011,v England The Oval,315
+7,Ravindra Jadeja,78,2,42,0,0,9 Sep 2011,v England The Oval,315
+13,Ravichandran ashwin,36*,3,40,0,0,9 Sep 2011,v England The Oval,315
+4,Virat Kohli,16,-,-,1,0,11 Sep 2011,v England Lord's,316
+7,Ravindra Jadeja,0*,1,60,2,0,11 Sep 2011,v England Lord's,316
+13,Ravichandran ashwin,DNB,1,44,1,0,11 Sep 2011,v England Lord's,316
+4,Virat Kohli,107,1,44,0,0,16 Sep 2011,v England Cardiff,317
+7,Ravindra Jadeja,0,1,52,0,0,16 Sep 2011,v England Cardiff,317
+13,Ravichandran ashwin,0*,0,25,0,0,16 Sep 2011,v England Cardiff,317
+4,Virat Kohli,37,0,11,0,0,14 Oct 2011,v England Hyderabad,318
+7,Ravindra Jadeja,27,3,34,1,0,14 Oct 2011,v England Hyderabad,318
+13,Ravichandran ashwin,8,3,35,1,0,14 Oct 2011,v England Hyderabad,318
+4,Virat Kohli,112*,0,18,2,0,17 Oct 2011,v England Delhi,319
+7,Ravindra Jadeja,DNB,1,38,1,0,17 Oct 2011,v England Delhi,319
+13,Ravichandran ashwin,DNB,1,56,0,0,17 Oct 2011,v England Delhi,319
+4,Virat Kohli,35,1,20,0,0,20 Oct 2011,v England Mohali,320
+7,Ravindra Jadeja,26*,1,41,0,0,20 Oct 2011,v England Mohali,320
+13,Ravichandran ashwin,DNB,0,45,0,0,20 Oct 2011,v England Mohali,320
+4,Virat Kohli,86*,0,14,1,0,23 Oct 2011,v England Wankhede,321
+7,Ravindra Jadeja,DNB,2,41,0,0,23 Oct 2011,v England Wankhede,321
+13,Ravichandran ashwin,DNB,3,38,0,0,23 Oct 2011,v England Wankhede,321
+4,Virat Kohli,0,-,-,1,0,25 Oct 2011,v England Eden Gardens,322
+7,Ravindra Jadeja,21,4,33,0,0,25 Oct 2011,v England Eden Gardens,322
+13,Ravichandran ashwin,7,3,28,0,0,25 Oct 2011,v England Eden Gardens,322
+4,Virat Kohli,66,0,14,0,0,21 Feb 2012,v Sri Lanka Brisbane,323
+7,Ravindra Jadeja,17,0,43,0,0,21 Feb 2012,v Sri Lanka Brisbane,323
+13,Ravichandran ashwin,5,2,50,0,0,21 Feb 2012,v Sri Lanka Brisbane,323
+4,Virat Kohli,21,-,-,1,0,26 Feb 2012,v Australia Sydney,324
+7,Ravindra Jadeja,8,1,51,1,0,26 Feb 2012,v Australia Sydney,324
+13,Ravichandran ashwin,26,0,45,0,0,26 Feb 2012,v Australia Sydney,324
+4,Virat Kohli,133*,-,-,0,0,28 Feb 2012,v Sri Lanka Hobart,325
+7,Ravindra Jadeja,DNB,1,43,0,0,28 Feb 2012,v Sri Lanka Hobart,325
+13,Ravichandran ashwin,DNB,0,52,1,0,28 Feb 2012,v Sri Lanka Hobart,325
+4,Virat Kohli,6,-,-,0,0,3 Jan 2013,v Pakistan Eden Gardens,326
+7,Ravindra Jadeja,13,3,41,0,0,3 Jan 2013,v Pakistan Eden Gardens,326
+13,Ravichandran ashwin,3,1,49,0,0,3 Jan 2013,v Pakistan Eden Gardens,326
+4,Virat Kohli,7,-,-,0,0,6 Jan 2013,v Pakistan Delhi,327
+7,Ravindra Jadeja,27,1,19,1,0,6 Jan 2013,v Pakistan Delhi,327
+12,Mohammed Shami,0*,1,23,0,0,6 Jan 2013,v Pakistan Delhi,327
+13,Ravichandran ashwin,0,2,47,0,0,6 Jan 2013,v Pakistan Delhi,327
+4,Virat Kohli,15,0,9,1,0,11 Jan 2013,v England Rajkot,328
+7,Ravindra Jadeja,7,0,46,0,0,11 Jan 2013,v England Rajkot,328
+13,Ravichandran ashwin,13,0,61,0,0,11 Jan 2013,v England Rajkot,328
+4,Virat Kohli,37,-,-,0,0,15 Jan 2013,v England Kochi,329
+7,Ravindra Jadeja,61*,2,12,0,0,15 Jan 2013,v England Kochi,329
+12,Mohammed Shami,DNB,1,24,0,0,15 Jan 2013,v England Kochi,329
+13,Ravichandran ashwin,1*,3,39,0,0,15 Jan 2013,v England Kochi,329
+4,Virat Kohli,77*,-,-,0,0,19 Jan 2013,v England Ranchi,330
+7,Ravindra Jadeja,DNB,3,19,0,0,19 Jan 2013,v England Ranchi,330
+12,Mohammed Shami,DNB,1,23,0,0,19 Jan 2013,v England Ranchi,330
+13,Ravichandran ashwin,DNB,2,37,0,0,19 Jan 2013,v England Ranchi,330
+4,Virat Kohli,DNB,-,-,2,0,3 Aug 2013,v Zimbabwe Bulawayo,331
+7,Ravindra Jadeja,48*,1,42,0,0,3 Aug 2013,v Zimbabwe Bulawayo,331
+12,Mohammed Shami,DNB,1,27,0,0,3 Aug 2013,v Zimbabwe Bulawayo,331
+4,Virat Kohli,40,-,-,0,0,30 Aug 2014,v England Nottingham,332
+7,Ravindra Jadeja,12*,1,38,0,0,30 Aug 2014,v England Nottingham,332
+12,Mohammed Shami,DNB,1,40,0,0,30 Aug 2014,v England Nottingham,332
+13,Ravichandran ashwin,DNB,3,39,0,0,30 Aug 2014,v England Nottingham,332
+4,Virat Kohli,1*,-,-,0,0,2 Sep 2014,v England Birmingham,333
+7,Ravindra Jadeja,DNB,2,40,0,0,2 Sep 2014,v England Birmingham,333
+12,Mohammed Shami,DNB,3,28,0,0,2 Sep 2014,v England Birmingham,333
+13,Ravichandran ashwin,DNB,1,48,0,0,2 Sep 2014,v England Birmingham,333
+4,Virat Kohli,13,-,-,0,0,5 Sep 2014,v England Leeds,334
+7,Ravindra Jadeja,87,0,66,0,0,5 Sep 2014,v England Leeds,334
+12,Mohammed Shami,0,2,52,0,0,5 Sep 2014,v England Leeds,334
+13,Ravichandran ashwin,16,1,49,1,0,5 Sep 2014,v England Leeds,334
+4,Virat Kohli,2,-,-,1,0,8 Oct 2014,v West Indies Kochi,335
+7,Ravindra Jadeja,33*,1,58,1,0,8 Oct 2014,v West Indies Kochi,335
+12,Mohammed Shami,19,4,66,0,0,8 Oct 2014,v West Indies Kochi,335
+4,Virat Kohli,62,0,20,1,0,11 Oct 2014,v West Indies Delhi,336
+7,Ravindra Jadeja,6,3,44,0,0,11 Oct 2014,v West Indies Delhi,336
+12,Mohammed Shami,1*,4,36,1,0,11 Oct 2014,v West Indies Delhi,336
+4,Virat Kohli,127,0,14,0,0,17 Oct 2014,v West Indies Dharamsala,337
+7,Ravindra Jadeja,2,2,80,0,0,17 Oct 2014,v West Indies Dharamsala,337
+12,Mohammed Shami,DNB,2,72,1,0,17 Oct 2014,v West Indies Dharamsala,337
+4,Virat Kohli,22,0,6,1,0,2 Nov 2014,v Sri Lanka Cuttack,338
+13,Ravichandran ashwin,DNB,1,52,0,0,2 Nov 2014,v Sri Lanka Cuttack,338
+4,Virat Kohli,49,-,-,0,0,6 Nov 2014,v Sri Lanka Ahmedabad,339
+7,Ravindra Jadeja,1*,1,64,0,0,6 Nov 2014,v Sri Lanka Ahmedabad,339
+13,Ravichandran ashwin,DNB,2,49,0,0,6 Nov 2014,v Sri Lanka Ahmedabad,339
+4,Virat Kohli,53,-,-,1,0,9 Nov 2014,v Sri Lanka Hyderabad,340
+13,Ravichandran ashwin,DNB,1,43,1,0,9 Nov 2014,v Sri Lanka Hyderabad,340
+4,Virat Kohli,4,-,-,1,0,20 Jan 2015,v England Brisbane,341
+12,Mohammed Shami,1,0,23,0,0,20 Jan 2015,v England Brisbane,341
+4,Virat Kohli,3*,-,-,-,-,26 Jan 2015,v Australia Sydney,342
+7,Ravindra Jadeja,DNB,-,-,-,-,26 Jan 2015,v Australia Sydney,342
+12,Mohammed Shami,DNB,-,-,-,-,26 Jan 2015,v Australia Sydney,342
+4,Virat Kohli,8,-,-,0,0,30 Jan 2015,v England Perth,343
+7,Ravindra Jadeja,5,0,62,1,0,30 Jan 2015,v England Perth,343
+12,Mohammed Shami,25,1,31,0,0,30 Jan 2015,v England Perth,343
+4,Virat Kohli,51,-,-,0,0,5 Feb 2020,v New Zealand Hamilton,344
+5,Shreyas Iyer,103,-,-,0,0,5 Feb 2020,v New Zealand Hamilton,344
+6,KL Rahul,88*,-,-,0,1,5 Feb 2020,v New Zealand Hamilton,344
+7,Ravindra Jadeja,DNB,0,64,0,0,5 Feb 2020,v New Zealand Hamilton,344
+8,Shardul Thakur,DNB,1,80,0,0,5 Feb 2020,v New Zealand Hamilton,344
+9,Jasprit Bumrah,DNB,0,53,0,0,5 Feb 2020,v New Zealand Hamilton,344
+11,Kuldeep Yadav,DNB,2,84,0,0,5 Feb 2020,v New Zealand Hamilton,344
+12,Mohammed Shami,DNB,1,63,1,0,5 Feb 2020,v New Zealand Hamilton,344
+4,Virat Kohli,15,-,-,0,0,8 Feb 2020,v New Zealand Auckland,345
+5,Shreyas Iyer,52,-,-,1,0,8 Feb 2020,v New Zealand Auckland,345
+6,KL Rahul,4,-,-,0,0,8 Feb 2020,v New Zealand Auckland,345
+7,Ravindra Jadeja,55,1,35,0,0,8 Feb 2020,v New Zealand Auckland,345
+8,Shardul Thakur,18,2,60,0,0,8 Feb 2020,v New Zealand Auckland,345
+9,Jasprit Bumrah,0*,0,64,0,0,8 Feb 2020,v New Zealand Auckland,345
+4,Virat Kohli,9,-,-,2,0,11 Feb 2020,v New Zealand Mount Maunganui,346
+5,Shreyas Iyer,62,-,-,0,0,11 Feb 2020,v New Zealand Mount Maunganui,346
+6,KL Rahul,112,-,-,1,0,11 Feb 2020,v New Zealand Mount Maunganui,346
+7,Ravindra Jadeja,8*,1,45,0,0,11 Feb 2020,v New Zealand Mount Maunganui,346
+8,Shardul Thakur,7,1,87,0,0,11 Feb 2020,v New Zealand Mount Maunganui,346
+9,Jasprit Bumrah,DNB,0,50,0,0,11 Feb 2020,v New Zealand Mount Maunganui,346
+4,Virat Kohli,51,-,-,0,0,19 Jan 2022,v South Africa Paarl,347
+5,Shreyas Iyer,17,-,-,0,0,19 Jan 2022,v South Africa Paarl,347
+6,KL Rahul,12,-,-,1,0,19 Jan 2022,v South Africa Paarl,347
+8,Shardul Thakur,50*,0,72,0,0,19 Jan 2022,v South Africa Paarl,347
+9,Jasprit Bumrah,14*,2,48,0,0,19 Jan 2022,v South Africa Paarl,347
+13,Ravichandran ashwin,7,1,53,0,0,19 Jan 2022,v South Africa Paarl,347
+4,Virat Kohli,0,-,-,0,0,21 Jan 2022,v South Africa Paarl,348
+5,Shreyas Iyer,11,0,1,0,0,21 Jan 2022,v South Africa Paarl,348
+6,KL Rahul,55,-,-,0,0,21 Jan 2022,v South Africa Paarl,348
+8,Shardul Thakur,40*,1,35,0,0,21 Jan 2022,v South Africa Paarl,348
+9,Jasprit Bumrah,DNB,1,37,0,0,21 Jan 2022,v South Africa Paarl,348
+13,Ravichandran ashwin,25*,0,68,0,0,21 Jan 2022,v South Africa Paarl,348
+4,Virat Kohli,65,-,-,2,0,23 Jan 2022,v South Africa Cape Town,349
+5,Shreyas Iyer,26,0,21,1,0,23 Jan 2022,v South Africa Cape Town,349
+6,KL Rahul,9,-,-,1,0,23 Jan 2022,v South Africa Cape Town,349
+9,Jasprit Bumrah,12,2,52,0,0,23 Jan 2022,v South Africa Cape Town,349
+15,Suryakumar Yadav,39,-,-,1,0,23 Jan 2022,v South Africa Cape Town,349
+4,Virat Kohli,113,-,-,0,0,10 Dec 2022,v Bangladesh Chattogram,350
+5,Shreyas Iyer,3,-,-,0,0,10 Dec 2022,v Bangladesh Chattogram,350
+6,KL Rahul,8,-,-,0,0,10 Dec 2022,v Bangladesh Chattogram,350
+8,Shardul Thakur,3,3,30,1,0,10 Dec 2022,v Bangladesh Chattogram,350
+10,Mohammed Siraj,0*,1,27,2,0,10 Dec 2022,v Bangladesh Chattogram,350
+11,Kuldeep Yadav,3*,1,53,0,0,10 Dec 2022,v Bangladesh Chattogram,350
+14,Ishan Kishan,210,-,-,0,0,10 Dec 2022,v Bangladesh Chattogram,350
+6,KL Rahul,100*,-,-,1,0,11 Jun 2016,v Zimbabwe Harare,351
+9,Jasprit Bumrah,DNB,4,28,0,0,11 Jun 2016,v Zimbabwe Harare,351
+6,KL Rahul,33,-,-,0,0,13 Jun 2016,v Zimbabwe Harare,352
+9,Jasprit Bumrah,DNB,1,27,1,0,13 Jun 2016,v Zimbabwe Harare,352
+6,KL Rahul,63*,-,-,2,0,15 Jun 2016,v Zimbabwe Harare,353
+9,Jasprit Bumrah,DNB,4,22,1,0,15 Jun 2016,v Zimbabwe Harare,353
+6,KL Rahul,60,-,-,0,0,25 Sep 2018,v Afghanistan Dubai (DSC),354
+7,Ravindra Jadeja,25,3,46,0,0,25 Sep 2018,v Afghanistan Dubai (DSC),354
+11,Kuldeep Yadav,9,2,38,1,0,25 Sep 2018,v Afghanistan Dubai (DSC),354
+7,Ravindra Jadeja,DNB,3,35,0,0,28 Oct 2009,v Australia Nagpur,355
+7,Ravindra Jadeja,DNB,2,41,0,0,31 Oct 2009,v Australia Delhi,356
+7,Ravindra Jadeja,23,0,44,1,0,5 Nov 2009,v Australia Hyderabad,357
+7,Ravindra Jadeja,57,0,36,0,0,8 Nov 2009,v Australia Guwahati,358
+7,Ravindra Jadeja,DNB,4,32,0,0,21 Dec 2009,v Sri Lanka Cuttack,359
+16,Babar Azam,54,-,-,0,0,31 May 2015,v Zimbabwe Lahore,360
+16,Babar Azam,25,-,-,1,0,11 Jul 2015,v Sri Lanka Dambulla,361
+25,Mohammad Rizwan,20*,-,-,3,0,11 Jul 2015,v Sri Lanka Dambulla,361
+16,Babar Azam,12,-,-,0,0,15 Jul 2015,v Sri Lanka Pallekele,362
+25,Mohammad Rizwan,52,-,-,0,0,15 Jul 2015,v Sri Lanka Pallekele,362
+16,Babar Azam,62*,-,-,1,0,11 Nov 2015,v England Abu Dhabi,363
+16,Babar Azam,4,-,-,1,0,13 Nov 2015,v England Abu Dhabi,364
+22,Iftikhar Ahmed,5,1,31,0,0,13 Nov 2015,v England Abu Dhabi,364
+25,Mohammad Rizwan,17,-,-,0,0,13 Nov 2015,v England Abu Dhabi,364
+16,Babar Azam,22,-,-,0,0,17 Nov 2015,v England Sharjah,365
+22,Iftikhar Ahmed,3,0,18,1,0,17 Nov 2015,v England Sharjah,365
+25,Mohammad Rizwan,1,-,-,1,0,17 Nov 2015,v England Sharjah,365
+16,Babar Azam,51,-,-,1,0,20 Nov 2015,v England Dubai (DSC),366
+25,Mohammad Rizwan,11,-,-,0,0,20 Nov 2015,v England Dubai (DSC),366
+16,Babar Azam,62,-,-,0,0,25 Jan 2016,v New Zealand Wellington,367
+16,Babar Azam,83,-,-,2,0,31 Jan 2016,v New Zealand Auckland,368
+25,Mohammad Rizwan,16,-,-,0,0,31 Jan 2016,v New Zealand Auckland,368
+16,Babar Azam,29,-,-,0,0,18 Aug 2016,v Ireland Dublin (Malahide),369
+24,Mohammad Nawaz,53,1,14,0,0,18 Aug 2016,v Ireland Dublin (Malahide),369
+16,Babar Azam,40,-,-,1,0,24 Aug 2016,v England Southampton,370
+24,Mohammad Nawaz,17*,1,31,0,0,24 Aug 2016,v England Southampton,370
+16,Babar Azam,30,-,-,0,0,27 Aug 2016,v England Lord's,371
+16,Babar Azam,9,-,-,0,0,30 Aug 2016,v England Nottingham,372
+24,Mohammad Nawaz,34,1,62,0,0,30 Aug 2016,v England Nottingham,372
+16,Babar Azam,12,-,-,1,0,1 Sep 2016,v England Leeds,373
+24,Mohammad Nawaz,13,0,54,0,0,1 Sep 2016,v England Leeds,373
+25,Mohammad Rizwan,6,-,-,1,0,1 Sep 2016,v England Leeds,373
+16,Babar Azam,31,-,-,0,0,4 Sep 2016,v England Cardiff,374
+24,Mohammad Nawaz,2,0,32,1,0,4 Sep 2016,v England Cardiff,374
+25,Mohammad Rizwan,34*,-,-,1,0,4 Sep 2016,v England Cardiff,374
+16,Babar Azam,120,-,-,0,0,30 Sep 2016,v West Indies Sharjah,375
+24,Mohammad Nawaz,19,4,42,0,0,30 Sep 2016,v West Indies Sharjah,375
+25,Mohammad Rizwan,11,-,-,0,0,30 Sep 2016,v West Indies Sharjah,375
+16,Babar Azam,123,-,-,0,0,2 Oct 2016,v West Indies Sharjah,376
+24,Mohammad Nawaz,DNB,0,39,0,0,2 Oct 2016,v West Indies Sharjah,376
+25,Mohammad Rizwan,6*,-,-,0,0,2 Oct 2016,v West Indies Sharjah,376
+16,Babar Azam,117,-,-,0,0,5 Oct 2016,v West Indies Abu Dhabi,377
+24,Mohammad Nawaz,4*,3,40,0,0,5 Oct 2016,v West Indies Abu Dhabi,377
+25,Mohammad Rizwan,4,-,-,0,0,5 Oct 2016,v West Indies Abu Dhabi,377
+16,Babar Azam,33,-,-,0,0,13 Jan 2017,v Australia Brisbane,378
+24,Mohammad Nawaz,1,1,48,0,0,13 Jan 2017,v Australia Brisbane,378
+25,Mohammad Rizwan,21,-,-,4,0,13 Jan 2017,v Australia Brisbane,378
+16,Babar Azam,34,-,-,0,0,15 Jan 2017,v Australia Melbourne,379
+25,Mohammad Rizwan,DNB,-,-,3,0,15 Jan 2017,v Australia Melbourne,379
+16,Babar Azam,84,-,-,0,0,19 Jan 2017,v Australia Perth,380
+25,Mohammad Rizwan,14*,-,-,3,0,19 Jan 2017,v Australia Perth,380
+16,Babar Azam,31,-,-,0,0,22 Jan 2017,v Australia Sydney,381
+25,Mohammad Rizwan,10,-,-,2,0,22 Jan 2017,v Australia Sydney,381
+16,Babar Azam,100,-,-,1,0,26 Jan 2017,v Australia Adelaide,382
+25,Mohammad Rizwan,6,-,-,0,0,26 Jan 2017,v Australia Adelaide,382
+16,Babar Azam,13,-,-,1,0,7 Apr 2017,v West Indies Providence,383
+17,Shadab Khan,DNB,2,52,0,0,7 Apr 2017,v West Indies Providence,383
+16,Babar Azam,125*,-,-,2,0,9 Apr 2017,v West Indies Providence,384
+17,Shadab Khan,DNB,1,40,1,0,9 Apr 2017,v West Indies Providence,384
+16,Babar Azam,16,-,-,0,0,11 Apr 2017,v West Indies Providence,385
+17,Shadab Khan,DNB,2,57,1,0,11 Apr 2017,v West Indies Providence,385
+16,Babar Azam,31*,-,-,1,0,7 Jun 2017,v South Africa Birmingham,386
+17,Shadab Khan,DNB,0,20,0,0,7 Jun 2017,v South Africa Birmingham,386
+19,Faqar Zaman,31,-,-,0,0,7 Jun 2017,v South Africa Birmingham,386
+16,Babar Azam,10,-,-,1,0,12 Jun 2017,v Sri Lanka Cardiff,387
+19,Faqar Zaman,50,-,-,1,0,12 Jun 2017,v Sri Lanka Cardiff,387
+16,Babar Azam,38*,-,-,1,0,14 Jun 2017,v England Cardiff,388
+17,Shadab Khan,DNB,1,40,0,0,14 Jun 2017,v England Cardiff,388
+19,Faqar Zaman,57,-,-,1,0,14 Jun 2017,v England Cardiff,388
+16,Babar Azam,103,-,-,0,0,13 Oct 2017,v Sri Lanka Dubai (DSC),389
+17,Shadab Khan,DNB,1,26,0,0,13 Oct 2017,v Sri Lanka Dubai (DSC),389
+19,Faqar Zaman,43,-,-,0,0,13 Oct 2017,v Sri Lanka Dubai (DSC),389
+16,Babar Azam,101,-,-,2,0,16 Oct 2017,v Sri Lanka Abu Dhabi,390
+17,Shadab Khan,52*,3,47,0,0,16 Oct 2017,v Sri Lanka Abu Dhabi,390
+19,Faqar Zaman,11,-,-,0,0,16 Oct 2017,v Sri Lanka Abu Dhabi,390
+16,Babar Azam,30,-,-,0,0,18 Oct 2017,v Sri Lanka Abu Dhabi,391
+17,Shadab Khan,DNB,2,37,0,0,18 Oct 2017,v Sri Lanka Abu Dhabi,391
+19,Faqar Zaman,29,-,-,2,0,18 Oct 2017,v Sri Lanka Abu Dhabi,391
+23,Imam-Ul-Haq,100,-,-,0,0,18 Oct 2017,v Sri Lanka Abu Dhabi,391
+16,Babar Azam,69*,-,-,2,0,20 Oct 2017,v Sri Lanka Sharjah,392
+17,Shadab Khan,DNB,2,29,0,0,20 Oct 2017,v Sri Lanka Sharjah,392
+19,Faqar Zaman,17,-,-,1,0,20 Oct 2017,v Sri Lanka Sharjah,392
+23,Imam-Ul-Haq,2,-,-,0,0,20 Oct 2017,v Sri Lanka Sharjah,392
+16,Babar Azam,DNB,-,-,0,0,23 Oct 2017,v Sri Lanka Sharjah,393
+17,Shadab Khan,DNB,2,24,0,0,23 Oct 2017,v Sri Lanka Sharjah,393
+19,Faqar Zaman,48,-,-,1,0,23 Oct 2017,v Sri Lanka Sharjah,393
+23,Imam-Ul-Haq,45*,-,-,0,0,23 Oct 2017,v Sri Lanka Sharjah,393
+16,Babar Azam,0,-,-,1,0,6 Jan 2018,v New Zealand Wellington,394
+17,Shadab Khan,28,0,49,0,0,6 Jan 2018,v New Zealand Wellington,394
+19,Faqar Zaman,82*,1,19,0,0,6 Jan 2018,v New Zealand Wellington,394
+16,Babar Azam,10,-,-,0,0,9 Jan 2018,v New Zealand Nelson,395
+17,Shadab Khan,52,0,29,1,0,9 Jan 2018,v New Zealand Nelson,395
+23,Imam-Ul-Haq,2,-,-,0,0,9 Jan 2018,v New Zealand Nelson,395
+16,Babar Azam,8,-,-,0,0,13 Jan 2018,v New Zealand Dunedin,396
+17,Shadab Khan,0,2,51,1,0,13 Jan 2018,v New Zealand Dunedin,396
+19,Faqar Zaman,2,-,-,1,0,13 Jan 2018,v New Zealand Dunedin,396
+16,Babar Azam,3,-,-,1,0,16 Jan 2018,v New Zealand Hamilton,397
+17,Shadab Khan,6*,3,42,0,0,16 Jan 2018,v New Zealand Hamilton,397
+19,Faqar Zaman,54,-,-,0,0,16 Jan 2018,v New Zealand Hamilton,397
+16,Babar Azam,10,-,-,0,0,19 Jan 2018,v New Zealand Wellington,398
+17,Shadab Khan,54,0,35,0,0,19 Jan 2018,v New Zealand Wellington,398
+19,Faqar Zaman,12,-,-,1,0,19 Jan 2018,v New Zealand Wellington,398
+24,Mohammad Nawaz,23,0,43,1,0,19 Jan 2018,v New Zealand Wellington,398
+16,Babar Azam,30,-,-,1,0,13 Jul 2018,v Zimbabwe Bulawayo,399
+17,Shadab Khan,2*,4,32,0,0,13 Jul 2018,v Zimbabwe Bulawayo,399
+19,Faqar Zaman,60,-,-,2,0,13 Jul 2018,v Zimbabwe Bulawayo,399
+23,Imam-Ul-Haq,128,-,-,0,0,13 Jul 2018,v Zimbabwe Bulawayo,399
+16,Babar Azam,29*,-,-,0,0,16 Jul 2018,v Zimbabwe Bulawayo,400
+17,Shadab Khan,DNB,0,47,0,0,16 Jul 2018,v Zimbabwe Bulawayo,400
+19,Faqar Zaman,117*,0,11,0,0,16 Jul 2018,v Zimbabwe Bulawayo,400
+23,Imam-Ul-Haq,44,-,-,0,0,16 Jul 2018,v Zimbabwe Bulawayo,400
+16,Babar Azam,19*,-,-,1,0,18 Jul 2018,v Zimbabwe Bulawayo,401
+17,Shadab Khan,DNB,1,6,0,0,18 Jul 2018,v Zimbabwe Bulawayo,401
+19,Faqar Zaman,43*,-,-,0,0,18 Jul 2018,v Zimbabwe Bulawayo,401
+23,Imam-Ul-Haq,0,-,-,0,0,18 Jul 2018,v Zimbabwe Bulawayo,401
+16,Babar Azam,DNB,-,-,1,0,20 Jul 2018,v Zimbabwe Bulawayo,402
+17,Shadab Khan,DNB,4,28,0,0,20 Jul 2018,v Zimbabwe Bulawayo,402
+19,Faqar Zaman,210*,-,-,0,0,20 Jul 2018,v Zimbabwe Bulawayo,402
+23,Imam-Ul-Haq,113,-,-,0,0,20 Jul 2018,v Zimbabwe Bulawayo,402
+16,Babar Azam,106*,-,-,0,0,22 Jul 2018,v Zimbabwe Bulawayo,403
+17,Shadab Khan,DNB,0,42,0,0,22 Jul 2018,v Zimbabwe Bulawayo,403
+19,Faqar Zaman,85,-,-,0,0,22 Jul 2018,v Zimbabwe Bulawayo,403
+23,Imam-Ul-Haq,110,-,-,1,0,22 Jul 2018,v Zimbabwe Bulawayo,403
+24,Mohammad Nawaz,DNB,2,47,0,0,22 Jul 2018,v Zimbabwe Bulawayo,403
+16,Babar Azam,33,-,-,0,0,16 Sep 2018,v Hong Kong Dubai (DSC),404
+17,Shadab Khan,DNB,2,31,1,0,16 Sep 2018,v Hong Kong Dubai (DSC),404
+19,Faqar Zaman,24,0,0,0,0,16 Sep 2018,v Hong Kong Dubai (DSC),404
+23,Imam-Ul-Haq,50*,-,-,1,0,16 Sep 2018,v Hong Kong Dubai (DSC),404
+16,Babar Azam,66,-,-,0,0,21 Sep 2018,v Afghanistan Abu Dhabi,405
+19,Faqar Zaman,0,-,-,0,0,21 Sep 2018,v Afghanistan Abu Dhabi,405
+23,Imam-Ul-Haq,80,-,-,0,0,21 Sep 2018,v Afghanistan Abu Dhabi,405
+24,Mohammad Nawaz,10,3,57,2,0,21 Sep 2018,v Afghanistan Abu Dhabi,405
+29,Shaheen Shah Afridi,DNB,2,38,0,0,21 Sep 2018,v Afghanistan Abu Dhabi,405
+16,Babar Azam,1,-,-,0,0,26 Sep 2018,v Bangladesh Abu Dhabi,406
+17,Shadab Khan,4,1,52,0,0,26 Sep 2018,v Bangladesh Abu Dhabi,406
+19,Faqar Zaman,1,-,-,2,0,26 Sep 2018,v Bangladesh Abu Dhabi,406
+23,Imam-Ul-Haq,83,-,-,0,0,26 Sep 2018,v Bangladesh Abu Dhabi,406
+24,Mohammad Nawaz,8,0,39,0,0,26 Sep 2018,v Bangladesh Abu Dhabi,406
+29,Shaheen Shah Afridi,14*,2,47,0,0,26 Sep 2018,v Bangladesh Abu Dhabi,406
+16,Babar Azam,0,-,-,1,0,7 Nov 2018,v New Zealand Abu Dhabi,407
+17,Shadab Khan,7,4,38,1,0,7 Nov 2018,v New Zealand Abu Dhabi,407
+19,Faqar Zaman,1,-,-,0,0,7 Nov 2018,v New Zealand Abu Dhabi,407
+23,Imam-Ul-Haq,34,-,-,0,0,7 Nov 2018,v New Zealand Abu Dhabi,407
+29,Shaheen Shah Afridi,0,4,46,0,0,7 Nov 2018,v New Zealand Abu Dhabi,407
+16,Babar Azam,46,-,-,0,0,9 Nov 2018,v New Zealand Abu Dhabi,408
+17,Shadab Khan,2*,1,25,0,0,9 Nov 2018,v New Zealand Abu Dhabi,408
+19,Faqar Zaman,88,-,-,0,0,9 Nov 2018,v New Zealand Abu Dhabi,408
+23,Imam-Ul-Haq,16*,-,-,1,0,9 Nov 2018,v New Zealand Abu Dhabi,408
+29,Shaheen Shah Afridi,DNB,4,38,0,0,9 Nov 2018,v New Zealand Abu Dhabi,408
+16,Babar Azam,92,-,-,0,0,11 Nov 2018,v New Zealand Dubai (DSC),409
+17,Shadab Khan,DNB,-,-,0,0,11 Nov 2018,v New Zealand Dubai (DSC),409
+19,Faqar Zaman,65,-,-,0,0,11 Nov 2018,v New Zealand Dubai (DSC),409
+29,Shaheen Shah Afridi,DNB,1,18,0,0,11 Nov 2018,v New Zealand Dubai (DSC),409
+16,Babar Azam,49,-,-,0,0,19 Jan 2019,v South Africa Gqeberha,410
+17,Shadab Khan,18*,1,41,0,0,19 Jan 2019,v South Africa Gqeberha,410
+19,Faqar Zaman,25,0,8,0,0,19 Jan 2019,v South Africa Gqeberha,410
+23,Imam-Ul-Haq,86,-,-,0,0,19 Jan 2019,v South Africa Gqeberha,410
+16,Babar Azam,12,-,-,0,0,22 Jan 2019,v South Africa Durban,411
+17,Shadab Khan,18,2,46,0,0,22 Jan 2019,v South Africa Durban,411
+19,Faqar Zaman,26,-,-,0,0,22 Jan 2019,v South Africa Durban,411
+23,Imam-Ul-Haq,5,-,-,1,0,22 Jan 2019,v South Africa Durban,411
+29,Shaheen Shah Afridi,1*,3,44,0,0,22 Jan 2019,v South Africa Durban,411
+16,Babar Azam,69,-,-,1,0,25 Jan 2019,v South Africa Centurion,412
+17,Shadab Khan,DNB,0,46,0,0,25 Jan 2019,v South Africa Centurion,412
+19,Faqar Zaman,2,-,-,0,0,25 Jan 2019,v South Africa Centurion,412
+23,Imam-Ul-Haq,101,-,-,0,0,25 Jan 2019,v South Africa Centurion,412
+29,Shaheen Shah Afridi,DNB,0,37,0,0,25 Jan 2019,v South Africa Centurion,412
+16,Babar Azam,41*,-,-,1,0,27 Jan 2019,v South Africa Johannesburg,413
+17,Shadab Khan,DNB,2,42,0,0,27 Jan 2019,v South Africa Johannesburg,413
+19,Faqar Zaman,44,-,-,0,0,27 Jan 2019,v South Africa Johannesburg,413
+23,Imam-Ul-Haq,71,-,-,0,0,27 Jan 2019,v South Africa Johannesburg,413
+25,Mohammad Rizwan,4*,-,-,3,0,27 Jan 2019,v South Africa Johannesburg,413
+29,Shaheen Shah Afridi,DNB,2,24,0,0,27 Jan 2019,v South Africa Johannesburg,413
+16,Babar Azam,24,-,-,0,0,30 Jan 2019,v South Africa Cape Town,414
+17,Shadab Khan,19,0,78,0,0,30 Jan 2019,v South Africa Cape Town,414
+19,Faqar Zaman,70,-,-,0,0,30 Jan 2019,v South Africa Cape Town,414
+23,Imam-Ul-Haq,8,-,-,0,0,30 Jan 2019,v South Africa Cape Town,414
+25,Mohammad Rizwan,10,-,-,1,0,30 Jan 2019,v South Africa Cape Town,414
+29,Shaheen Shah Afridi,0*,1,34,1,0,30 Jan 2019,v South Africa Cape Town,414
+16,Babar Azam,16,-,-,-,-,8 May 2019,v England The Oval,415
+19,Faqar Zaman,3,-,-,-,-,8 May 2019,v England The Oval,415
+23,Imam-Ul-Haq,42*,-,-,-,-,8 May 2019,v England The Oval,415
+29,Shaheen Shah Afridi,DNB,-,-,-,-,8 May 2019,v England The Oval,415
+16,Babar Azam,51,-,-,0,0,11 May 2019,v England Southampton,416
+19,Faqar Zaman,138,-,-,1,0,11 May 2019,v England Southampton,416
+23,Imam-Ul-Haq,35,-,-,0,0,11 May 2019,v England Southampton,416
+29,Shaheen Shah Afridi,DNB,1,80,0,0,11 May 2019,v England Southampton,416
+16,Babar Azam,15,-,-,1,0,14 May 2019,v England Bristol,417
+19,Faqar Zaman,2,-,-,0,0,14 May 2019,v England Bristol,417
+23,Imam-Ul-Haq,151,-,-,0,0,14 May 2019,v England Bristol,417
+29,Shaheen Shah Afridi,7,0,83,0,0,14 May 2019,v England Bristol,417
+16,Babar Azam,115,-,-,0,0,17 May 2019,v England Nottingham,418
+19,Faqar Zaman,57,-,-,1,0,17 May 2019,v England Nottingham,418
+23,Imam-Ul-Haq,6*,-,-,0,0,17 May 2019,v England Nottingham,418
+16,Babar Azam,80,-,-,1,0,19 May 2019,v England Leeds,419
+19,Faqar Zaman,0,0,23,2,0,19 May 2019,v England Leeds,419
+29,Shaheen Shah Afridi,19*,4,82,1,0,19 May 2019,v England Leeds,419
+16,Babar Azam,22,-,-,1,0,31 May 2019,v West Indies Nottingham,420
+17,Shadab Khan,0,-,-,1,0,31 May 2019,v West Indies Nottingham,420
+19,Faqar Zaman,22,-,-,0,0,31 May 2019,v West Indies Nottingham,420
+23,Imam-Ul-Haq,2,-,-,0,0,31 May 2019,v West Indies Nottingham,420
+16,Babar Azam,63,-,-,0,0,3 Jun 2019,v England Nottingham,421
+17,Shadab Khan,10*,2,63,0,0,3 Jun 2019,v England Nottingham,421
+19,Faqar Zaman,36,-,-,1,0,3 Jun 2019,v England Nottingham,421
+23,Imam-Ul-Haq,44,-,-,0,0,3 Jun 2019,v England Nottingham,421
+16,Babar Azam,30,-,-,0,0,12 Jun 2019,v Australia Taunton,422
+19,Faqar Zaman,0,-,-,0,0,12 Jun 2019,v Australia Taunton,422
+23,Imam-Ul-Haq,53,-,-,1,0,12 Jun 2019,v Australia Taunton,422
+29,Shaheen Shah Afridi,1*,2,70,0,0,12 Jun 2019,v Australia Taunton,422
+16,Babar Azam,69,-,-,0,0,23 Jun 2019,v South Africa Lord's,423
+17,Shadab Khan,1*,3,50,0,0,23 Jun 2019,v South Africa Lord's,423
+19,Faqar Zaman,44,-,-,0,0,23 Jun 2019,v South Africa Lord's,423
+23,Imam-Ul-Haq,44,-,-,1,0,23 Jun 2019,v South Africa Lord's,423
+29,Shaheen Shah Afridi,DNB,1,54,0,0,23 Jun 2019,v South Africa Lord's,423
+16,Babar Azam,101*,-,-,0,0,26 Jun 2019,v New Zealand Birmingham,424
+17,Shadab Khan,DNB,1,43,0,0,26 Jun 2019,v New Zealand Birmingham,424
+19,Faqar Zaman,9,-,-,0,0,26 Jun 2019,v New Zealand Birmingham,424
+23,Imam-Ul-Haq,19,-,-,0,0,26 Jun 2019,v New Zealand Birmingham,424
+29,Shaheen Shah Afridi,DNB,3,28,0,0,26 Jun 2019,v New Zealand Birmingham,424
+16,Babar Azam,45,-,-,1,0,29 Jun 2019,v Afghanistan Leeds,425
+17,Shadab Khan,11,1,44,0,0,29 Jun 2019,v Afghanistan Leeds,425
+19,Faqar Zaman,0,-,-,1,0,29 Jun 2019,v Afghanistan Leeds,425
+23,Imam-Ul-Haq,36,-,-,0,0,29 Jun 2019,v Afghanistan Leeds,425
+29,Shaheen Shah Afridi,DNB,4,47,0,0,29 Jun 2019,v Afghanistan Leeds,425
+16,Babar Azam,96,-,-,1,0,5 Jul 2019,v Bangladesh Lord's,426
+17,Shadab Khan,1,2,59,0,0,5 Jul 2019,v Bangladesh Lord's,426
+19,Faqar Zaman,13,-,-,1,0,5 Jul 2019,v Bangladesh Lord's,426
+23,Imam-Ul-Haq,100,-,-,0,0,5 Jul 2019,v Bangladesh Lord's,426
+29,Shaheen Shah Afridi,0*,6,35,0,0,5 Jul 2019,v Bangladesh Lord's,426
+16,Babar Azam,115,-,-,0,0,30 Sep 2019,v Sri Lanka Karachi,427
+17,Shadab Khan,DNB,2,76,0,0,30 Sep 2019,v Sri Lanka Karachi,427
+19,Faqar Zaman,54,-,-,2,0,30 Sep 2019,v Sri Lanka Karachi,427
+22,Iftikhar Ahmed,32*,0,9,1,0,30 Sep 2019,v Sri Lanka Karachi,427
+23,Imam-Ul-Haq,31,-,-,0,0,30 Sep 2019,v Sri Lanka Karachi,427
+16,Babar Azam,31,-,-,0,0,2 Oct 2019,v Sri Lanka Karachi,428
+17,Shadab Khan,DNB,1,50,0,0,2 Oct 2019,v Sri Lanka Karachi,428
+19,Faqar Zaman,76,-,-,0,0,2 Oct 2019,v Sri Lanka Karachi,428
+22,Iftikhar Ahmed,28*,0,43,1,0,2 Oct 2019,v Sri Lanka Karachi,428
+24,Mohammad Nawaz,DNB,1,24,1,0,2 Oct 2019,v Sri Lanka Karachi,428
+16,Babar Azam,19,-,-,0,0,30 Oct 2020,v Zimbabwe Rawalpindi,429
+20,Haris Rauf,DNB,0,57,1,0,30 Oct 2020,v Zimbabwe Rawalpindi,429
+22,Iftikhar Ahmed,12,-,-,0,0,30 Oct 2020,v Zimbabwe Rawalpindi,429
+23,Imam-Ul-Haq,58,-,-,0,0,30 Oct 2020,v Zimbabwe Rawalpindi,429
+25,Mohammad Rizwan,14,-,-,1,0,30 Oct 2020,v Zimbabwe Rawalpindi,429
+29,Shaheen Shah Afridi,8*,5,49,0,0,30 Oct 2020,v Zimbabwe Rawalpindi,429
+16,Babar Azam,77*,-,-,0,0,1 Nov 2020,v Zimbabwe Rawalpindi,430
+20,Haris Rauf,DNB,1,31,0,0,1 Nov 2020,v Zimbabwe Rawalpindi,430
+22,Iftikhar Ahmed,16*,5,40,1,0,1 Nov 2020,v Zimbabwe Rawalpindi,430
+23,Imam-Ul-Haq,49,-,-,1,0,1 Nov 2020,v Zimbabwe Rawalpindi,430
+25,Mohammad Rizwan,1,-,-,1,0,1 Nov 2020,v Zimbabwe Rawalpindi,430
+29,Shaheen Shah Afridi,DNB,0,36,1,0,1 Nov 2020,v Zimbabwe Rawalpindi,430
+16,Babar Azam,125,-,-,0,0,3 Nov 2020,v Zimbabwe Rawalpindi,431
+19,Faqar Zaman,2,-,-,0,0,3 Nov 2020,v Zimbabwe Rawalpindi,431
+22,Iftikhar Ahmed,18,0,60,1,0,3 Nov 2020,v Zimbabwe Rawalpindi,431
+23,Imam-Ul-Haq,4,-,-,0,0,3 Nov 2020,v Zimbabwe Rawalpindi,431
+25,Mohammad Rizwan,10,-,-,1,0,3 Nov 2020,v Zimbabwe Rawalpindi,431
+29,Shaheen Shah Afridi,2,0,42,0,0,3 Nov 2020,v Zimbabwe Rawalpindi,431
+16,Babar Azam,103,-,-,1,0,2 Apr 2021,v South Africa Centurion,432
+17,Shadab Khan,33,0,45,1,0,2 Apr 2021,v South Africa Centurion,432
+19,Faqar Zaman,8,-,-,0,0,2 Apr 2021,v South Africa Centurion,432
+20,Haris Rauf,DNB,2,72,0,0,2 Apr 2021,v South Africa Centurion,432
+23,Imam-Ul-Haq,70,-,-,0,0,2 Apr 2021,v South Africa Centurion,432
+25,Mohammad Rizwan,40,-,-,2,0,2 Apr 2021,v South Africa Centurion,432
+29,Shaheen Shah Afridi,0*,2,61,1,0,2 Apr 2021,v South Africa Centurion,432
+16,Babar Azam,31,-,-,1,0,4 Apr 2021,v South Africa Johannesburg,433
+17,Shadab Khan,13,0,64,0,0,4 Apr 2021,v South Africa Johannesburg,433
+19,Faqar Zaman,193,-,-,0,0,4 Apr 2021,v South Africa Johannesburg,433
+20,Haris Rauf,1*,3,54,1,0,4 Apr 2021,v South Africa Johannesburg,433
+23,Imam-Ul-Haq,5,-,-,0,0,4 Apr 2021,v South Africa Johannesburg,433
+25,Mohammad Rizwan,0,-,-,0,0,4 Apr 2021,v South Africa Johannesburg,433
+29,Shaheen Shah Afridi,5,1,75,0,0,4 Apr 2021,v South Africa Johannesburg,433
+16,Babar Azam,94,-,-,0,0,7 Apr 2021,v South Africa Centurion,434
+19,Faqar Zaman,101,-,-,0,0,7 Apr 2021,v South Africa Centurion,434
+20,Haris Rauf,DNB,2,45,0,0,7 Apr 2021,v South Africa Centurion,434
+23,Imam-Ul-Haq,57,-,-,0,0,7 Apr 2021,v South Africa Centurion,434
+24,Mohammad Nawaz,4,3,34,0,0,7 Apr 2021,v South Africa Centurion,434
+25,Mohammad Rizwan,2,-,-,0,0,7 Apr 2021,v South Africa Centurion,434
+29,Shaheen Shah Afridi,DNB,3,58,0,0,7 Apr 2021,v South Africa Centurion,434
+16,Babar Azam,0,-,-,0,0,8 Jul 2021,v England Cardiff,435
+17,Shadab Khan,30,0,22,0,0,8 Jul 2021,v England Cardiff,435
+19,Faqar Zaman,47,-,-,0,0,8 Jul 2021,v England Cardiff,435
+20,Haris Rauf,0*,0,28,0,0,8 Jul 2021,v England Cardiff,435
+23,Imam-Ul-Haq,0,-,-,0,0,8 Jul 2021,v England Cardiff,435
+25,Mohammad Rizwan,13,-,-,0,0,8 Jul 2021,v England Cardiff,435
+28,Saud Shakeel,5,0,3,0,0,8 Jul 2021,v England Cardiff,435
+29,Shaheen Shah Afridi,12,1,22,0,0,8 Jul 2021,v England Cardiff,435
+16,Babar Azam,19,-,-,0,0,10 Jul 2021,v England Lord's,436
+17,Shadab Khan,21,1,46,1,0,10 Jul 2021,v England Lord's,436
+19,Faqar Zaman,10,-,-,1,0,10 Jul 2021,v England Lord's,436
+20,Haris Rauf,1,2,54,1,0,10 Jul 2021,v England Lord's,436
+23,Imam-Ul-Haq,1,-,-,0,0,10 Jul 2021,v England Lord's,436
+25,Mohammad Rizwan,5,-,-,1,0,10 Jul 2021,v England Lord's,436
+28,Saud Shakeel,56,1,14,0,0,10 Jul 2021,v England Lord's,436
+29,Shaheen Shah Afridi,18*,1,37,0,0,10 Jul 2021,v England Lord's,436
+16,Babar Azam,158,-,-,1,0,13 Jul 2021,v England Birmingham,437
+17,Shadab Khan,0,2,61,1,0,13 Jul 2021,v England Birmingham,437
+19,Faqar Zaman,6,-,-,1,0,13 Jul 2021,v England Birmingham,437
+20,Haris Rauf,0*,4,65,0,0,13 Jul 2021,v England Birmingham,437
+23,Imam-Ul-Haq,56,-,-,0,0,13 Jul 2021,v England Birmingham,437
+25,Mohammad Rizwan,74,-,-,2,0,13 Jul 2021,v England Birmingham,437
+28,Saud Shakeel,3*,0,20,0,0,13 Jul 2021,v England Birmingham,437
+29,Shaheen Shah Afridi,0,0,78,0,0,13 Jul 2021,v England Birmingham,437
+16,Babar Azam,57,-,-,0,0,29 Mar 2022,v Australia Lahore,438
+19,Faqar Zaman,18,-,-,0,0,29 Mar 2022,v Australia Lahore,438
+20,Haris Rauf,7,2,44,0,0,29 Mar 2022,v Australia Lahore,438
+21,Hasan Ali,0,0,59,0,0,29 Mar 2022,v Australia Lahore,438
+22,Iftikhar Ahmed,2,1,36,0,0,29 Mar 2022,v Australia Lahore,438
+23,Imam-Ul-Haq,103,-,-,0,0,29 Mar 2022,v Australia Lahore,438
+25,Mohammad Rizwan,10,-,-,1,0,29 Mar 2022,v Australia Lahore,438
+26,Mohammad Wasim Jr.,0,0,59,0,0,29 Mar 2022,v Australia Lahore,438
+28,Saud Shakeel,3,-,-,1,0,29 Mar 2022,v Australia Lahore,438
+16,Babar Azam,114,-,-,1,0,31 Mar 2022,v Australia Lahore,439
+19,Faqar Zaman,67,-,-,0,0,31 Mar 2022,v Australia Lahore,439
+20,Haris Rauf,DNB,0,57,2,0,31 Mar 2022,v Australia Lahore,439
+21,Hasan Ali,DNB,2,56,0,0,31 Mar 2022,v Australia Lahore,439
+22,Iftikhar Ahmed,8*,0,38,1,0,31 Mar 2022,v Australia Lahore,439
+23,Imam-Ul-Haq,106,-,-,0,0,31 Mar 2022,v Australia Lahore,439
+25,Mohammad Rizwan,23,-,-,1,0,31 Mar 2022,v Australia Lahore,439
+26,Mohammad Wasim Jr.,DNB,2,56,0,0,31 Mar 2022,v Australia Lahore,439
+28,Saud Shakeel,DNB,-,-,1,0,31 Mar 2022,v Australia Lahore,439
+29,Shaheen Shah Afridi,DNB,4,63,1,0,31 Mar 2022,v Australia Lahore,439
+16,Babar Azam,105*,-,-,0,0,2 Apr 2022,v Australia Lahore,440
+19,Faqar Zaman,17,-,-,2,0,2 Apr 2022,v Australia Lahore,440
+20,Haris Rauf,DNB,3,39,0,0,2 Apr 2022,v Australia Lahore,440
+21,Hasan Ali,DNB,3,40,1,0,2 Apr 2022,v Australia Lahore,440
+22,Iftikhar Ahmed,DNB,1,38,2,0,2 Apr 2022,v Australia Lahore,440
+23,Imam-Ul-Haq,89*,-,-,1,0,2 Apr 2022,v Australia Lahore,440
+25,Mohammad Rizwan,DNB,-,-,0,0,2 Apr 2022,v Australia Lahore,440
+26,Mohammad Wasim Jr.,DNB,3,40,1,0,2 Apr 2022,v Australia Lahore,440
+29,Shaheen Shah Afridi,DNB,2,40,0,0,2 Apr 2022,v Australia Lahore,440
+16,Babar Azam,103,-,-,0,0,8 Jun 2022,v West Indies Multan,441
+17,Shadab Khan,6,1,37,2,0,8 Jun 2022,v West Indies Multan,441
+19,Faqar Zaman,11,-,-,0,0,8 Jun 2022,v West Indies Multan,441
+20,Haris Rauf,DNB,4,77,0,0,8 Jun 2022,v West Indies Multan,441
+23,Imam-Ul-Haq,65,-,-,0,0,8 Jun 2022,v West Indies Multan,441
+24,Mohammad Nawaz,8*,1,61,1,0,8 Jun 2022,v West Indies Multan,441
+25,Mohammad Rizwan,59,-,-,0,0,8 Jun 2022,v West Indies Multan,441
+29,Shaheen Shah Afridi,DNB,2,55,1,0,8 Jun 2022,v West Indies Multan,441
+16,Babar Azam,77,-,-,0,0,10 Jun 2022,v West Indies Multan,442
+17,Shadab Khan,22,2,40,0,0,10 Jun 2022,v West Indies Multan,442
+19,Faqar Zaman,17,-,-,1,0,10 Jun 2022,v West Indies Multan,442
+20,Haris Rauf,DNB,0,30,0,0,10 Jun 2022,v West Indies Multan,442
+21,Hasan Ali,17*,3,34,0,0,10 Jun 2022,v West Indies Multan,442
+23,Imam-Ul-Haq,72,-,-,0,0,10 Jun 2022,v West Indies Multan,442
+24,Mohammad Nawaz,3,4,19,0,0,10 Jun 2022,v West Indies Multan,442
+25,Mohammad Rizwan,15,-,-,1,0,10 Jun 2022,v West Indies Multan,442
+26,Mohammad Wasim Jr.,17*,3,34,0,0,10 Jun 2022,v West Indies Multan,442
+29,Shaheen Shah Afridi,15*,1,17,0,0,10 Jun 2022,v West Indies Multan,442
+16,Babar Azam,1,-,-,1,0,12 Jun 2022,v West Indies Multan,443
+17,Shadab Khan,86,4,62,0,0,12 Jun 2022,v West Indies Multan,443
+19,Faqar Zaman,35,-,-,1,0,12 Jun 2022,v West Indies Multan,443
+21,Hasan Ali,6,1,21,0,0,12 Jun 2022,v West Indies Multan,443
+23,Imam-Ul-Haq,62,-,-,1,0,12 Jun 2022,v West Indies Multan,443
+24,Mohammad Nawaz,8,2,56,0,0,12 Jun 2022,v West Indies Multan,443
+25,Mohammad Rizwan,11,-,-,0,0,12 Jun 2022,v West Indies Multan,443
+26,Mohammad Wasim Jr.,6,1,21,0,0,12 Jun 2022,v West Indies Multan,443
+16,Babar Azam,74,-,-,1,0,16 Aug 2022,v Netherlands Rotterdam,444
+17,Shadab Khan,48*,0,47,0,0,16 Aug 2022,v Netherlands Rotterdam,444
+19,Faqar Zaman,109,-,-,0,0,16 Aug 2022,v Netherlands Rotterdam,444
+20,Haris Rauf,DNB,3,67,0,0,16 Aug 2022,v Netherlands Rotterdam,444
+21,Hasan Ali,DNB,1,55,0,0,16 Aug 2022,v Netherlands Rotterdam,444
+23,Imam-Ul-Haq,2,-,-,0,0,16 Aug 2022,v Netherlands Rotterdam,444
+24,Mohammad Nawaz,4,1,35,0,0,16 Aug 2022,v Netherlands Rotterdam,444
+25,Mohammad Rizwan,14,-,-,0,0,16 Aug 2022,v Netherlands Rotterdam,444
+26,Mohammad Wasim Jr.,DNB,1,55,0,0,16 Aug 2022,v Netherlands Rotterdam,444
+27,Salman Agha,27*,0,25,0,0,16 Aug 2022,v Netherlands Rotterdam,444
+16,Babar Azam,57,-,-,1,0,18 Aug 2022,v Netherlands Rotterdam,445
+17,Shadab Khan,DNB,1,41,0,0,18 Aug 2022,v Netherlands Rotterdam,445
+19,Faqar Zaman,3,-,-,1,0,18 Aug 2022,v Netherlands Rotterdam,445
+20,Haris Rauf,DNB,3,16,0,0,18 Aug 2022,v Netherlands Rotterdam,445
+21,Hasan Ali,DNB,1,42,0,0,18 Aug 2022,v Netherlands Rotterdam,445
+23,Imam-Ul-Haq,6,-,-,0,0,18 Aug 2022,v Netherlands Rotterdam,445
+24,Mohammad Nawaz,DNB,3,42,1,0,18 Aug 2022,v Netherlands Rotterdam,445
+25,Mohammad Rizwan,69*,-,-,3,0,18 Aug 2022,v Netherlands Rotterdam,445
+26,Mohammad Wasim Jr.,DNB,1,42,0,0,18 Aug 2022,v Netherlands Rotterdam,445
+27,Salman Agha,50*,-,-,0,0,18 Aug 2022,v Netherlands Rotterdam,445
+16,Babar Azam,91,-,-,0,0,21 Aug 2022,v Netherlands Rotterdam,446
+18,Abdullah Shafique,2,-,-,0,0,21 Aug 2022,v Netherlands Rotterdam,446
+19,Faqar Zaman,26,-,-,1,0,21 Aug 2022,v Netherlands Rotterdam,446
+21,Hasan Ali,11,4,36,0,0,21 Aug 2022,v Netherlands Rotterdam,446
+24,Mohammad Nawaz,27,0,41,1,0,21 Aug 2022,v Netherlands Rotterdam,446
+26,Mohammad Wasim Jr.,11,4,36,0,0,21 Aug 2022,v Netherlands Rotterdam,446
+27,Salman Agha,24,0,5,1,0,21 Aug 2022,v Netherlands Rotterdam,446
+16,Babar Azam,66,-,-,1,0,9 Jan 2023,v New Zealand Karachi,447
+19,Faqar Zaman,56,-,-,1,0,9 Jan 2023,v New Zealand Karachi,447
+20,Haris Rauf,DNB,0,54,0,0,9 Jan 2023,v New Zealand Karachi,447
+21,Hasan Ali,DNB,1,43,0,0,9 Jan 2023,v New Zealand Karachi,447
+23,Imam-Ul-Haq,11,-,-,0,0,9 Jan 2023,v New Zealand Karachi,447
+24,Mohammad Nawaz,DNB,1,38,1,0,9 Jan 2023,v New Zealand Karachi,447
+25,Mohammad Rizwan,77*,-,-,0,0,9 Jan 2023,v New Zealand Karachi,447
+26,Mohammad Wasim Jr.,DNB,1,43,0,0,9 Jan 2023,v New Zealand Karachi,447
+27,Salman Agha,13*,0,18,1,0,9 Jan 2023,v New Zealand Karachi,447
+30,Usama Mir,DNB,2,42,0,0,9 Jan 2023,v New Zealand Karachi,447
+16,Babar Azam,79,-,-,0,0,11 Jan 2023,v New Zealand Karachi,448
+19,Faqar Zaman,0,-,-,1,0,11 Jan 2023,v New Zealand Karachi,448
+20,Haris Rauf,0,1,47,0,0,11 Jan 2023,v New Zealand Karachi,448
+21,Hasan Ali,10,0,46,0,0,11 Jan 2023,v New Zealand Karachi,448
+23,Imam-Ul-Haq,6,-,-,0,0,11 Jan 2023,v New Zealand Karachi,448
+24,Mohammad Nawaz,3,4,38,1,0,11 Jan 2023,v New Zealand Karachi,448
+25,Mohammad Rizwan,28,-,-,1,0,11 Jan 2023,v New Zealand Karachi,448
+26,Mohammad Wasim Jr.,10,0,46,0,0,11 Jan 2023,v New Zealand Karachi,448
+27,Salman Agha,25,0,28,0,0,11 Jan 2023,v New Zealand Karachi,448
+30,Usama Mir,12,1,42,1,0,11 Jan 2023,v New Zealand Karachi,448
+16,Babar Azam,4,-,-,0,0,13 Jan 2023,v New Zealand Karachi,449
+19,Faqar Zaman,101,-,-,0,0,13 Jan 2023,v New Zealand Karachi,449
+20,Haris Rauf,1*,0,41,0,0,13 Jan 2023,v New Zealand Karachi,449
+21,Hasan Ali,7,2,35,0,0,13 Jan 2023,v New Zealand Karachi,449
+24,Mohammad Nawaz,8,1,53,0,0,13 Jan 2023,v New Zealand Karachi,449
+25,Mohammad Rizwan,77,-,-,0,0,13 Jan 2023,v New Zealand Karachi,449
+26,Mohammad Wasim Jr.,7,2,35,0,0,13 Jan 2023,v New Zealand Karachi,449
+27,Salman Agha,45,2,42,1,0,13 Jan 2023,v New Zealand Karachi,449
+30,Usama Mir,6,1,61,1,0,13 Jan 2023,v New Zealand Karachi,449
+16,Babar Azam,49,-,-,0,0,27 Apr 2023,v New Zealand Rawalpindi,450
+17,Shadab Khan,DNB,1,56,0,0,27 Apr 2023,v New Zealand Rawalpindi,450
+19,Faqar Zaman,117,-,-,1,0,27 Apr 2023,v New Zealand Rawalpindi,450
+20,Haris Rauf,DNB,2,65,1,0,27 Apr 2023,v New Zealand Rawalpindi,450
+23,Imam-Ul-Haq,60,-,-,0,0,27 Apr 2023,v New Zealand Rawalpindi,450
+24,Mohammad Nawaz,8*,0,55,1,0,27 Apr 2023,v New Zealand Rawalpindi,450
+25,Mohammad Rizwan,42*,-,-,1,0,27 Apr 2023,v New Zealand Rawalpindi,450
+27,Salman Agha,7,0,15,0,0,27 Apr 2023,v New Zealand Rawalpindi,450
+29,Shaheen Shah Afridi,DNB,2,63,0,0,27 Apr 2023,v New Zealand Rawalpindi,450
+16,Babar Azam,65,-,-,0,0,29 Apr 2023,v New Zealand Rawalpindi,451
+18,Abdullah Shafique,7,-,-,1,0,29 Apr 2023,v New Zealand Rawalpindi,451
+19,Faqar Zaman,180*,-,-,0,0,29 Apr 2023,v New Zealand Rawalpindi,451
+20,Haris Rauf,DNB,4,78,0,0,29 Apr 2023,v New Zealand Rawalpindi,451
+23,Imam-Ul-Haq,24,-,-,0,0,29 Apr 2023,v New Zealand Rawalpindi,451
+24,Mohammad Nawaz,DNB,0,40,1,0,29 Apr 2023,v New Zealand Rawalpindi,451
+25,Mohammad Rizwan,54*,-,-,2,0,29 Apr 2023,v New Zealand Rawalpindi,451
+27,Salman Agha,DNB,0,34,0,0,29 Apr 2023,v New Zealand Rawalpindi,451
+30,Usama Mir,DNB,0,66,0,0,29 Apr 2023,v New Zealand Rawalpindi,451
+16,Babar Azam,54,-,-,0,0,3 May 2023,v New Zealand Karachi,452
+17,Shadab Khan,21*,0,45,0,0,3 May 2023,v New Zealand Karachi,452
+18,Abdullah Shafique,19,-,-,2,0,3 May 2023,v New Zealand Karachi,452
+19,Faqar Zaman,19,-,-,0,0,3 May 2023,v New Zealand Karachi,452
+21,Hasan Ali,DNB,2,50,1,0,3 May 2023,v New Zealand Karachi,452
+23,Imam-Ul-Haq,90,-,-,0,0,3 May 2023,v New Zealand Karachi,452
+24,Mohammad Nawaz,11*,0,26,0,0,3 May 2023,v New Zealand Karachi,452
+25,Mohammad Rizwan,32,-,-,0,0,3 May 2023,v New Zealand Karachi,452
+26,Mohammad Wasim Jr.,DNB,2,50,1,0,3 May 2023,v New Zealand Karachi,452
+27,Salman Agha,31,1,42,0,0,3 May 2023,v New Zealand Karachi,452
+29,Shaheen Shah Afridi,DNB,2,53,0,0,3 May 2023,v New Zealand Karachi,452
+16,Babar Azam,107,-,-,0,0,5 May 2023,v New Zealand Karachi,453
+19,Faqar Zaman,14,-,-,0,0,5 May 2023,v New Zealand Karachi,453
+20,Haris Rauf,DNB,2,37,2,0,5 May 2023,v New Zealand Karachi,453
+21,Hasan Ali,DNB,3,40,0,0,5 May 2023,v New Zealand Karachi,453
+22,Iftikhar Ahmed,28,0,21,1,0,5 May 2023,v New Zealand Karachi,453
+25,Mohammad Rizwan,24,-,-,2,1,5 May 2023,v New Zealand Karachi,453
+26,Mohammad Wasim Jr.,DNB,3,40,0,0,5 May 2023,v New Zealand Karachi,453
+27,Salman Agha,58,0,49,0,0,5 May 2023,v New Zealand Karachi,453
+29,Shaheen Shah Afridi,23*,1,34,1,0,5 May 2023,v New Zealand Karachi,453
+30,Usama Mir,DNB,4,43,0,0,5 May 2023,v New Zealand Karachi,453
+16,Babar Azam,1,-,-,1,0,7 May 2023,v New Zealand Karachi,454
+17,Shadab Khan,14,2,67,1,0,7 May 2023,v New Zealand Karachi,454
+19,Faqar Zaman,33,-,-,1,0,7 May 2023,v New Zealand Karachi,454
+20,Haris Rauf,1,1,45,0,0,7 May 2023,v New Zealand Karachi,454
+21,Hasan Ali,6,1,24,0,0,7 May 2023,v New Zealand Karachi,454
+22,Iftikhar Ahmed,94*,-,-,2,0,7 May 2023,v New Zealand Karachi,454
+25,Mohammad Rizwan,9,-,-,3,0,7 May 2023,v New Zealand Karachi,454
+26,Mohammad Wasim Jr.,6,1,24,0,0,7 May 2023,v New Zealand Karachi,454
+27,Salman Agha,57,0,60,1,0,7 May 2023,v New Zealand Karachi,454
+29,Shaheen Shah Afridi,0,3,46,0,0,7 May 2023,v New Zealand Karachi,454
+30,Usama Mir,20,2,53,0,0,7 May 2023,v New Zealand Karachi,454
+16,Babar Azam,0,-,-,0,0,22 Aug 2023,v Afghanistan Hambantota,455
+17,Shadab Khan,39,1,0,1,0,22 Aug 2023,v Afghanistan Hambantota,455
+19,Faqar Zaman,2,-,-,1,0,22 Aug 2023,v Afghanistan Hambantota,455
+20,Haris Rauf,1,5,18,0,0,22 Aug 2023,v Afghanistan Hambantota,455
+22,Iftikhar Ahmed,30,-,-,0,0,22 Aug 2023,v Afghanistan Hambantota,455
+23,Imam-Ul-Haq,61,-,-,0,0,22 Aug 2023,v Afghanistan Hambantota,455
+25,Mohammad Rizwan,21,-,-,2,0,22 Aug 2023,v Afghanistan Hambantota,455
+27,Salman Agha,7,-,-,3,0,22 Aug 2023,v Afghanistan Hambantota,455
+29,Shaheen Shah Afridi,2,2,9,0,0,22 Aug 2023,v Afghanistan Hambantota,455
+30,Usama Mir,2,0,18,0,0,22 Aug 2023,v Afghanistan Hambantota,455
+16,Babar Azam,53,-,-,0,0,24 Aug 2023,v Afghanistan Hambantota,456
+17,Shadab Khan,48,0,53,0,0,24 Aug 2023,v Afghanistan Hambantota,456
+19,Faqar Zaman,30,-,-,0,0,24 Aug 2023,v Afghanistan Hambantota,456
+20,Haris Rauf,3*,0,48,0,0,24 Aug 2023,v Afghanistan Hambantota,456
+22,Iftikhar Ahmed,17,0,24,1,0,24 Aug 2023,v Afghanistan Hambantota,456
+23,Imam-Ul-Haq,91,-,-,1,0,24 Aug 2023,v Afghanistan Hambantota,456
+25,Mohammad Rizwan,2,-,-,1,0,24 Aug 2023,v Afghanistan Hambantota,456
+27,Salman Agha,14,-,-,0,0,24 Aug 2023,v Afghanistan Hambantota,456
+29,Shaheen Shah Afridi,4,2,58,0,0,24 Aug 2023,v Afghanistan Hambantota,456
+30,Usama Mir,0,1,61,0,0,24 Aug 2023,v Afghanistan Hambantota,456
+16,Babar Azam,60,-,-,0,0,26 Aug 2023,v Afghanistan Colombo (RPS),457
+17,Shadab Khan,3,3,42,0,0,26 Aug 2023,v Afghanistan Colombo (RPS),457
+19,Faqar Zaman,27,-,-,1,0,26 Aug 2023,v Afghanistan Colombo (RPS),457
+21,Hasan Ali,DNB,0,35,0,0,26 Aug 2023,v Afghanistan Colombo (RPS),457
+23,Imam-Ul-Haq,13,-,-,2,0,26 Aug 2023,v Afghanistan Colombo (RPS),457
+24,Mohammad Nawaz,30,2,45,0,0,26 Aug 2023,v Afghanistan Colombo (RPS),457
+25,Mohammad Rizwan,67,-,-,2,0,26 Aug 2023,v Afghanistan Colombo (RPS),457
+26,Mohammad Wasim Jr.,DNB,0,35,0,0,26 Aug 2023,v Afghanistan Colombo (RPS),457
+27,Salman Agha,38*,1,3,0,0,26 Aug 2023,v Afghanistan Colombo (RPS),457
+28,Saud Shakeel,9,-,-,0,0,26 Aug 2023,v Afghanistan Colombo (RPS),457
+29,Shaheen Shah Afridi,2*,2,31,1,0,26 Aug 2023,v Afghanistan Colombo (RPS),457
+16,Babar Azam,151,-,-,0,0,30 Aug 2023,v Nepal Multan,458
+17,Shadab Khan,4,4,27,0,0,30 Aug 2023,v Nepal Multan,458
+19,Faqar Zaman,14,-,-,1,0,30 Aug 2023,v Nepal Multan,458
+20,Haris Rauf,DNB,2,16,0,0,30 Aug 2023,v Nepal Multan,458
+22,Iftikhar Ahmed,109*,-,-,2,0,30 Aug 2023,v Nepal Multan,458
+23,Imam-Ul-Haq,5,-,-,0,0,30 Aug 2023,v Nepal Multan,458
+24,Mohammad Nawaz,DNB,1,13,0,0,30 Aug 2023,v Nepal Multan,458
+25,Mohammad Rizwan,44,-,-,2,0,30 Aug 2023,v Nepal Multan,458
+27,Salman Agha,5,-,-,0,0,30 Aug 2023,v Nepal Multan,458
+29,Shaheen Shah Afridi,DNB,2,27,0,0,30 Aug 2023,v Nepal Multan,458
+16,Babar Azam,17,-,-,0,0,6 Sep 2023,v Bangladesh Lahore,459
+17,Shadab Khan,DNB,0,35,0,0,6 Sep 2023,v Bangladesh Lahore,459
+19,Faqar Zaman,20,-,-,2,0,6 Sep 2023,v Bangladesh Lahore,459
+20,Haris Rauf,DNB,4,19,1,0,6 Sep 2023,v Bangladesh Lahore,459
+22,Iftikhar Ahmed,DNB,1,20,0,0,6 Sep 2023,v Bangladesh Lahore,459
+23,Imam-Ul-Haq,78,-,-,1,0,6 Sep 2023,v Bangladesh Lahore,459
+25,Mohammad Rizwan,63*,-,-,3,0,6 Sep 2023,v Bangladesh Lahore,459
+27,Salman Agha,12*,0,11,0,0,6 Sep 2023,v Bangladesh Lahore,459
+29,Shaheen Shah Afridi,DNB,1,42,0,0,6 Sep 2023,v Bangladesh Lahore,459
+16,Babar Azam,29,-,-,0,0,14 Sep 2023,v Sri Lanka Colombo (RPS),460
+17,Shadab Khan,3,1,55,1,0,14 Sep 2023,v Sri Lanka Colombo (RPS),460
+18,Abdullah Shafique,52,-,-,0,0,14 Sep 2023,v Sri Lanka Colombo (RPS),460
+19,Faqar Zaman,4,-,-,0,0,14 Sep 2023,v Sri Lanka Colombo (RPS),460
+21,Hasan Ali,DNB,0,25,1,0,14 Sep 2023,v Sri Lanka Colombo (RPS),460
+22,Iftikhar Ahmed,47,3,50,0,0,14 Sep 2023,v Sri Lanka Colombo (RPS),460
+24,Mohammad Nawaz,12,0,26,1,0,14 Sep 2023,v Sri Lanka Colombo (RPS),460
+25,Mohammad Rizwan,86*,-,-,1,1,14 Sep 2023,v Sri Lanka Colombo (RPS),460
+26,Mohammad Wasim Jr.,DNB,0,25,1,0,14 Sep 2023,v Sri Lanka Colombo (RPS),460
+29,Shaheen Shah Afridi,1*,2,52,0,0,14 Sep 2023,v Sri Lanka Colombo (RPS),460
+23,Imam-Ul-Haq,17,-,-,0,0,22 Mar 2019,v Australia Sharjah,461
+25,Mohammad Rizwan,DNB,-,-,1,0,22 Mar 2019,v Australia Sharjah,461
+23,Imam-Ul-Haq,0,-,-,1,0,24 Mar 2019,v Australia Sharjah,462
+25,Mohammad Rizwan,115,-,-,0,0,24 Mar 2019,v Australia Sharjah,462
+23,Imam-Ul-Haq,46,-,-,0,0,27 Mar 2019,v Australia Abu Dhabi,463
+25,Mohammad Rizwan,0,-,-,0,0,27 Mar 2019,v Australia Abu Dhabi,463
+25,Mohammad Rizwan,67,-,-,1,0,17 Apr 2015,v Bangladesh Mirpur,464
+25,Mohammad Rizwan,13,-,-,0,0,19 Apr 2015,v Bangladesh Mirpur,465
+25,Mohammad Rizwan,4,-,-,0,0,22 Apr 2015,v Bangladesh Mirpur,466
+25,Mohammad Rizwan,35*,-,-,0,0,19 Jul 2015,v Sri Lanka Colombo (RPS),467
+25,Mohammad Rizwan,DNB,-,-,2,0,22 Jul 2015,v Sri Lanka Colombo (RPS),468
+25,Mohammad Rizwan,29,-,-,1,0,26 Jul 2015,v Sri Lanka Hambantota,469
+25,Mohammad Rizwan,75*,-,-,1,0,1 Oct 2015,v Zimbabwe Harare,470
+25,Mohammad Rizwan,8,-,-,0,0,3 Oct 2015,v Zimbabwe Harare,471
+25,Mohammad Rizwan,DNB,-,-,1,0,5 Oct 2015,v Zimbabwe Harare,472
+25,Mohammad Rizwan,104,-,-,0,1,29 Mar 2019,v Australia Dubai (DSC),473
+25,Mohammad Rizwan,12,-,-,0,0,31 Mar 2019,v Australia Dubai (DSC),474

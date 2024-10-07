@@ -1,0 +1,208 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Predict</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-image: url("{% static 'images/ABCD2.jpg' %}");
+            font-family: 'Arial', sans-serif;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            position: relative;
+        }
+
+        .main {
+            position: relative;
+            width: 80%;
+            max-width: 450px;
+            background-color: rgba(255, 255, 255, 0.9);
+            border-radius: 10px;
+            padding: 15px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+            text-align: center;
+        }
+
+        .home-link {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            display: block;
+            color: black;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 18px;
+        }
+
+        h1 {
+            color: #0086b3;
+            font-size: 25px;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+
+        table {
+            width: 100%;
+            margin-top: 10px;
+            text-align: left;
+        }
+
+        table tr {
+            margin: 5px;
+        }
+
+        table td {
+            padding: 8px;
+        }
+
+        table input {
+            padding: 8px;
+            width: 100%;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 14px;
+            font-weight: bold;
+        }
+
+        input[type="submit"],
+        input[type="reset"] {
+            background-color: #4caf50;
+            border: none;
+            color: white;
+            padding: 10px 20px;
+            cursor: pointer;
+            border-radius: 5px;
+            font-size: 16px;
+            width: 45%;
+        }
+
+        input[type="reset"] {
+            background-color: #ff6666;
+            margin-right: 5%;
+        }
+
+        .submit-btn {
+            text-align: center;
+            margin-top: 10px;
+        }
+
+        .result-container {
+            margin-top: 15px;
+        }
+
+        .result {
+            font-weight: bold;
+            padding: 12px;
+            background-color: white;
+            border-radius: 5px;
+            text-align: center;
+            color: black;
+            font-size: 18px;
+            border: 2px solid black;
+            display: inline-block;
+        }
+
+        @media only screen and (max-width: 600px) {
+            .main {
+                width: 90%;
+            }
+
+            input[type="submit"],
+            input[type="reset"] {
+                width: 100%;
+                margin-left: 0;
+                margin-top: 10px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="main">
+        <h1>ENTER THE FOLLOWING INFORMATION</h1>
+        <form id="predictionForm" action="result">
+            <table>
+                <tr>
+                    <td><b>Pregnancies:</b></td>
+                    <td> <input type="text" name="n1" id="n1"></td>
+                </tr>
+                <tr>
+                    <td><b>Glucose:</b></td>
+                    <td> <input type="text" name="n2" id="n2"></td>
+                </tr>
+                <tr>
+                    <td><b>Blood Pressure:</b></td>
+                    <td> <input type="text" name="n3" id="n3"></td>
+                </tr>
+                <tr>
+                    <td><b>Skin Thickness:</b></td>
+                    <td> <input type="text" name="n4" id="n4"></td>
+                </tr>
+                <tr>
+                    <td><b>Insulin:</b></td>
+                    <td> <input type="text" name="n5" id="n5"></td>
+                </tr>
+                <tr>
+                    <td><b>BMI:</b></td>
+                    <td> <input type="text" name="n6" id="n6"></td>
+                </tr>
+                <tr>
+                    <td><b>Diabetes Pedigree Function:</b></td>
+                    <td> <input type="text" name="n7" id="n7"></td>
+                </tr>
+                <tr>
+                    <td><b>Age:</b></td>
+                    <td> <input type="text" name="n8" id="n8"></td>
+                </tr>
+            </table>
+            <div class="submit-btn">
+                <input type="reset" value="Reset" onclick="resetResult()">
+                <input type="submit" value="Submit">
+            </div>
+        </form>
+        <div class="result-container">
+            <span id="result" class="result">Result: {{result2}}</span>
+        </div>
+    </div>
+
+    <a class="home-link" href="/">Home</a>
+
+    <script>
+        const formData = JSON.parse(localStorage.getItem('formData')) || {};
+
+        // Populate form with stored data
+        Object.keys(formData).forEach(key => {
+            const inputElement = document.getElementById(key);
+            if (inputElement) {
+                inputElement.value = formData[key];
+            }
+        });
+
+        // Save form data to localStorage when the form is submitted
+        document.getElementById('predictionForm').addEventListener('submit', function () {
+            const formInputs = this.getElementsByTagName('input');
+            Array.from(formInputs).forEach(input => {
+                formData[input.name] = input.value;
+            });
+            localStorage.setItem('formData', JSON.stringify(formData));
+        });
+
+        // Reset the result when the reset button is pressed
+        function resetResult() {
+            document.getElementById('result').innerText = 'Result:';
+        }
+    </script>
+
+</body>
+
+</html>
